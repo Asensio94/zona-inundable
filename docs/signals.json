@@ -1,0 +1,5391 @@
+{
+ "source": "zona-inundable",
+ "version": 1,
+ "generated": "2026-10-13T19:11Z",
+ "coverage": {
+  "label": "Comunitat Valenciana",
+  "sites": null,
+  "note": "Edificios del Catastro con fecha de construcción posterior a 2016 dentro de las zonas inundables del SNCZI (flujo preferente, T100 y T500). El año puede ser de una reforma."
+ },
+ "signals": [
+  {
+   "id": "FB-46181",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Oliva: 169 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46181",
+   "municipalities": [
+    "46181"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 169,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 18,
+    "t100": 119,
+    "t500": 32,
+    "reforma_aparente": 46,
+    "en_zona_total": 4175,
+    "al_anio_antes": 61.78,
+    "al_anio_despues": 19.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03902",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Pilar de la Horadada: 140 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03902",
+   "municipalities": [
+    "03902"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 140,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 37,
+    "t100": 80,
+    "t500": 23,
+    "reforma_aparente": 20,
+    "en_zona_total": 981,
+    "al_anio_antes": 6.44,
+    "al_anio_despues": 16.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46105",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Cullera: 135 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46105",
+   "municipalities": [
+    "46105"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 135,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 5,
+    "t100": 72,
+    "t500": 58,
+    "reforma_aparente": 70,
+    "en_zona_total": 2037,
+    "al_anio_antes": 34.11,
+    "al_anio_despues": 16.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46220",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Sagunt/Sagunto: 121 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46220",
+   "municipalities": [
+    "46220"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 121,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 121,
+    "reforma_aparente": 20,
+    "en_zona_total": 1260,
+    "al_anio_antes": 16.33,
+    "al_anio_despues": 14.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46029",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Algemesí: 106 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46029",
+   "municipalities": [
+    "46029"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 106,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 34,
+    "t100": 44,
+    "t500": 28,
+    "reforma_aparente": 52,
+    "en_zona_total": 1622,
+    "al_anio_antes": 22.56,
+    "al_anio_despues": 12.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46131",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Gandia: 88 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46131",
+   "municipalities": [
+    "46131"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 88,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 21,
+    "t100": 7,
+    "t500": 60,
+    "reforma_aparente": 49,
+    "en_zona_total": 2704,
+    "al_anio_antes": 18.67,
+    "al_anio_despues": 10.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12032",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Borriana/Burriana: 85 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12032",
+   "municipalities": [
+    "12032"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 85,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 12,
+    "t500": 73,
+    "reforma_aparente": 28,
+    "en_zona_total": 1770,
+    "al_anio_antes": 10.67,
+    "al_anio_despues": 9.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03064",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Dolores: 77 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03064",
+   "municipalities": [
+    "03064"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 77,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 77,
+    "reforma_aparente": 11,
+    "en_zona_total": 623,
+    "al_anio_antes": 11.0,
+    "al_anio_despues": 7.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46094",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Catarroja: 76 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46094",
+   "municipalities": [
+    "46094"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 76,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 76,
+    "reforma_aparente": 28,
+    "en_zona_total": 3626,
+    "al_anio_antes": 13.33,
+    "al_anio_despues": 9.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12028",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Benicàssim/Benicasim: 74 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12028",
+   "municipalities": [
+    "12028"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 74,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 26,
+    "t500": 46,
+    "reforma_aparente": 34,
+    "en_zona_total": 864,
+    "al_anio_antes": 7.33,
+    "al_anio_despues": 8.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03901",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "els Poblets: 68 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03901",
+   "municipalities": [
+    "03901"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 68,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 12,
+    "t100": 55,
+    "t500": 1,
+    "reforma_aparente": 34,
+    "en_zona_total": 1984,
+    "al_anio_antes": 12.0,
+    "al_anio_despues": 7.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46017",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Alzira: 59 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46017",
+   "municipalities": [
+    "46017"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 59,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 8,
+    "t100": 34,
+    "t500": 17,
+    "reforma_aparente": 16,
+    "en_zona_total": 3920,
+    "al_anio_antes": 24.22,
+    "al_anio_despues": 7.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46165",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Massanassa: 58 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46165",
+   "municipalities": [
+    "46165"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 58,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 57,
+    "reforma_aparente": 22,
+    "en_zona_total": 1953,
+    "al_anio_antes": 16.22,
+    "al_anio_despues": 6.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46007",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Albal: 58 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46007",
+   "municipalities": [
+    "46007"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 58,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 5,
+    "t500": 53,
+    "reforma_aparente": 7,
+    "en_zona_total": 639,
+    "al_anio_antes": 3.56,
+    "al_anio_despues": 6.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46025",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Alfara del Patriarca: 57 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46025",
+   "municipalities": [
+    "46025"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 57,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 57,
+    "t500": 0,
+    "reforma_aparente": 19,
+    "en_zona_total": 641,
+    "al_anio_antes": 4.78,
+    "al_anio_despues": 6.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46186",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Paiporta: 54 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46186",
+   "municipalities": [
+    "46186"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 54,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 54,
+    "reforma_aparente": 10,
+    "en_zona_total": 1212,
+    "al_anio_antes": 5.0,
+    "al_anio_despues": 5.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03138",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "el Verger: 53 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03138",
+   "municipalities": [
+    "03138"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 53,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 34,
+    "t500": 17,
+    "reforma_aparente": 21,
+    "en_zona_total": 1391,
+    "al_anio_antes": 6.22,
+    "al_anio_despues": 6.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03058",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Cox: 50 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03058",
+   "municipalities": [
+    "03058"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 50,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 33,
+    "t100": 9,
+    "t500": 8,
+    "reforma_aparente": 9,
+    "en_zona_total": 1626,
+    "al_anio_antes": 7.22,
+    "al_anio_despues": 5.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46207",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Rafelbunyol: 48 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46207",
+   "municipalities": [
+    "46207"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 48,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 27,
+    "t100": 15,
+    "t500": 6,
+    "reforma_aparente": 1,
+    "en_zona_total": 225,
+    "al_anio_antes": 3.89,
+    "al_anio_despues": 5.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12138",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Vinaròs: 46 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12138",
+   "municipalities": [
+    "12138"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 46,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 3,
+    "t100": 27,
+    "t500": 16,
+    "reforma_aparente": 18,
+    "en_zona_total": 2263,
+    "al_anio_antes": 11.78,
+    "al_anio_despues": 4.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46021",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Aldaia: 37 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46021",
+   "municipalities": [
+    "46021"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 37,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 20,
+    "t500": 17,
+    "reforma_aparente": 18,
+    "en_zona_total": 1238,
+    "al_anio_antes": 5.44,
+    "al_anio_despues": 3.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46022",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Alfafar: 34 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46022",
+   "municipalities": [
+    "46022"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 34,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 34,
+    "reforma_aparente": 7,
+    "en_zona_total": 335,
+    "al_anio_antes": 4.0,
+    "al_anio_despues": 4.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46019",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "l'Alcúdia: 33 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46019",
+   "municipalities": [
+    "46019"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 33,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 11,
+    "t100": 17,
+    "t500": 5,
+    "reforma_aparente": 3,
+    "en_zona_total": 394,
+    "al_anio_antes": 6.89,
+    "al_anio_despues": 3.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46083",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Carcaixent: 32 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46083",
+   "municipalities": [
+    "46083"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 32,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 23,
+    "t500": 8,
+    "reforma_aparente": 15,
+    "en_zona_total": 2619,
+    "al_anio_antes": 22.44,
+    "al_anio_despues": 4.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03023",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Beneixama: 31 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03023",
+   "municipalities": [
+    "03023"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 31,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 3,
+    "t100": 26,
+    "t500": 2,
+    "reforma_aparente": 8,
+    "en_zona_total": 313,
+    "al_anio_antes": 4.78,
+    "al_anio_despues": 3.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46238",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Tavernes de la Valldigna: 29 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46238",
+   "municipalities": [
+    "46238"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 29,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 9,
+    "t500": 19,
+    "reforma_aparente": 16,
+    "en_zona_total": 1034,
+    "al_anio_antes": 16.67,
+    "al_anio_despues": 3.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03082",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Xàbia/Jávea: 29 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03082",
+   "municipalities": [
+    "03082"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 29,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 19,
+    "t100": 10,
+    "t500": 0,
+    "reforma_aparente": 8,
+    "en_zona_total": 814,
+    "al_anio_antes": 6.11,
+    "al_anio_despues": 3.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03063",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Dénia: 27 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03063",
+   "municipalities": [
+    "03063"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 27,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 3,
+    "t100": 20,
+    "t500": 4,
+    "reforma_aparente": 10,
+    "en_zona_total": 2097,
+    "al_anio_antes": 6.22,
+    "al_anio_despues": 2.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46171",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Moncada: 27 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46171",
+   "municipalities": [
+    "46171"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 27,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 24,
+    "t500": 3,
+    "reforma_aparente": 8,
+    "en_zona_total": 1182,
+    "al_anio_antes": 6.0,
+    "al_anio_despues": 3.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46113",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Daimús: 27 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46113",
+   "municipalities": [
+    "46113"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 27,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 15,
+    "t100": 10,
+    "t500": 2,
+    "reforma_aparente": 2,
+    "en_zona_total": 599,
+    "al_anio_antes": 4.33,
+    "al_anio_despues": 3.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46205",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Puçol: 26 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46205",
+   "municipalities": [
+    "46205"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 26,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 3,
+    "t100": 17,
+    "t500": 6,
+    "reforma_aparente": 9,
+    "en_zona_total": 354,
+    "al_anio_antes": 7.11,
+    "al_anio_despues": 2.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03015",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Almoradí: 26 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03015",
+   "municipalities": [
+    "03015"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 26,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 26,
+    "reforma_aparente": 2,
+    "en_zona_total": 317,
+    "al_anio_antes": 6.44,
+    "al_anio_despues": 3.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03099",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Orihuela: 25 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03099",
+   "municipalities": [
+    "03099"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 25,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 8,
+    "t100": 11,
+    "t500": 6,
+    "reforma_aparente": 8,
+    "en_zona_total": 2602,
+    "al_anio_antes": 23.67,
+    "al_anio_despues": 2.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03014",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Alacant/Alicante: 25 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03014",
+   "municipalities": [
+    "03014"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 25,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 21,
+    "t500": 2,
+    "reforma_aparente": 7,
+    "en_zona_total": 511,
+    "al_anio_antes": 4.0,
+    "al_anio_despues": 3.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46082",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Canet d'En Berenguer: 25 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46082",
+   "municipalities": [
+    "46082"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 25,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 25,
+    "reforma_aparente": 12,
+    "en_zona_total": 411,
+    "al_anio_antes": 5.0,
+    "al_anio_despues": 3.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46214",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Riba-roja de Túria: 24 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46214",
+   "municipalities": [
+    "46214"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 24,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 7,
+    "t500": 15,
+    "reforma_aparente": 12,
+    "en_zona_total": 197,
+    "al_anio_antes": 1.0,
+    "al_anio_despues": 2.88,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46204",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "el Puig de Santa Maria: 23 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46204",
+   "municipalities": [
+    "46204"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 23,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 12,
+    "t500": 11,
+    "reforma_aparente": 3,
+    "en_zona_total": 489,
+    "al_anio_antes": 5.33,
+    "al_anio_despues": 2.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03062",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Daya Vieja: 21 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03062",
+   "municipalities": [
+    "03062"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 21,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 20,
+    "reforma_aparente": 1,
+    "en_zona_total": 93,
+    "al_anio_antes": 0.78,
+    "al_anio_despues": 2.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46031",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Alginet: 20 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46031",
+   "municipalities": [
+    "46031"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 20,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 0,
+    "t500": 18,
+    "reforma_aparente": 3,
+    "en_zona_total": 840,
+    "al_anio_antes": 6.78,
+    "al_anio_despues": 2.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03118",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "San Fulgencio: 20 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03118",
+   "municipalities": [
+    "03118"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 20,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 20,
+    "reforma_aparente": 10,
+    "en_zona_total": 253,
+    "al_anio_antes": 3.0,
+    "al_anio_despues": 2.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12089",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Peníscola/Peñíscola: 19 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12089",
+   "municipalities": [
+    "12089"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 19,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 4,
+    "t100": 14,
+    "t500": 1,
+    "reforma_aparente": 16,
+    "en_zona_total": 1063,
+    "al_anio_antes": 3.44,
+    "al_anio_despues": 2.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12040",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Castelló de la Plana: 18 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12040",
+   "municipalities": [
+    "12040"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 18,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 6,
+    "t500": 12,
+    "reforma_aparente": 7,
+    "en_zona_total": 2675,
+    "al_anio_antes": 9.11,
+    "al_anio_despues": 2.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46065",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Beniparrell: 18 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46065",
+   "municipalities": [
+    "46065"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 18,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 13,
+    "t500": 5,
+    "reforma_aparente": 9,
+    "en_zona_total": 826,
+    "al_anio_antes": 3.44,
+    "al_anio_despues": 2.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12009",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Almassora: 17 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12009",
+   "municipalities": [
+    "12009"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 17,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 0,
+    "t500": 15,
+    "reforma_aparente": 2,
+    "en_zona_total": 1259,
+    "al_anio_antes": 8.78,
+    "al_anio_despues": 1.88,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03095",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Ondara: 16 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03095",
+   "municipalities": [
+    "03095"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 16,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 8,
+    "t500": 6,
+    "reforma_aparente": 4,
+    "en_zona_total": 542,
+    "al_anio_antes": 4.33,
+    "al_anio_despues": 1.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03047",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Calp: 16 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03047",
+   "municipalities": [
+    "03047"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 16,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 5,
+    "t100": 6,
+    "t500": 5,
+    "reforma_aparente": 2,
+    "en_zona_total": 210,
+    "al_anio_antes": 0.89,
+    "al_anio_despues": 1.88,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46216",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Rocafort: 15 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46216",
+   "municipalities": [
+    "46216"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 15,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 15,
+    "t500": 0,
+    "reforma_aparente": 2,
+    "en_zona_total": 283,
+    "al_anio_antes": 2.56,
+    "al_anio_despues": 1.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46177",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Museros: 14 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46177",
+   "municipalities": [
+    "46177"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 14,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 6,
+    "t100": 3,
+    "t500": 5,
+    "reforma_aparente": 2,
+    "en_zona_total": 125,
+    "al_anio_antes": 3.67,
+    "al_anio_despues": 1.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46164",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Massamagrell: 14 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46164",
+   "municipalities": [
+    "46164"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 14,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 3,
+    "t100": 6,
+    "t500": 5,
+    "reforma_aparente": 1,
+    "en_zona_total": 104,
+    "al_anio_antes": 2.44,
+    "al_anio_despues": 1.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12077",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Moncofa: 13 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12077",
+   "municipalities": [
+    "12077"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 13,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 10,
+    "t500": 3,
+    "reforma_aparente": 2,
+    "en_zona_total": 547,
+    "al_anio_antes": 5.67,
+    "al_anio_despues": 1.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46168",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Miramar: 13 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46168",
+   "municipalities": [
+    "46168"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 13,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 4,
+    "t500": 9,
+    "reforma_aparente": 1,
+    "en_zona_total": 421,
+    "al_anio_antes": 2.44,
+    "al_anio_despues": 1.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46048",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Bellreguard: 13 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46048",
+   "municipalities": [
+    "46048"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 13,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 11,
+    "t500": 2,
+    "reforma_aparente": 3,
+    "en_zona_total": 393,
+    "al_anio_antes": 2.78,
+    "al_anio_despues": 1.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03005",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Albatera: 13 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03005",
+   "municipalities": [
+    "03005"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 13,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 4,
+    "t100": 6,
+    "t500": 3,
+    "reforma_aparente": 2,
+    "en_zona_total": 65,
+    "al_anio_antes": 1.67,
+    "al_anio_despues": 1.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46110",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Xirivella: 12 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46110",
+   "municipalities": [
+    "46110"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 12,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 4,
+    "t500": 8,
+    "reforma_aparente": 5,
+    "en_zona_total": 438,
+    "al_anio_antes": 4.78,
+    "al_anio_despues": 1.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03070",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Formentera del Segura: 12 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03070",
+   "municipalities": [
+    "03070"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 12,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 3,
+    "t100": 2,
+    "t500": 7,
+    "reforma_aparente": 2,
+    "en_zona_total": 399,
+    "al_anio_antes": 4.33,
+    "al_anio_despues": 1.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46135",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Godella: 12 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46135",
+   "municipalities": [
+    "46135"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 12,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 12,
+    "t500": 0,
+    "reforma_aparente": 7,
+    "en_zona_total": 247,
+    "al_anio_antes": 1.78,
+    "al_anio_despues": 1.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46233",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Sollana: 11 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46233",
+   "municipalities": [
+    "46233"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 11,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 4,
+    "t500": 7,
+    "reforma_aparente": 5,
+    "en_zona_total": 263,
+    "al_anio_antes": 1.33,
+    "al_anio_despues": 1.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46199",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "la Pobla de Farnals: 11 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46199",
+   "municipalities": [
+    "46199"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 11,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 6,
+    "t500": 4,
+    "reforma_aparente": 5,
+    "en_zona_total": 194,
+    "al_anio_antes": 2.33,
+    "al_anio_despues": 1.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03055",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Catral: 11 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03055",
+   "municipalities": [
+    "03055"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 11,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 4,
+    "t500": 7,
+    "reforma_aparente": 2,
+    "en_zona_total": 183,
+    "al_anio_antes": 5.33,
+    "al_anio_despues": 1.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03049",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Callosa de Segura: 11 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03049",
+   "municipalities": [
+    "03049"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 11,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 10,
+    "reforma_aparente": 0,
+    "en_zona_total": 153,
+    "al_anio_antes": 1.33,
+    "al_anio_despues": 1.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46125",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Fortaleny: 11 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46125",
+   "municipalities": [
+    "46125"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 11,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 9,
+    "t500": 2,
+    "reforma_aparente": 6,
+    "en_zona_total": 100,
+    "al_anio_antes": 2.56,
+    "al_anio_despues": 1.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46249",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Utiel: 10 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46249",
+   "municipalities": [
+    "46249"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 10,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 0,
+    "t500": 8,
+    "reforma_aparente": 3,
+    "en_zona_total": 625,
+    "al_anio_antes": 2.33,
+    "al_anio_despues": 1.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03061",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Daya Nueva: 10 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03061",
+   "municipalities": [
+    "03061"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 10,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 10,
+    "reforma_aparente": 4,
+    "en_zona_total": 82,
+    "al_anio_antes": 2.0,
+    "al_anio_despues": 1.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03105",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "el Pinós/Pinoso: 9 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03105",
+   "municipalities": [
+    "03105"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 9,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 3,
+    "t500": 4,
+    "reforma_aparente": 2,
+    "en_zona_total": 1142,
+    "al_anio_antes": 4.78,
+    "al_anio_despues": 1.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46143",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Xeraco: 9 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46143",
+   "municipalities": [
+    "46143"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 9,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 9,
+    "reforma_aparente": 6,
+    "en_zona_total": 372,
+    "al_anio_antes": 2.89,
+    "al_anio_despues": 1.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03113",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Rojales: 9 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03113",
+   "municipalities": [
+    "03113"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 9,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 9,
+    "reforma_aparente": 0,
+    "en_zona_total": 118,
+    "al_anio_antes": 1.33,
+    "al_anio_despues": 1.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46046",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Barx: 9 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46046",
+   "municipalities": [
+    "46046"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 9,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 6,
+    "t500": 1,
+    "reforma_aparente": 4,
+    "en_zona_total": 114,
+    "al_anio_antes": 2.33,
+    "al_anio_despues": 1.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46250",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "València: 8 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46250",
+   "municipalities": [
+    "46250"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 8,
+    "t500": 0,
+    "reforma_aparente": 2,
+    "en_zona_total": 691,
+    "al_anio_antes": 4.44,
+    "al_anio_despues": 0.88,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03101",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Pedreguer: 8 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03101",
+   "municipalities": [
+    "03101"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 7,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 318,
+    "al_anio_antes": 2.22,
+    "al_anio_despues": 1.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03079",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Ibi: 8 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03079",
+   "municipalities": [
+    "03079"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 5,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 178,
+    "al_anio_antes": 1.33,
+    "al_anio_despues": 0.88,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46005",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Alaquàs: 8 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46005",
+   "municipalities": [
+    "46005"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 7,
+    "reforma_aparente": 2,
+    "en_zona_total": 124,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 1.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46163",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Massalfassar: 8 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46163",
+   "municipalities": [
+    "46163"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 7,
+    "t500": 1,
+    "reforma_aparente": 2,
+    "en_zona_total": 62,
+    "al_anio_antes": 1.44,
+    "al_anio_despues": 0.88,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46085",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Carlet: 7 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46085",
+   "municipalities": [
+    "46085"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 7,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 7,
+    "reforma_aparente": 0,
+    "en_zona_total": 84,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.88,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03065",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Elx/Elche: 6 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03065",
+   "municipalities": [
+    "03065"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 6,
+    "reforma_aparente": 1,
+    "en_zona_total": 1047,
+    "al_anio_antes": 6.33,
+    "al_anio_despues": 0.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12027",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Benicarló: 6 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12027",
+   "municipalities": [
+    "12027"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 6,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 649,
+    "al_anio_antes": 2.78,
+    "al_anio_despues": 0.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12082",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Nules: 6 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12082",
+   "municipalities": [
+    "12082"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 4,
+    "t500": 2,
+    "reforma_aparente": 4,
+    "en_zona_total": 632,
+    "al_anio_antes": 6.78,
+    "al_anio_despues": 0.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46146",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Xeresa: 6 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46146",
+   "municipalities": [
+    "46146"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 6,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 213,
+    "al_anio_antes": 2.78,
+    "al_anio_despues": 0.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03019",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Aspe: 6 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03019",
+   "municipalities": [
+    "03019"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 3,
+    "t500": 3,
+    "reforma_aparente": 3,
+    "en_zona_total": 208,
+    "al_anio_antes": 4.44,
+    "al_anio_despues": 0.75,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46209",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Rafelguaraf: 6 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46209",
+   "municipalities": [
+    "46209"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 5,
+    "t500": 0,
+    "reforma_aparente": 2,
+    "en_zona_total": 86,
+    "al_anio_antes": 3.33,
+    "al_anio_despues": 0.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03111",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Redován: 5 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03111",
+   "municipalities": [
+    "03111"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 4,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 2,
+    "en_zona_total": 269,
+    "al_anio_antes": 0.78,
+    "al_anio_despues": 0.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46035",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Almussafes: 5 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46035",
+   "municipalities": [
+    "46035"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 4,
+    "reforma_aparente": 3,
+    "en_zona_total": 179,
+    "al_anio_antes": 1.11,
+    "al_anio_despues": 0.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03102",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Pego: 5 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03102",
+   "municipalities": [
+    "03102"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 4,
+    "t500": 0,
+    "reforma_aparente": 3,
+    "en_zona_total": 142,
+    "al_anio_antes": 0.78,
+    "al_anio_despues": 0.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03059",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Crevillent: 5 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03059",
+   "municipalities": [
+    "03059"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 4,
+    "t500": 1,
+    "reforma_aparente": 3,
+    "en_zona_total": 111,
+    "al_anio_antes": 1.33,
+    "al_anio_despues": 0.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12135",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Vila-real: 5 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12135",
+   "municipalities": [
+    "12135"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 5,
+    "reforma_aparente": 1,
+    "en_zona_total": 44,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03056",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Cocentaina: 5 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03056",
+   "municipalities": [
+    "03056"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 4,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 43,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.62,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46195",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Piles: 4 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46195",
+   "municipalities": [
+    "46195"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 4,
+    "reforma_aparente": 3,
+    "en_zona_total": 351,
+    "al_anio_antes": 5.56,
+    "al_anio_despues": 0.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46235",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Sueca: 4 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46235",
+   "municipalities": [
+    "46235"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 3,
+    "reforma_aparente": 3,
+    "en_zona_total": 310,
+    "al_anio_antes": 6.89,
+    "al_anio_despues": 0.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03096",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Onil: 4 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03096",
+   "municipalities": [
+    "03096"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 3,
+    "t500": 1,
+    "reforma_aparente": 2,
+    "en_zona_total": 265,
+    "al_anio_antes": 3.33,
+    "al_anio_despues": 0.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46139",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Guadassuar: 4 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46139",
+   "municipalities": [
+    "46139"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 2,
+    "t500": 2,
+    "reforma_aparente": 0,
+    "en_zona_total": 236,
+    "al_anio_antes": 3.89,
+    "al_anio_despues": 0.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46102",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Quart de Poblet: 4 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46102",
+   "municipalities": [
+    "46102"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 2,
+    "t500": 2,
+    "reforma_aparente": 2,
+    "en_zona_total": 228,
+    "al_anio_antes": 1.56,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12085",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Orpesa/Oropesa del Mar: 4 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12085",
+   "municipalities": [
+    "12085"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 4,
+    "reforma_aparente": 0,
+    "en_zona_total": 207,
+    "al_anio_antes": 1.56,
+    "al_anio_despues": 0.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46103",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Quartell: 4 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46103",
+   "municipalities": [
+    "46103"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 4,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 69,
+    "al_anio_antes": 2.11,
+    "al_anio_despues": 0.5,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46051",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Benaguasil: 4 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46051",
+   "municipalities": [
+    "46051"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 4,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 38,
+    "al_anio_antes": 1.11,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46197",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Polinyà de Xúquer: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46197",
+   "municipalities": [
+    "46197"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 2,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 726,
+    "al_anio_antes": 9.67,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46008",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Albalat de la Ribera: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46008",
+   "municipalities": [
+    "46008"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 3,
+    "reforma_aparente": 0,
+    "en_zona_total": 333,
+    "al_anio_antes": 3.56,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46203",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "la Pobla Llarga: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46203",
+   "municipalities": [
+    "46203"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 2,
+    "en_zona_total": 281,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03011",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "l'Alfàs del Pi: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03011",
+   "municipalities": [
+    "03011"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 3,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 243,
+    "al_anio_antes": 2.33,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12004",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Alcalà de Xivert: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12004",
+   "municipalities": [
+    "12004"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 2,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 162,
+    "al_anio_antes": 2.0,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46116",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "l'Eliana: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46116",
+   "municipalities": [
+    "46116"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 0,
+    "t500": 2,
+    "reforma_aparente": 1,
+    "en_zona_total": 98,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46159",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Manises: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46159",
+   "municipalities": [
+    "46159"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 3,
+    "t500": 0,
+    "reforma_aparente": 3,
+    "en_zona_total": 70,
+    "al_anio_antes": 1.33,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46084",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Càrcer: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46084",
+   "municipalities": [
+    "46084"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 3,
+    "reforma_aparente": 0,
+    "en_zona_total": 60,
+    "al_anio_antes": 1.11,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03093",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Novelda: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03093",
+   "municipalities": [
+    "03093"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 2,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 33,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12126",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "la Vall d'Uixó: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12126",
+   "municipalities": [
+    "12126"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 2,
+    "reforma_aparente": 3,
+    "en_zona_total": 10,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46014",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Albuixech: 3 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46014",
+   "municipalities": [
+    "46014"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 3,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 10,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.38,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03140",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Villena: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03140",
+   "municipalities": [
+    "03140"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 2,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 288,
+    "al_anio_antes": 2.56,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03121",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Santa Pola: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03121",
+   "municipalities": [
+    "03121"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 2,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 273,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46257",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Castelló: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46257",
+   "municipalities": [
+    "46257"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 2,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 261,
+    "al_anio_antes": 2.78,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46060",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Benifaió: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46060",
+   "municipalities": [
+    "46060"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 230,
+    "al_anio_antes": 1.0,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46904",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Benicull de Xúquer: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46904",
+   "municipalities": [
+    "46904"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 2,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 165,
+    "al_anio_antes": 1.67,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46098",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Corbera: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46098",
+   "municipalities": [
+    "46098"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 142,
+    "al_anio_antes": 5.67,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46111",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Chiva: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46111",
+   "municipalities": [
+    "46111"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 1,
+    "reforma_aparente": 2,
+    "en_zona_total": 115,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46070",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Bétera: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46070",
+   "municipalities": [
+    "46070"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 2,
+    "reforma_aparente": 0,
+    "en_zona_total": 58,
+    "al_anio_antes": 1.0,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03128",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Teulada: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03128",
+   "municipalities": [
+    "03128"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 2,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 54,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12100",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Sant Mateu: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12100",
+   "municipalities": [
+    "12100"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 47,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46072",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Bocairent: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46072",
+   "municipalities": [
+    "46072"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 1,
+    "reforma_aparente": 2,
+    "en_zona_total": 31,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03074",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Granja de Rocamora: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03074",
+   "municipalities": [
+    "03074"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 2,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 26,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12071",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Jérica: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12071",
+   "municipalities": [
+    "12071"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 2,
+    "reforma_aparente": 2,
+    "en_zona_total": 23,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46100",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Cotes: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46100",
+   "municipalities": [
+    "46100"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 2,
+    "reforma_aparente": 0,
+    "en_zona_total": 18,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12053",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Chilches/Xilxes: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12053",
+   "municipalities": [
+    "12053"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 17,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46053",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Beneixida: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46053",
+   "municipalities": [
+    "46053"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 2,
+    "reforma_aparente": 0,
+    "en_zona_total": 15,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12139",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Vistabella del Maestrat: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12139",
+   "municipalities": [
+    "12139"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 2,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 2,
+    "en_zona_total": 11,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46183",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "l'Olleria: 2 edificios en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46183",
+   "municipalities": [
+    "46183"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 2,
+    "reforma_aparente": 0,
+    "en_zona_total": 10,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.25,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46231",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Simat de la Valldigna: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46231",
+   "municipalities": [
+    "46231"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 170,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03018",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Altea: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03018",
+   "municipalities": [
+    "03018"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 154,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12105",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Sierra Engarcerán: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12105",
+   "municipalities": [
+    "12105"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 121,
+    "al_anio_antes": 1.44,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46054",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Benetússer: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46054",
+   "municipalities": [
+    "46054"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 104,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12042",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Catí: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12042",
+   "municipalities": [
+    "12042"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 97,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46213",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Requena: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46213",
+   "municipalities": [
+    "46213"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 91,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03076",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Guardamar del Segura: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03076",
+   "municipalities": [
+    "03076"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 89,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03024",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Benejúzar: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03024",
+   "municipalities": [
+    "03024"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 85,
+    "al_anio_antes": 0.89,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03081",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Xaló: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03081",
+   "municipalities": [
+    "03081"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 81,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03069",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Finestrat: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03069",
+   "municipalities": [
+    "03069"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 61,
+    "al_anio_antes": 0.78,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46140",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Guardamar de la Safor: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46140",
+   "municipalities": [
+    "46140"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 61,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03044",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Bigastro: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03044",
+   "municipalities": [
+    "03044"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 59,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12050",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "les Coves de Vinromà: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12050",
+   "municipalities": [
+    "12050"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 48,
+    "al_anio_antes": 0.78,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12001",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Atzeneta del Maestrat: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12001",
+   "municipalities": [
+    "12001"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 46,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46190",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Paterna: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46190",
+   "municipalities": [
+    "46190"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 44,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46176",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Montroi/Montroy: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46176",
+   "municipalities": [
+    "46176"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 43,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46142",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Jalance: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46142",
+   "municipalities": [
+    "46142"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 42,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46109",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Cheste: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46109",
+   "municipalities": [
+    "46109"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 41,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46242",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Torrebaja: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46242",
+   "municipalities": [
+    "46242"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 39,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12901",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "les Alqueries/Alquerías del Niño Perdido: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12901",
+   "municipalities": [
+    "12901"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 35,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46001",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Ademuz: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46001",
+   "municipalities": [
+    "46001"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 33,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03053",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Castalla: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03053",
+   "municipalities": [
+    "03053"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 32,
+    "al_anio_antes": 1.11,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46157",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "la Llosa de Ranes: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46157",
+   "municipalities": [
+    "46157"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 29,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-03031",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Benidorm: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-03031",
+   "municipalities": [
+    "03031"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 26,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46147",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Llíria: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46147",
+   "municipalities": [
+    "46147"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 26,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12128",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Vilafamés: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12128",
+   "municipalities": [
+    "12128"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 24,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46132",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "el Genovés: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46132",
+   "municipalities": [
+    "46132"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 24,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46178",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Nàquera/Náquera: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46178",
+   "municipalities": [
+    "46178"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 24,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46011",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Alberic: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46011",
+   "municipalities": [
+    "46011"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 21,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46170",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Moixent/Mogente: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46170",
+   "municipalities": [
+    "46170"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 21,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46244",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Torrent: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46244",
+   "municipalities": [
+    "46244"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 19,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46045",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Barxeta: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46045",
+   "municipalities": [
+    "46045"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 16,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46015",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Alcàsser: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46015",
+   "municipalities": [
+    "46015"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 13,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46155",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Llaurí: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46155",
+   "municipalities": [
+    "46155"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 1,
+    "t500": 0,
+    "reforma_aparente": 1,
+    "en_zona_total": 13,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12029",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Benlloc: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12029",
+   "municipalities": [
+    "12029"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 1,
+    "t100": 0,
+    "t500": 0,
+    "reforma_aparente": 0,
+    "en_zona_total": 11,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46239",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Teresa de Cofrentes: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46239",
+   "municipalities": [
+    "46239"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 8,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-12092",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Puebla de Arenoso: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-12092",
+   "municipalities": [
+    "12092"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 3,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46223",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Sedaví: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46223",
+   "municipalities": [
+    "46223"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 3,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46129",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Fuenterrobles: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46129",
+   "municipalities": [
+    "46129"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 2,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46193",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Picanya: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46193",
+   "municipalities": [
+    "46193"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 1,
+    "en_zona_total": 1,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  },
+  {
+   "id": "FB-46219",
+   "kind": "flood_building",
+   "date": "2026-08-21",
+   "title": "Rugat: 1 edificio en zona inundable con fecha de 2017 o posterior",
+   "url": "https://asensio94.github.io/zona-inundable/#m-46219",
+   "municipalities": [
+    "46219"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "zfp": 0,
+    "t100": 0,
+    "t500": 1,
+    "reforma_aparente": 0,
+    "en_zona_total": 1,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.12,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2024
+    ]
+   }
+  }
+ ]
+}

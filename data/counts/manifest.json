@@ -1,0 +1,4025 @@
+{
+ "03001": {
+  "name": "L ATZUBIA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03001",
+  "buildings": 709,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "03002": {
+  "name": "AGOST",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03002",
+  "buildings": 2389,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "03005": {
+  "name": "ALBATERA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03005",
+  "buildings": 3948,
+  "unknown_year": 47,
+  "zones": "3-c50785192f08de12"
+ },
+ "03006": {
+  "name": "ALCALALI",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03006",
+  "buildings": 1115,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "03007": {
+  "name": "ALCOCER DE PLANES",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": null,
+  "buildings": 274,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "03009": {
+  "name": "ALCOY ALCOI",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03009",
+  "buildings": 7076,
+  "unknown_year": 47,
+  "zones": "3-c50785192f08de12"
+ },
+ "03010": {
+  "name": "ALFAFARA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03010",
+  "buildings": 377,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03011": {
+  "name": "L ALFAS DEL PI",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03011",
+  "buildings": 4930,
+  "unknown_year": 48,
+  "zones": "3-c50785192f08de12"
+ },
+ "03012": {
+  "name": "ALGORFA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03012",
+  "buildings": 928,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "03013": {
+  "name": "ALGUEÑA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03013",
+  "buildings": 1197,
+  "unknown_year": 19,
+  "zones": "3-c50785192f08de12"
+ },
+ "03015": {
+  "name": "ALMORADI",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03015",
+  "buildings": 4736,
+  "unknown_year": 15,
+  "zones": "3-c50785192f08de12"
+ },
+ "03017": {
+  "name": "L ALQUERIA D ASNAR",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": null,
+  "buildings": 255,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "03018": {
+  "name": "ALTEA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03018",
+  "buildings": 6080,
+  "unknown_year": 19,
+  "zones": "3-c50785192f08de12"
+ },
+ "03019": {
+  "name": "ASPE",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03019",
+  "buildings": 7583,
+  "unknown_year": 10,
+  "zones": "3-c50785192f08de12"
+ },
+ "03021": {
+  "name": "BANYERES DE MARIOLA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03021",
+  "buildings": 2670,
+  "unknown_year": 14,
+  "zones": "3-c50785192f08de12"
+ },
+ "03023": {
+  "name": "BENEIXAMA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03023",
+  "buildings": 1611,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "03024": {
+  "name": "BENEJUZAR",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03024",
+  "buildings": 1986,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "03025": {
+  "name": "BENFERRI",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03025",
+  "buildings": 1023,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "03026": {
+  "name": "BENIARBEIG",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03026",
+  "buildings": 862,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "03028": {
+  "name": "BENIARRES",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03028",
+  "buildings": 849,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "03029": {
+  "name": "BENIGEMBLA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03029",
+  "buildings": 526,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "03031": {
+  "name": "BENIDORM",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03031",
+  "buildings": 3713,
+  "unknown_year": 47,
+  "zones": "3-c50785192f08de12"
+ },
+ "03034": {
+  "name": "BENIJOFAR",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03034",
+  "buildings": 1391,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "03035": {
+  "name": "BENILLOBA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03035",
+  "buildings": 637,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03038": {
+  "name": "BENIMARFULL",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03038",
+  "buildings": 453,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03041": {
+  "name": "BENISSA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03041",
+  "buildings": 8163,
+  "unknown_year": 41,
+  "zones": "3-c50785192f08de12"
+ },
+ "03042": {
+  "name": "BENITACHELL EL POBLE NOU DE BE",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03042",
+  "buildings": 3718,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "03043": {
+  "name": "BIAR",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03043",
+  "buildings": 2294,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "03044": {
+  "name": "BIGASTRO",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03044",
+  "buildings": 1660,
+  "unknown_year": 12,
+  "zones": "3-c50785192f08de12"
+ },
+ "03045": {
+  "name": "BOLULLA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03045",
+  "buildings": 411,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "03047": {
+  "name": "CALP",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03047",
+  "buildings": 7264,
+  "unknown_year": 34,
+  "zones": "3-c50785192f08de12"
+ },
+ "03048": {
+  "name": "CALLOSA D EN SARRIA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03048",
+  "buildings": 3098,
+  "unknown_year": 34,
+  "zones": "3-c50785192f08de12"
+ },
+ "03049": {
+  "name": "CALLOSA DE SEGURA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03049",
+  "buildings": 5056,
+  "unknown_year": 26,
+  "zones": "3-c50785192f08de12"
+ },
+ "03050": {
+  "name": "EL CAMPELLO",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03050",
+  "buildings": 5643,
+  "unknown_year": 24,
+  "zones": "3-c50785192f08de12"
+ },
+ "03051": {
+  "name": "CAMPO DE MIRRA EL CAMP DE MIRR",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03051",
+  "buildings": 392,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03053": {
+  "name": "CASTALLA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03053",
+  "buildings": 4741,
+  "unknown_year": 30,
+  "zones": "3-c50785192f08de12"
+ },
+ "03054": {
+  "name": "CASTELL DE CASTELLS",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03054",
+  "buildings": 670,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "03055": {
+  "name": "CATRAL",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03055",
+  "buildings": 2576,
+  "unknown_year": 11,
+  "zones": "3-c50785192f08de12"
+ },
+ "03056": {
+  "name": "COCENTAINA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03056",
+  "buildings": 4542,
+  "unknown_year": 46,
+  "zones": "3-c50785192f08de12"
+ },
+ "03058": {
+  "name": "COX",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03058",
+  "buildings": 3032,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "03059": {
+  "name": "CREVILLENT",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03059",
+  "buildings": 8069,
+  "unknown_year": 81,
+  "zones": "3-c50785192f08de12"
+ },
+ "03061": {
+  "name": "DAYA NUEVA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03061",
+  "buildings": 776,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "03062": {
+  "name": "DAYA VIEJA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03062",
+  "buildings": 273,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "03063": {
+  "name": "DENIA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03063",
+  "buildings": 12827,
+  "unknown_year": 128,
+  "zones": "3-c50785192f08de12"
+ },
+ "03064": {
+  "name": "DOLORES",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03064",
+  "buildings": 3027,
+  "unknown_year": 11,
+  "zones": "3-c50785192f08de12"
+ },
+ "03065": {
+  "name": "ELCHE ELX",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03065",
+  "buildings": 31806,
+  "unknown_year": 115,
+  "zones": "3-c50785192f08de12"
+ },
+ "03066": {
+  "name": "ELDA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03066",
+  "buildings": 7825,
+  "unknown_year": 23,
+  "zones": "3-c50785192f08de12"
+ },
+ "03069": {
+  "name": "FINESTRAT",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03069",
+  "buildings": 2327,
+  "unknown_year": 10,
+  "zones": "3-c50785192f08de12"
+ },
+ "03070": {
+  "name": "FORMENTERA DEL SEGURA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03070",
+  "buildings": 1170,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "03071": {
+  "name": "GATA DE GORGOS",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03071",
+  "buildings": 2754,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "03072": {
+  "name": "GAIANES",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03072",
+  "buildings": 534,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "03073": {
+  "name": "GORGA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03073",
+  "buildings": 293,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03074": {
+  "name": "GRANJA DE ROCAMORA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03074",
+  "buildings": 903,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "03075": {
+  "name": "EL CASTELL DE GUADALEST",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03075",
+  "buildings": 246,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03076": {
+  "name": "GUARDAMAR DEL SEGURA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03076",
+  "buildings": 4373,
+  "unknown_year": 22,
+  "zones": "3-c50785192f08de12"
+ },
+ "03077": {
+  "name": "EL FONDO DE LES NEUS HONDON DE",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03077",
+  "buildings": 2723,
+  "unknown_year": 17,
+  "zones": "3-c50785192f08de12"
+ },
+ "03079": {
+  "name": "IBI",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03079",
+  "buildings": 5387,
+  "unknown_year": 52,
+  "zones": "3-c50785192f08de12"
+ },
+ "03080": {
+  "name": "JACARILLA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03080",
+  "buildings": 967,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "03081": {
+  "name": "XALO",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03081",
+  "buildings": 1933,
+  "unknown_year": 14,
+  "zones": "3-c50785192f08de12"
+ },
+ "03082": {
+  "name": "JAVEA XABIA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03082",
+  "buildings": 14369,
+  "unknown_year": 78,
+  "zones": "3-c50785192f08de12"
+ },
+ "03083": {
+  "name": "JIJONA XIXONA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03083",
+  "buildings": 2681,
+  "unknown_year": 13,
+  "zones": "3-c50785192f08de12"
+ },
+ "03084": {
+  "name": "LORCHA L ORXA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03084",
+  "buildings": 614,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "03085": {
+  "name": "LLIBER",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03085",
+  "buildings": 724,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "03086": {
+  "name": "MILLENA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03086",
+  "buildings": 257,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03088": {
+  "name": "MONFORTE DEL CID",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03088",
+  "buildings": 3636,
+  "unknown_year": 11,
+  "zones": "3-c50785192f08de12"
+ },
+ "03089": {
+  "name": "MONOVAR MONOVER",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03089",
+  "buildings": 5509,
+  "unknown_year": 76,
+  "zones": "3-c50785192f08de12"
+ },
+ "03090": {
+  "name": "MUTXAMEL",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03090",
+  "buildings": 5177,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "03091": {
+  "name": "MURLA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03091",
+  "buildings": 523,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03092": {
+  "name": "MURO DE ALCOY",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03092",
+  "buildings": 3359,
+  "unknown_year": 13,
+  "zones": "3-c50785192f08de12"
+ },
+ "03093": {
+  "name": "NOVELDA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03093",
+  "buildings": 7735,
+  "unknown_year": 72,
+  "zones": "3-c50785192f08de12"
+ },
+ "03094": {
+  "name": "LA NUCIA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03094",
+  "buildings": 5088,
+  "unknown_year": 22,
+  "zones": "3-c50785192f08de12"
+ },
+ "03095": {
+  "name": "ONDARA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03095",
+  "buildings": 2308,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "03096": {
+  "name": "ONIL",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03096",
+  "buildings": 2578,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "03097": {
+  "name": "ORBA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03097",
+  "buildings": 1748,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "03098": {
+  "name": "ORXETA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03098",
+  "buildings": 690,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03099": {
+  "name": "ORIHUELA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03099",
+  "buildings": 23371,
+  "unknown_year": 166,
+  "zones": "3-c50785192f08de12"
+ },
+ "03100": {
+  "name": "PARCENT",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03100",
+  "buildings": 845,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "03101": {
+  "name": "PEDREGUER",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03101",
+  "buildings": 4852,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "03102": {
+  "name": "PEGO",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03102",
+  "buildings": 5426,
+  "unknown_year": 133,
+  "zones": "3-c50785192f08de12"
+ },
+ "03103": {
+  "name": "PENAGUILA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03103",
+  "buildings": 519,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "03104": {
+  "name": "PETRER",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03104",
+  "buildings": 6237,
+  "unknown_year": 40,
+  "zones": "3-c50785192f08de12"
+ },
+ "03105": {
+  "name": "EL PINOS PINOSO",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03105",
+  "buildings": 4360,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "03106": {
+  "name": "PLANES",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03106",
+  "buildings": 839,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "03107": {
+  "name": "POLOP",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03107",
+  "buildings": 1628,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "03109": {
+  "name": "RAFAL",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": null,
+  "buildings": 977,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "03110": {
+  "name": "EL RAFOL D ALMUNIA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03110",
+  "buildings": 707,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "03111": {
+  "name": "REDOVAN",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03111",
+  "buildings": 2121,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "03113": {
+  "name": "ROJALES",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03113",
+  "buildings": 7031,
+  "unknown_year": 37,
+  "zones": "3-c50785192f08de12"
+ },
+ "03114": {
+  "name": "LA ROMANA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03114",
+  "buildings": 2021,
+  "unknown_year": 12,
+  "zones": "3-c50785192f08de12"
+ },
+ "03115": {
+  "name": "SAGRA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03115",
+  "buildings": 388,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "03118": {
+  "name": "SAN FULGENCIO",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03118",
+  "buildings": 8009,
+  "unknown_year": 10,
+  "zones": "3-c50785192f08de12"
+ },
+ "03119": {
+  "name": "SANT JOAN D ALACANT",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03119",
+  "buildings": 2796,
+  "unknown_year": 20,
+  "zones": "3-c50785192f08de12"
+ },
+ "03120": {
+  "name": "SAN MIGUEL DE SALINAS",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03120",
+  "buildings": 3057,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03121": {
+  "name": "SANTA POLA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03121",
+  "buildings": 8255,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "03122": {
+  "name": "SAN VICENTE DEL RASPEIG SANT V",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03122",
+  "buildings": 8894,
+  "unknown_year": 63,
+  "zones": "3-c50785192f08de12"
+ },
+ "03123": {
+  "name": "SAX",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03123",
+  "buildings": 4044,
+  "unknown_year": 14,
+  "zones": "3-c50785192f08de12"
+ },
+ "03126": {
+  "name": "ELS POBLETS",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03901",
+  "buildings": 2344,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "03128": {
+  "name": "TEULADA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03128",
+  "buildings": 8995,
+  "unknown_year": 58,
+  "zones": "3-c50785192f08de12"
+ },
+ "03129": {
+  "name": "TIBI",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03129",
+  "buildings": 1802,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "03131": {
+  "name": "TORMOS",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03131",
+  "buildings": 345,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "03133": {
+  "name": "TORREVIEJA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03133",
+  "buildings": 17962,
+  "unknown_year": 65,
+  "zones": "3-c50785192f08de12"
+ },
+ "03134": {
+  "name": "LA VALL D ALCALA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03134",
+  "buildings": 262,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "03135": {
+  "name": "LA VALL D EBO",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03135",
+  "buildings": 463,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "03137": {
+  "name": "LA VALL DE LAGUAR",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03137",
+  "buildings": 851,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "03138": {
+  "name": "EL VERGER",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03138",
+  "buildings": 1464,
+  "unknown_year": 14,
+  "zones": "3-c50785192f08de12"
+ },
+ "03139": {
+  "name": "VILLAJOYOSA LA VILA JOIOSA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03139",
+  "buildings": 4763,
+  "unknown_year": 42,
+  "zones": "3-c50785192f08de12"
+ },
+ "03140": {
+  "name": "VILLENA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03140",
+  "buildings": 8442,
+  "unknown_year": 36,
+  "zones": "3-c50785192f08de12"
+ },
+ "03142": {
+  "name": "PILAR DE LA HORADADA",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03902",
+  "buildings": 7423,
+  "unknown_year": 16,
+  "zones": "3-c50785192f08de12"
+ },
+ "03143": {
+  "name": "SAN ISIDRO",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03904",
+  "buildings": 726,
+  "unknown_year": 16,
+  "zones": "3-c50785192f08de12"
+ },
+ "03900": {
+  "name": "ALICANTE ALACANT",
+  "office": "03",
+  "updated": "2026-08-21",
+  "ine": "03014",
+  "buildings": 23413,
+  "unknown_year": 510,
+  "zones": "3-c50785192f08de12"
+ },
+ "12001": {
+  "name": "ATZENETA DEL MAESTRAT",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12001",
+  "buildings": 1995,
+  "unknown_year": 11,
+  "zones": "3-c50785192f08de12"
+ },
+ "12003": {
+  "name": "ALBOCASSER",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12003",
+  "buildings": 1673,
+  "unknown_year": 14,
+  "zones": "3-c50785192f08de12"
+ },
+ "12004": {
+  "name": "ALCALA DE XIVERT",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12004",
+  "buildings": 4680,
+  "unknown_year": 12,
+  "zones": "3-c50785192f08de12"
+ },
+ "12005": {
+  "name": "L ALCORA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12005",
+  "buildings": 4551,
+  "unknown_year": 24,
+  "zones": "3-c50785192f08de12"
+ },
+ "12007": {
+  "name": "ALFONDEGUILLA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12007",
+  "buildings": 561,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12008": {
+  "name": "ALGIMIA DE ALMONACID",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12008",
+  "buildings": 522,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "12009": {
+  "name": "ALMASSORA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12009",
+  "buildings": 7713,
+  "unknown_year": 31,
+  "zones": "3-c50785192f08de12"
+ },
+ "12010": {
+  "name": "ALMEDIJAR",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12010",
+  "buildings": 432,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12011": {
+  "name": "ALMENARA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12011",
+  "buildings": 2345,
+  "unknown_year": 35,
+  "zones": "3-c50785192f08de12"
+ },
+ "12012": {
+  "name": "ALTURA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12012",
+  "buildings": 2447,
+  "unknown_year": 11,
+  "zones": "3-c50785192f08de12"
+ },
+ "12013": {
+  "name": "ARAÑUEL",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12013",
+  "buildings": 419,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "12014": {
+  "name": "ARES DEL MAESTRAT",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12014",
+  "buildings": 560,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "12015": {
+  "name": "ARGELITA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12015",
+  "buildings": 253,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12018": {
+  "name": "AZUEBAR",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12018",
+  "buildings": 420,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12020": {
+  "name": "BARRACAS",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12020",
+  "buildings": 341,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12021": {
+  "name": "BETXI",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12021",
+  "buildings": 2289,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "12022": {
+  "name": "BEJIS",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12022",
+  "buildings": 881,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "12024": {
+  "name": "BENAFER",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12024",
+  "buildings": 326,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12025": {
+  "name": "BENAFIGOS",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12025",
+  "buildings": 699,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12026": {
+  "name": "BENASSAL",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12026",
+  "buildings": 1686,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "12027": {
+  "name": "BENICARLO",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12027",
+  "buildings": 6585,
+  "unknown_year": 185,
+  "zones": "3-c50785192f08de12"
+ },
+ "12028": {
+  "name": "BENICASIM BENICASSIM",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12028",
+  "buildings": 4086,
+  "unknown_year": 32,
+  "zones": "3-c50785192f08de12"
+ },
+ "12029": {
+  "name": "BENLLOCH",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12029",
+  "buildings": 1329,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "12031": {
+  "name": "BORRIOL",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12031",
+  "buildings": 3061,
+  "unknown_year": 10,
+  "zones": "3-c50785192f08de12"
+ },
+ "12032": {
+  "name": "BORRIANA BURRIANA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12032",
+  "buildings": 9231,
+  "unknown_year": 36,
+  "zones": "3-c50785192f08de12"
+ },
+ "12033": {
+  "name": "CABANES",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12033",
+  "buildings": 2862,
+  "unknown_year": 22,
+  "zones": "3-c50785192f08de12"
+ },
+ "12034": {
+  "name": "CALIG",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12034",
+  "buildings": 1449,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "12036": {
+  "name": "CANET LO ROIG",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12036",
+  "buildings": 960,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "12038": {
+  "name": "CASTELLFORT",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12038",
+  "buildings": 483,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12039": {
+  "name": "CASTELLNOVO",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12039",
+  "buildings": 837,
+  "unknown_year": 11,
+  "zones": "3-c50785192f08de12"
+ },
+ "12042": {
+  "name": "CATI",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12042",
+  "buildings": 1131,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "12043": {
+  "name": "CAUDIEL",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12043",
+  "buildings": 1190,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "12045": {
+  "name": "CINCTORRES",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12045",
+  "buildings": 820,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "12046": {
+  "name": "CIRAT",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12046",
+  "buildings": 857,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "12049": {
+  "name": "COSTUR",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12049",
+  "buildings": 609,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "12050": {
+  "name": "COVES DE VINROMA LES",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12050",
+  "buildings": 1715,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "12051": {
+  "name": "CULLA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12051",
+  "buildings": 1048,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "12053": {
+  "name": "CHILCHES XILXES",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12053",
+  "buildings": 1743,
+  "unknown_year": 13,
+  "zones": "3-c50785192f08de12"
+ },
+ "12057": {
+  "name": "ESLIDA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12057",
+  "buildings": 744,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "12058": {
+  "name": "ESPADILLA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12058",
+  "buildings": 192,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12059": {
+  "name": "FANZARA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12059",
+  "buildings": 400,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12067": {
+  "name": "GELDO",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": null,
+  "buildings": 542,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "12071": {
+  "name": "JERICA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12071",
+  "buildings": 1756,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "12072": {
+  "name": "LLUCENA LUCENA DEL CID",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12072",
+  "buildings": 1453,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12074": {
+  "name": "LA LLOSA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12074",
+  "buildings": 480,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "12076": {
+  "name": "MATET",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12076",
+  "buildings": 302,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12077": {
+  "name": "MONCOFA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12077",
+  "buildings": 2893,
+  "unknown_year": 17,
+  "zones": "3-c50785192f08de12"
+ },
+ "12079": {
+  "name": "MONTANEJOS",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12079",
+  "buildings": 604,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12080": {
+  "name": "MORELLA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12080",
+  "buildings": 1970,
+  "unknown_year": 10,
+  "zones": "3-c50785192f08de12"
+ },
+ "12081": {
+  "name": "NAVAJAS",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12081",
+  "buildings": 736,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "12082": {
+  "name": "NULES",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12082",
+  "buildings": 4626,
+  "unknown_year": 32,
+  "zones": "3-c50785192f08de12"
+ },
+ "12084": {
+  "name": "ONDA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12084",
+  "buildings": 7350,
+  "unknown_year": 30,
+  "zones": "3-c50785192f08de12"
+ },
+ "12085": {
+  "name": "ORPESA OROPESA DEL MAR",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12085",
+  "buildings": 2401,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "12089": {
+  "name": "PENISCOLA PEÑISCOLA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12089",
+  "buildings": 4118,
+  "unknown_year": 31,
+  "zones": "3-c50785192f08de12"
+ },
+ "12092": {
+  "name": "PUEBLA DE ARENOSO",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12092",
+  "buildings": 724,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "12093": {
+  "name": "LA POBLA DE BENIFASSA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12093",
+  "buildings": 739,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "12094": {
+  "name": "LA POBLA TORNESA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12094",
+  "buildings": 750,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12095": {
+  "name": "RIBESALBES",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12095",
+  "buildings": 596,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "12096": {
+  "name": "ROSSELL",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12096",
+  "buildings": 1070,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "12098": {
+  "name": "LA SALZADELLA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12098",
+  "buildings": 816,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "12099": {
+  "name": "SANT JORDI SAN JORGE",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12099",
+  "buildings": 930,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12100": {
+  "name": "SANT MATEU",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12100",
+  "buildings": 1521,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12101": {
+  "name": "SAN RAFAEL DEL RIO",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12101",
+  "buildings": 542,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12102": {
+  "name": "SANTA MAGDALENA DE PULPIS",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12102",
+  "buildings": 839,
+  "unknown_year": 14,
+  "zones": "3-c50785192f08de12"
+ },
+ "12103": {
+  "name": "LA SERRATELLA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12103",
+  "buildings": 273,
+  "unknown_year": 16,
+  "zones": "3-c50785192f08de12"
+ },
+ "12104": {
+  "name": "SEGORBE",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12104",
+  "buildings": 3618,
+  "unknown_year": 23,
+  "zones": "3-c50785192f08de12"
+ },
+ "12105": {
+  "name": "SIERRA ENGARCERAN",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12105",
+  "buildings": 1655,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "12106": {
+  "name": "SONEJA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12106",
+  "buildings": 1118,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12107": {
+  "name": "SOT DE FERRER",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12107",
+  "buildings": 551,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "12108": {
+  "name": "SUERAS SUERA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12108",
+  "buildings": 575,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12109": {
+  "name": "TALES",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12109",
+  "buildings": 745,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "12110": {
+  "name": "TERESA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12110",
+  "buildings": 553,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "12113": {
+  "name": "TOGA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12113",
+  "buildings": 236,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "12114": {
+  "name": "TORAS",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12114",
+  "buildings": 579,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12115": {
+  "name": "EL TORO",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12115",
+  "buildings": 934,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "12117": {
+  "name": "TORREBLANCA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12117",
+  "buildings": 3464,
+  "unknown_year": 10,
+  "zones": "3-c50785192f08de12"
+ },
+ "12118": {
+  "name": "TORRECHIVA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12118",
+  "buildings": 209,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "12121": {
+  "name": "TRAIGUERA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12121",
+  "buildings": 1307,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12122": {
+  "name": "USERAS LES USERES",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12122",
+  "buildings": 1601,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12123": {
+  "name": "VALLAT",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12123",
+  "buildings": 105,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12124": {
+  "name": "VALL D ALBA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12124",
+  "buildings": 2459,
+  "unknown_year": 41,
+  "zones": "3-c50785192f08de12"
+ },
+ "12125": {
+  "name": "VALL DE ALMONACID",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12125",
+  "buildings": 473,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "12126": {
+  "name": "LA VALL D UIXO",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12126",
+  "buildings": 8844,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "12128": {
+  "name": "VILAFAMES",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12128",
+  "buildings": 1794,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "12132": {
+  "name": "VILANOVA D ALCOLEA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12132",
+  "buildings": 986,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "12134": {
+  "name": "VILAR DE CANES",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12134",
+  "buildings": 316,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "12135": {
+  "name": "VILA REAL",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12135",
+  "buildings": 11309,
+  "unknown_year": 66,
+  "zones": "3-c50785192f08de12"
+ },
+ "12138": {
+  "name": "VINAROS",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12138",
+  "buildings": 8176,
+  "unknown_year": 65,
+  "zones": "3-c50785192f08de12"
+ },
+ "12139": {
+  "name": "VISTABELLA DEL MAESTRAT",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12139",
+  "buildings": 1136,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "12140": {
+  "name": "VIVER",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12140",
+  "buildings": 1474,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "12143": {
+  "name": "LES ALQUERIES ALQUERIAS DEL NI",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12901",
+  "buildings": 1891,
+  "unknown_year": 91,
+  "zones": "3-c50785192f08de12"
+ },
+ "12144": {
+  "name": "SANT JOAN DE MORO",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12902",
+  "buildings": 1581,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "12900": {
+  "name": "CASTELLO DE LA PLANA",
+  "office": "12",
+  "updated": "2026-08-21",
+  "ine": "12040",
+  "buildings": 23011,
+  "unknown_year": 86,
+  "zones": "3-c50785192f08de12"
+ },
+ "46001": {
+  "name": "ADEMUZ",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46001",
+  "buildings": 2058,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46002": {
+  "name": "ADOR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46002",
+  "buildings": 902,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46003": {
+  "name": "ATZENETA D ALBAIDA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46003",
+  "buildings": 742,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46004": {
+  "name": "AGULLENT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46004",
+  "buildings": 1278,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46005": {
+  "name": "ALAQUAS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46005",
+  "buildings": 2454,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "46006": {
+  "name": "ALBAIDA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46006",
+  "buildings": 2021,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46007": {
+  "name": "ALBAL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46007",
+  "buildings": 2222,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "46008": {
+  "name": "ALBALAT DE LA RIBERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46008",
+  "buildings": 1607,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46009": {
+  "name": "ALBALAT DELS SORELLS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46009",
+  "buildings": 946,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46010": {
+  "name": "ALBALAT DELS TARONGERS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46010",
+  "buildings": 1975,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46011": {
+  "name": "ALBERIC",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46011",
+  "buildings": 3652,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46012": {
+  "name": "ALBORACHE",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46012",
+  "buildings": 1163,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46013": {
+  "name": "ALBORAIA ALBORAYA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46013",
+  "buildings": 2314,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46014": {
+  "name": "ALBUIXECH",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46014",
+  "buildings": 1000,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46015": {
+  "name": "ALCASSER",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46015",
+  "buildings": 2127,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46016": {
+  "name": "ALCANTERA DE XUQUER",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46016",
+  "buildings": 656,
+  "unknown_year": 15,
+  "zones": "3-c50785192f08de12"
+ },
+ "46017": {
+  "name": "ALZIRA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46017",
+  "buildings": 10859,
+  "unknown_year": 22,
+  "zones": "3-c50785192f08de12"
+ },
+ "46019": {
+  "name": "L ALCUDIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46019",
+  "buildings": 3451,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "46021": {
+  "name": "ALDAIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46021",
+  "buildings": 3624,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46022": {
+  "name": "ALFAFAR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46022",
+  "buildings": 1879,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46023": {
+  "name": "ALFAUIR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46023",
+  "buildings": 312,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46024": {
+  "name": "ALFARA DE LA BARONIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46024",
+  "buildings": 504,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46025": {
+  "name": "ALFARA DEL PATRIARCA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46025",
+  "buildings": 651,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46026": {
+  "name": "ALFARB",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46026",
+  "buildings": 1422,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "46027": {
+  "name": "ALFARRASI",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46027",
+  "buildings": 597,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46028": {
+  "name": "ALGAR DE PALANCIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46028",
+  "buildings": 680,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46029": {
+  "name": "ALGEMESI",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46029",
+  "buildings": 5784,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46030": {
+  "name": "ALGIMIA D ALFARA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46030",
+  "buildings": 762,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46031": {
+  "name": "ALGINET",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46031",
+  "buildings": 5142,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46032": {
+  "name": "ALMASSERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46032",
+  "buildings": 829,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46033": {
+  "name": "ALMISERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46033",
+  "buildings": 243,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46034": {
+  "name": "ALMOINES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46034",
+  "buildings": 730,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46035": {
+  "name": "ALMUSSAFES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46035",
+  "buildings": 1643,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46037": {
+  "name": "L ALQUERIA DE LA COMTESSA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46037",
+  "buildings": 644,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "46038": {
+  "name": "ANDILLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46038",
+  "buildings": 1184,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "46040": {
+  "name": "ANTELLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46040",
+  "buildings": 799,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46041": {
+  "name": "ARAS DE LOS OLMOS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46041",
+  "buildings": 1083,
+  "unknown_year": 10,
+  "zones": "3-c50785192f08de12"
+ },
+ "46042": {
+  "name": "AIELO DE MALFERIT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46042",
+  "buildings": 2012,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46043": {
+  "name": "AIELO DE RUGAT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46043",
+  "buildings": 197,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46044": {
+  "name": "AYORA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46044",
+  "buildings": 3164,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46045": {
+  "name": "BARXETA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46045",
+  "buildings": 1171,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "46046": {
+  "name": "BARX",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46046",
+  "buildings": 1075,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46047": {
+  "name": "BELGIDA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46047",
+  "buildings": 548,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46048": {
+  "name": "BELLREGUARD",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46048",
+  "buildings": 1721,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46051": {
+  "name": "BENAGUASIL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46051",
+  "buildings": 4221,
+  "unknown_year": 28,
+  "zones": "3-c50785192f08de12"
+ },
+ "46052": {
+  "name": "BENAVITES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46052",
+  "buildings": 325,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46053": {
+  "name": "BENEIXIDA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46053",
+  "buildings": 363,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46054": {
+  "name": "BENETUSSER",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46054",
+  "buildings": 1241,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46055": {
+  "name": "BENIARJO",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46055",
+  "buildings": 646,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46056": {
+  "name": "BENIATJAR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46056",
+  "buildings": 244,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46057": {
+  "name": "BENICOLET",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46057",
+  "buildings": 472,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46058": {
+  "name": "BENIFAIRO DE LES VALLS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46058",
+  "buildings": 762,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46059": {
+  "name": "BENIFAIRO DE LA VALLDIGNA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46059",
+  "buildings": 1110,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46060": {
+  "name": "BENIFAIO",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46060",
+  "buildings": 3611,
+  "unknown_year": 19,
+  "zones": "3-c50785192f08de12"
+ },
+ "46061": {
+  "name": "BENIFLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46061",
+  "buildings": 179,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46062": {
+  "name": "BENIGANIM",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46062",
+  "buildings": 2811,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46063": {
+  "name": "BENIMODO",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46063",
+  "buildings": 963,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46064": {
+  "name": "BENIMUSLEM",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46064",
+  "buildings": 330,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46066": {
+  "name": "BENIPARRELL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46065",
+  "buildings": 947,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46072": {
+  "name": "BETERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46070",
+  "buildings": 8071,
+  "unknown_year": 17,
+  "zones": "3-c50785192f08de12"
+ },
+ "46073": {
+  "name": "BICORP",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46071",
+  "buildings": 615,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "46074": {
+  "name": "BOCAIRENT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46072",
+  "buildings": 2256,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46075": {
+  "name": "BOLBAITE",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46073",
+  "buildings": 990,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46076": {
+  "name": "BONREPOS I MIRAMBELL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46074",
+  "buildings": 449,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46077": {
+  "name": "BUFALI",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46075",
+  "buildings": 150,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46078": {
+  "name": "BUGARRA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46076",
+  "buildings": 813,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46079": {
+  "name": "BUÑOL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46077",
+  "buildings": 3560,
+  "unknown_year": 27,
+  "zones": "3-c50785192f08de12"
+ },
+ "46080": {
+  "name": "BURJASSOT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46078",
+  "buildings": 3430,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46081": {
+  "name": "CALLES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46079",
+  "buildings": 1053,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46082": {
+  "name": "CAMPORROBLES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46080",
+  "buildings": 1434,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46083": {
+  "name": "CANALS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46081",
+  "buildings": 3739,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46084": {
+  "name": "CANET D EN BERENGUER",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46082",
+  "buildings": 916,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46085": {
+  "name": "CARCAIXENT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46083",
+  "buildings": 6180,
+  "unknown_year": 13,
+  "zones": "3-c50785192f08de12"
+ },
+ "46086": {
+  "name": "CARCER",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46084",
+  "buildings": 905,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46087": {
+  "name": "CARLET",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46085",
+  "buildings": 4917,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46088": {
+  "name": "CARRICOLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46086",
+  "buildings": 120,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46089": {
+  "name": "CASAS ALTAS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46087",
+  "buildings": 506,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46090": {
+  "name": "CASAS BAJAS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46088",
+  "buildings": 761,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46091": {
+  "name": "CASINOS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46089",
+  "buildings": 2320,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46092": {
+  "name": "CASTELLO DE RUGAT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46090",
+  "buildings": 1101,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "46094": {
+  "name": "CASTIELFABIB",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46092",
+  "buildings": 1334,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46095": {
+  "name": "CATADAU",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46093",
+  "buildings": 2013,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46096": {
+  "name": "CATARROJA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46094",
+  "buildings": 3831,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46097": {
+  "name": "CAUDETE DE LAS FUENTES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46095",
+  "buildings": 949,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46098": {
+  "name": "CERDA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46096",
+  "buildings": 174,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46099": {
+  "name": "COFRENTES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46097",
+  "buildings": 799,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46100": {
+  "name": "CORBERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46098",
+  "buildings": 1939,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "46101": {
+  "name": "CORTES DE PALLAS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46099",
+  "buildings": 1039,
+  "unknown_year": 10,
+  "zones": "3-c50785192f08de12"
+ },
+ "46102": {
+  "name": "COTES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46100",
+  "buildings": 266,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46103": {
+  "name": "QUART DE LES VALLS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46101",
+  "buildings": 561,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46104": {
+  "name": "QUART DE POBLET",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46102",
+  "buildings": 2876,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46105": {
+  "name": "QUARTELL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46103",
+  "buildings": 608,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46106": {
+  "name": "QUATRETONDA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46104",
+  "buildings": 1618,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46107": {
+  "name": "CULLERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46105",
+  "buildings": 7057,
+  "unknown_year": 33,
+  "zones": "3-c50785192f08de12"
+ },
+ "46108": {
+  "name": "CHELVA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46106",
+  "buildings": 2326,
+  "unknown_year": 17,
+  "zones": "3-c50785192f08de12"
+ },
+ "46109": {
+  "name": "CHELLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46107",
+  "buildings": 1738,
+  "unknown_year": 10,
+  "zones": "3-c50785192f08de12"
+ },
+ "46110": {
+  "name": "CHERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46108",
+  "buildings": 744,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46111": {
+  "name": "CHESTE",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46109",
+  "buildings": 4169,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46112": {
+  "name": "XIRIVELLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46110",
+  "buildings": 1829,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46113": {
+  "name": "CHIVA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46111",
+  "buildings": 8990,
+  "unknown_year": 13,
+  "zones": "3-c50785192f08de12"
+ },
+ "46114": {
+  "name": "CHULILLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46112",
+  "buildings": 1014,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46115": {
+  "name": "DAIMUS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46113",
+  "buildings": 1044,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46116": {
+  "name": "DOMEÑO",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46114",
+  "buildings": 367,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46117": {
+  "name": "DOS AGUAS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46115",
+  "buildings": 585,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "46118": {
+  "name": "L ELIANA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46116",
+  "buildings": 6195,
+  "unknown_year": 17,
+  "zones": "3-c50785192f08de12"
+ },
+ "46120": {
+  "name": "ENGUERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46118",
+  "buildings": 3226,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "46121": {
+  "name": "L ENOVA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46119",
+  "buildings": 624,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46122": {
+  "name": "ESTIVELLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46120",
+  "buildings": 1128,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46123": {
+  "name": "ESTUBENY",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46121",
+  "buildings": 128,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46124": {
+  "name": "FAURA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46122",
+  "buildings": 1070,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46125": {
+  "name": "FAVARA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46123",
+  "buildings": 801,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46126": {
+  "name": "FONTANARS DELS ALFORINS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46124",
+  "buildings": 770,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46127": {
+  "name": "FORTALENY",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46125",
+  "buildings": 581,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46128": {
+  "name": "FOIOS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46126",
+  "buildings": 1199,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "46129": {
+  "name": "LA FONT D EN CARROS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46127",
+  "buildings": 1694,
+  "unknown_year": 13,
+  "zones": "3-c50785192f08de12"
+ },
+ "46130": {
+  "name": "LA FONT DE LA FIGUERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46128",
+  "buildings": 1394,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46131": {
+  "name": "FUENTERROBLES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46129",
+  "buildings": 767,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46132": {
+  "name": "GAVARDA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46130",
+  "buildings": 624,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46133": {
+  "name": "GANDIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46131",
+  "buildings": 8507,
+  "unknown_year": 36,
+  "zones": "3-c50785192f08de12"
+ },
+ "46134": {
+  "name": "EL GENOVES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46132",
+  "buildings": 1297,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46135": {
+  "name": "GESTALGAR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46133",
+  "buildings": 825,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46136": {
+  "name": "GILET",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46134",
+  "buildings": 1578,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46137": {
+  "name": "GODELLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46135",
+  "buildings": 2580,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46138": {
+  "name": "GODELLETA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46136",
+  "buildings": 3227,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "46139": {
+  "name": "LA GRANJA DE LA COSTERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46137",
+  "buildings": 219,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46141": {
+  "name": "GUADASSUAR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46139",
+  "buildings": 2547,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46142": {
+  "name": "GUARDAMAR DE LA SAFOR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46140",
+  "buildings": 144,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46144": {
+  "name": "JALANCE",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46142",
+  "buildings": 1052,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46145": {
+  "name": "XERACO",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46143",
+  "buildings": 1917,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46146": {
+  "name": "JARAFUEL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46144",
+  "buildings": 1029,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46147": {
+  "name": "XATIVA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46145",
+  "buildings": 6374,
+  "unknown_year": 51,
+  "zones": "3-c50785192f08de12"
+ },
+ "46148": {
+  "name": "XERESA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46146",
+  "buildings": 1040,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "46149": {
+  "name": "LLIRIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46147",
+  "buildings": 12401,
+  "unknown_year": 40,
+  "zones": "3-c50785192f08de12"
+ },
+ "46150": {
+  "name": "LORIGUILLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46148",
+  "buildings": 629,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46151": {
+  "name": "LOSA DEL OBISPO",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46149",
+  "buildings": 567,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46152": {
+  "name": "LLUTXENT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46150",
+  "buildings": 1390,
+  "unknown_year": 15,
+  "zones": "3-c50785192f08de12"
+ },
+ "46153": {
+  "name": "LLOCNOU D EN FENOLLET",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46151",
+  "buildings": 416,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46154": {
+  "name": "LLOCNOU DE LA CORONA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": null,
+  "buildings": 71,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46155": {
+  "name": "LLOCNOU DE SANT JERONI",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46153",
+  "buildings": 408,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46157": {
+  "name": "LLAURI",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46155",
+  "buildings": 1033,
+  "unknown_year": 14,
+  "zones": "3-c50785192f08de12"
+ },
+ "46158": {
+  "name": "LLOMBAI",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46156",
+  "buildings": 1677,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46159": {
+  "name": "LA LLOSA DE RANES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46157",
+  "buildings": 1286,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46160": {
+  "name": "MACASTRE",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46158",
+  "buildings": 1271,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46161": {
+  "name": "MANISES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46159",
+  "buildings": 4408,
+  "unknown_year": 11,
+  "zones": "3-c50785192f08de12"
+ },
+ "46162": {
+  "name": "MANUEL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46160",
+  "buildings": 1141,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46163": {
+  "name": "MARINES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46161",
+  "buildings": 1167,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46164": {
+  "name": "MASSALAVES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46162",
+  "buildings": 678,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46165": {
+  "name": "MASSALFASSAR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46163",
+  "buildings": 695,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46166": {
+  "name": "MASSAMAGRELL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46164",
+  "buildings": 2582,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46167": {
+  "name": "MASSANASSA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46165",
+  "buildings": 1981,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46168": {
+  "name": "MELIANA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46166",
+  "buildings": 1769,
+  "unknown_year": 13,
+  "zones": "3-c50785192f08de12"
+ },
+ "46170": {
+  "name": "MIRAMAR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46168",
+  "buildings": 982,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "46171": {
+  "name": "MISLATA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46169",
+  "buildings": 1568,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46172": {
+  "name": "MOIXENT MOGENTE",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46170",
+  "buildings": 2383,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "46173": {
+  "name": "MONTCADA MONCADA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46171",
+  "buildings": 3937,
+  "unknown_year": 11,
+  "zones": "3-c50785192f08de12"
+ },
+ "46174": {
+  "name": "MONTSERRAT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46172",
+  "buildings": 5310,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "46175": {
+  "name": "MONTAVERNER",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46173",
+  "buildings": 939,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46176": {
+  "name": "MONTESA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46174",
+  "buildings": 1012,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46177": {
+  "name": "MONTITXELVO MONTICHELVO",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46175",
+  "buildings": 442,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46178": {
+  "name": "MONTROI MONTROY",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46176",
+  "buildings": 2349,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "46179": {
+  "name": "MUSEROS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46177",
+  "buildings": 1450,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46180": {
+  "name": "NAQUERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46178",
+  "buildings": 4533,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46181": {
+  "name": "NAVARRES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46179",
+  "buildings": 2138,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46182": {
+  "name": "NOVELE NOVETLE",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46180",
+  "buildings": 424,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46183": {
+  "name": "OLIVA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46181",
+  "buildings": 9793,
+  "unknown_year": 13,
+  "zones": "3-c50785192f08de12"
+ },
+ "46184": {
+  "name": "OLOCAU",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46182",
+  "buildings": 2585,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46185": {
+  "name": "L OLLERIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46183",
+  "buildings": 3035,
+  "unknown_year": 14,
+  "zones": "3-c50785192f08de12"
+ },
+ "46186": {
+  "name": "ONTINYENT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46184",
+  "buildings": 8070,
+  "unknown_year": 24,
+  "zones": "3-c50785192f08de12"
+ },
+ "46187": {
+  "name": "OTOS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46185",
+  "buildings": 383,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "46188": {
+  "name": "PAIPORTA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46186",
+  "buildings": 2295,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46189": {
+  "name": "PALMA DE GANDIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46187",
+  "buildings": 1439,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46190": {
+  "name": "PALMERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46188",
+  "buildings": 310,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46191": {
+  "name": "EL PALOMAR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46189",
+  "buildings": 423,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46192": {
+  "name": "PATERNA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46190",
+  "buildings": 8971,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "46193": {
+  "name": "PEDRALBA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46191",
+  "buildings": 2920,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46194": {
+  "name": "PETRES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46192",
+  "buildings": 411,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46195": {
+  "name": "PICANYA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46193",
+  "buildings": 1496,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46196": {
+  "name": "PICASSENT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46194",
+  "buildings": 6562,
+  "unknown_year": 59,
+  "zones": "3-c50785192f08de12"
+ },
+ "46197": {
+  "name": "PILES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46195",
+  "buildings": 1236,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46198": {
+  "name": "PINET",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46196",
+  "buildings": 187,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46199": {
+  "name": "POLINYA DE XUQUER",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46197",
+  "buildings": 1219,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46200": {
+  "name": "POTRIES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46198",
+  "buildings": 576,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46201": {
+  "name": "LA POBLA DE FARNALS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46199",
+  "buildings": 786,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46202": {
+  "name": "LA POBLA DEL DUC",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46200",
+  "buildings": 1291,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46204": {
+  "name": "LA POBLA DE VALLBONA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46202",
+  "buildings": 8062,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "46205": {
+  "name": "LA POBLA LLARGA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46203",
+  "buildings": 1952,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46206": {
+  "name": "EL PUIG DE SANTA MARIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46204",
+  "buildings": 2215,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46207": {
+  "name": "PU OL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46205",
+  "buildings": 3821,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46208": {
+  "name": "QUESA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46206",
+  "buildings": 680,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46209": {
+  "name": "RAFELBUNYOL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46207",
+  "buildings": 2175,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46210": {
+  "name": "RAFELCOFER",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46208",
+  "buildings": 738,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "46211": {
+  "name": "RAFELGUARAF",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46209",
+  "buildings": 1653,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46212": {
+  "name": "EL RAFOL DE SALEM",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46210",
+  "buildings": 319,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46213": {
+  "name": "EL REAL DE GANDIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46211",
+  "buildings": 938,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46214": {
+  "name": "REAL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46212",
+  "buildings": 1319,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46215": {
+  "name": "REQUENA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46213",
+  "buildings": 11753,
+  "unknown_year": 47,
+  "zones": "3-c50785192f08de12"
+ },
+ "46216": {
+  "name": "RIBA ROJA DE TURIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46214",
+  "buildings": 7495,
+  "unknown_year": 14,
+  "zones": "3-c50785192f08de12"
+ },
+ "46217": {
+  "name": "RIOLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46215",
+  "buildings": 823,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46218": {
+  "name": "ROCAFORT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46216",
+  "buildings": 1322,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46219": {
+  "name": "ROTGLA I CORBERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46217",
+  "buildings": 727,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46220": {
+  "name": "ROTOVA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46218",
+  "buildings": 631,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46221": {
+  "name": "RUGAT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46219",
+  "buildings": 193,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46222": {
+  "name": "SAGUNTO SAGUNT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46220",
+  "buildings": 12666,
+  "unknown_year": 22,
+  "zones": "3-c50785192f08de12"
+ },
+ "46223": {
+  "name": "SALEM",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46221",
+  "buildings": 359,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46225": {
+  "name": "SEDAVI",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46223",
+  "buildings": 1289,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46226": {
+  "name": "SEGART",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46224",
+  "buildings": 232,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46227": {
+  "name": "SELLENT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46225",
+  "buildings": 354,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46229": {
+  "name": "SENYERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46227",
+  "buildings": 468,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46230": {
+  "name": "SERRA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46228",
+  "buildings": 1983,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46231": {
+  "name": "SIETE AGUAS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46229",
+  "buildings": 1337,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46232": {
+  "name": "SILLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46230",
+  "buildings": 3112,
+  "unknown_year": 24,
+  "zones": "3-c50785192f08de12"
+ },
+ "46233": {
+  "name": "SIMAT DE LA VALLDIGNA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46231",
+  "buildings": 2168,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "46234": {
+  "name": "SINARCAS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46232",
+  "buildings": 1117,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "46235": {
+  "name": "SOLLANA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46233",
+  "buildings": 2076,
+  "unknown_year": 7,
+  "zones": "3-c50785192f08de12"
+ },
+ "46236": {
+  "name": "SOT DE CHERA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46234",
+  "buildings": 458,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46237": {
+  "name": "SUECA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46235",
+  "buildings": 9039,
+  "unknown_year": 11,
+  "zones": "3-c50785192f08de12"
+ },
+ "46238": {
+  "name": "SUMACARCER",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46236",
+  "buildings": 906,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46239": {
+  "name": "TAVERNES BLANQUES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46237",
+  "buildings": 660,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46240": {
+  "name": "TAVERNES DE LA VALLDIGNA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46238",
+  "buildings": 5330,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46241": {
+  "name": "TERESA DE COFRENTES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46239",
+  "buildings": 956,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46242": {
+  "name": "TERRATEIG",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46240",
+  "buildings": 260,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46243": {
+  "name": "TITAGUAS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46241",
+  "buildings": 955,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46244": {
+  "name": "TORREBAJA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46242",
+  "buildings": 691,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46245": {
+  "name": "TORRELLA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46243",
+  "buildings": 122,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46246": {
+  "name": "TORRENT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46244",
+  "buildings": 13725,
+  "unknown_year": 19,
+  "zones": "3-c50785192f08de12"
+ },
+ "46247": {
+  "name": "TORRES TORRES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46245",
+  "buildings": 873,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "46249": {
+  "name": "TUEJAR",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46247",
+  "buildings": 1465,
+  "unknown_year": 11,
+  "zones": "3-c50785192f08de12"
+ },
+ "46250": {
+  "name": "TURIS",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46248",
+  "buildings": 5808,
+  "unknown_year": 21,
+  "zones": "3-c50785192f08de12"
+ },
+ "46251": {
+  "name": "UTIEL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46249",
+  "buildings": 6515,
+  "unknown_year": 8,
+  "zones": "3-c50785192f08de12"
+ },
+ "46253": {
+  "name": "VALLADA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46251",
+  "buildings": 1899,
+  "unknown_year": 9,
+  "zones": "3-c50785192f08de12"
+ },
+ "46254": {
+  "name": "VALLANCA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46252",
+  "buildings": 650,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46255": {
+  "name": "VALLES",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46253",
+  "buildings": 118,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46256": {
+  "name": "VENTA DEL MORO",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46254",
+  "buildings": 2389,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46257": {
+  "name": "VILALLONGA VILLALONGA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46255",
+  "buildings": 2341,
+  "unknown_year": 5,
+  "zones": "3-c50785192f08de12"
+ },
+ "46258": {
+  "name": "VILAMARXANT",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46256",
+  "buildings": 5743,
+  "unknown_year": 3,
+  "zones": "3-c50785192f08de12"
+ },
+ "46259": {
+  "name": "CASTELLO",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46257",
+  "buildings": 2813,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46260": {
+  "name": "VILLAR DEL ARZOBISPO",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46258",
+  "buildings": 3146,
+  "unknown_year": 2,
+  "zones": "3-c50785192f08de12"
+ },
+ "46261": {
+  "name": "VILLARGORDO DEL CABRIEL",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46259",
+  "buildings": 917,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46262": {
+  "name": "VINALESA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46260",
+  "buildings": 700,
+  "unknown_year": 0,
+  "zones": "3-c50785192f08de12"
+ },
+ "46263": {
+  "name": "YATOVA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46261",
+  "buildings": 1886,
+  "unknown_year": 4,
+  "zones": "3-c50785192f08de12"
+ },
+ "46264": {
+  "name": "LA YESA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46262",
+  "buildings": 815,
+  "unknown_year": 6,
+  "zones": "3-c50785192f08de12"
+ },
+ "46265": {
+  "name": "ZARRA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46263",
+  "buildings": 494,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46268": {
+  "name": "BENICULL DE XUQUER",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46904",
+  "buildings": 638,
+  "unknown_year": 1,
+  "zones": "3-c50785192f08de12"
+ },
+ "46900": {
+  "name": "VALENCIA",
+  "office": "46",
+  "updated": "2026-08-21",
+  "ine": "46250",
+  "buildings": 36359,
+  "unknown_year": 135,
+  "zones": "3-c50785192f08de12"
+ }
+}

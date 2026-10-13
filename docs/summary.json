@@ -1,0 +1,130 @@
+{
+ "data_year": 2026,
+ "windows": {
+  "pre": [
+   2008,
+   2016
+  ],
+  "post": [
+   2017,
+   2024
+  ],
+  "boom": [
+   2000,
+   2007
+  ],
+  "provisional": [
+   2025,
+   2026
+  ]
+ },
+ "catastro_dates": [
+  "2026-08-21"
+ ],
+ "cadastral_municipalities": 447,
+ "zoned": 80871,
+ "zoned_by_zone": {
+  "zfp": 10997,
+  "t100": 32905,
+  "t500": 36969
+ },
+ "post": 2777,
+ "post_by_zone": {
+  "zfp": 348,
+  "t100": 1093,
+  "t500": 1336
+ },
+ "post_mixed": 863,
+ "post_after_map": 2044,
+ "post_dwellings": 11774,
+ "zoned_mixed": 11445,
+ "unknown_year": 439,
+ "municipalities_zoned": 363,
+ "municipalities_post": 164,
+ "periods": {
+  "boom": {
+   "years": [
+    2000,
+    2007
+   ],
+   "zoned": 14032,
+   "restricted": 7758,
+   "all": 186938,
+   "per_year": 1754.0,
+   "restricted_per_year": 969.8,
+   "share": 7.51,
+   "restricted_share": 4.15,
+   "zoned_clean": 9690,
+   "all_clean": 110918,
+   "by_zone": {
+    "zfp": 1980,
+    "t100": 5778,
+    "t500": 6274
+   },
+   "share_clean": 8.74
+  },
+  "pre": {
+   "years": [
+    2008,
+    2016
+   ],
+   "zoned": 6217,
+   "restricted": 3533,
+   "all": 77856,
+   "per_year": 690.8,
+   "restricted_per_year": 392.6,
+   "share": 7.99,
+   "restricted_share": 4.54,
+   "zoned_clean": 3632,
+   "all_clean": 39321,
+   "by_zone": {
+    "zfp": 865,
+    "t100": 2668,
+    "t500": 2684
+   },
+   "share_clean": 9.24
+  },
+  "post": {
+   "years": [
+    2017,
+    2024
+   ],
+   "zoned": 2539,
+   "restricted": 1311,
+   "all": 24074,
+   "per_year": 317.4,
+   "restricted_per_year": 163.9,
+   "share": 10.55,
+   "restricted_share": 5.45,
+   "zoned_clean": 1722,
+   "all_clean": 14590,
+   "by_zone": {
+    "zfp": 318,
+    "t100": 993,
+    "t500": 1228
+   },
+   "share_clean": 11.8
+  }
+ },
+ "zones": {
+  "zfp": {
+   "n": 366,
+   "km2": 465.7,
+   "first_year": 2011,
+   "last_year": 2025
+  },
+  "t100": {
+   "n": 428,
+   "km2": 1106.7,
+   "first_year": 1996,
+   "last_year": 2026
+  },
+  "t500": {
+   "n": 432,
+   "km2": 1508.4,
+   "first_year": 1996,
+   "last_year": 2026
+  }
+ },
+ "generated": "2026-10-13T19:11+00:00"
+}
