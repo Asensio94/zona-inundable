@@ -2,6 +2,8 @@
 
 Cuántos edificios se han construido cada año dentro de las zonas inundables oficiales, municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó los usos en ellas. Cruza los mapas del Sistema Nacional de Cartografía de Zonas Inundables (SNCZI, Ministerio para la Transición Ecológica) con el año de construcción de los edificios del Catastro. Distingue la zona de flujo preferente, la de 100 años y la de 500 años. Piloto: Comunitat Valenciana. Web: <https://asensio94.github.io/zona-inundable/>
 
+> **Estado: mantenimiento.** Sigue funcionando y se corrigen sus fallos, pero por ahora no se le añaden funciones.
+
 También Francia, como una dimensión más del mismo proyecto (`country = "FR"`): edificios en las zonas roja y azul de los planes de prevención del riesgo de inundación (PPRi, ley Barnier de 1995), datados antes o después de cada plan. Piloto: el Aude. Web en francés: <https://asensio94.github.io/zona-inundable/fr/>
 
 ## Cómo funciona
