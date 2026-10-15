@@ -2,6 +2,8 @@
 
 Cuántos edificios se han construido cada año dentro de las zonas inundables oficiales, municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó los usos en ellas. Cruza los mapas del Sistema Nacional de Cartografía de Zonas Inundables (SNCZI, Ministerio para la Transición Ecológica) con el año de construcción de los edificios del Catastro. Distingue la zona de flujo preferente, la de 100 años y la de 500 años. Piloto: Comunitat Valenciana. Web: <https://asensio94.github.io/zona-inundable/>
 
+> **Estado: mantenimiento.** Sigue funcionando y se corrigen sus fallos, pero por ahora no se le añaden funciones.
+
 ## Cómo funciona
 
 1. Descarga del servicio WFS del SNCZI las tres capas (zona de flujo preferente, lámina de 100 años y lámina de 500 años), en ETRS89 / UTM 30N y limitadas a cada provincia. Las descargas en shapefile de la web del ministerio están tras un reto antibots; el WFS es la vía documentada para máquinas.
