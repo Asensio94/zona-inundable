@@ -263,6 +263,7 @@ table.periodos th{white-space:normal}
     <li><a href="https://asensio94.github.io/caudal-ecologico/">Caudal ecológico</a></li>
     <li><a href="https://asensio94.github.io/estado-iba/">Estado de las IBA</a></li>
     <li><a href="https://asensio94.github.io/barbechos-esteparias/">Barbechos y aves esteparias</a></li>
+    <li><a href="https://asensio94.github.io/acuiferos-francia/">Acuíferos de Francia</a></li>
     <li aria-current="page"><a href="https://asensio94.github.io/zona-inundable/">Construir en zona inundable</a></li>
   </ul></nav>
 </footer>
