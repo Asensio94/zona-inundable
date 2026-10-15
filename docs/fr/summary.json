@@ -1,0 +1,264 @@
+{
+ "country": "FR",
+ "data_year": 2025,
+ "windows": {
+  "pre": [
+   2008,
+   2016
+  ],
+  "post": [
+   2017,
+   2023
+  ],
+  "boom": [
+   2000,
+   2007
+  ],
+  "provisional": [
+   2024,
+   2024
+  ],
+  "last": 2024
+ },
+ "departments": {
+  "11": {
+   "name": "Aude",
+   "millesime": "2026-02-a",
+   "ff_year": 2025,
+   "groups": 289912,
+   "groups_with_year": 199243,
+   "no_tax_record_by_zone": {
+    "out": 71529,
+    "ppr_red": 9213,
+    "ppr_blue": 8367,
+    "azi": 1530,
+    "azi_exc": 30
+   },
+   "zones": {
+    "ppr_red": {
+     "n": 28448,
+     "procedures": 45,
+     "first_year": 2001,
+     "last_year": 2025
+    },
+    "ppr_blue": {
+     "n": 17174,
+     "procedures": 44,
+     "first_year": 2001,
+     "last_year": 2025
+    },
+    "azi": {
+     "n": 18170,
+     "procedures": null,
+     "first_year": 2002,
+     "last_year": 2015
+    },
+    "azi_exc": {
+     "n": 3010,
+     "procedures": null,
+     "first_year": 2002,
+     "last_year": 2010
+    },
+    "tri": {
+     "n": 6822,
+     "tri": [
+      "FRD_TRI_CARCASSONNE",
+      "FRD_TRI_NARBONNE"
+     ]
+    }
+   },
+   "zones_report": {
+    "ppr_features": 243,
+    "ppr_procedures": 48,
+    "ppr_not_in_force": [
+     "11DDTM20100003",
+     "11DDTM20110003"
+    ],
+    "ppr_features_not_in_force": 12,
+    "ppr_features_unclassified": 2,
+    "ppr_unclassified_types": [
+     "01"
+    ],
+    "communes_flood_ppr": 205,
+    "communes_pss_only": [
+     "11013",
+     "11014",
+     "11037",
+     "11077",
+     "11084",
+     "11085",
+     "11258",
+     "11261",
+     "11269",
+     "11324",
+     "11360",
+     "11393",
+     "11441"
+    ],
+    "communes_digital": 191,
+    "communes_without_digital": [
+     "11013",
+     "11014",
+     "11037",
+     "11077",
+     "11084",
+     "11085",
+     "11144",
+     "11258",
+     "11261",
+     "11269",
+     "11324",
+     "11360",
+     "11393",
+     "11441"
+    ]
+   }
+  }
+ },
+ "buildings": 199243,
+ "zoned": 46055,
+ "zoned_by_zone": {
+  "ppr_red": 16672,
+  "ppr_blue": 27165,
+  "azi": 2149,
+  "azi_exc": 69
+ },
+ "after_ppr": 2589,
+ "after_ppr_by_zone": {
+  "ppr_red": 1050,
+  "ppr_blue": 1539
+ },
+ "after_ppr_res": 1852,
+ "after_ppr_mixed": 88,
+ "after_ppr_dwellings": 4950,
+ "post": 2126,
+ "post_by_zone": {
+  "ppr_red": 682,
+  "ppr_blue": 1304,
+  "azi": 138,
+  "azi_exc": 2
+ },
+ "post_mixed": 111,
+ "unknown_year": 2087,
+ "tri": {
+  "for": 1574,
+  "moy": 5952,
+  "fai": 752
+ },
+ "communes": 444,
+ "communes_flood_ppr": 192,
+ "communes_digital": 191,
+ "communes_anticipated": 81,
+ "after_first_ppr": 5201,
+ "communes_revised": 18,
+ "communes_pss_only": 13,
+ "communes_zoned": 298,
+ "communes_after_ppr": 139,
+ "ppr_years": {
+  "2001": 77,
+  "2003": 9,
+  "2004": 2,
+  "2007": 7,
+  "2008": 2,
+  "2010": 12,
+  "2011": 8,
+  "2012": 1,
+  "2013": 16,
+  "2014": 1,
+  "2016": 2,
+  "2017": 8,
+  "2018": 37,
+  "2019": 1,
+  "2021": 4,
+  "2023": 1,
+  "2024": 4
+ },
+ "periods": {
+  "boom": {
+   "years": [
+    2000,
+    2007
+   ],
+   "zoned": 3510,
+   "ppr": 3330,
+   "all": 19141,
+   "per_year": 438.8,
+   "ppr_per_year": 416.2,
+   "share": 18.34,
+   "ppr_share": 17.4,
+   "share_clean": 18.34,
+   "by_zone": {
+    "ppr_red": 753,
+    "ppr_blue": 2577,
+    "azi": 178,
+    "azi_exc": 2
+   }
+  },
+  "pre": {
+   "years": [
+    2008,
+    2016
+   ],
+   "zoned": 2883,
+   "ppr": 2682,
+   "all": 19833,
+   "per_year": 320.3,
+   "ppr_per_year": 298.0,
+   "share": 14.54,
+   "ppr_share": 13.52,
+   "share_clean": 14.52,
+   "by_zone": {
+    "ppr_red": 734,
+    "ppr_blue": 1948,
+    "azi": 183,
+    "azi_exc": 18
+   }
+  },
+  "post": {
+   "years": [
+    2017,
+    2023
+   ],
+   "zoned": 1906,
+   "ppr": 1780,
+   "all": 12093,
+   "per_year": 272.3,
+   "ppr_per_year": 254.3,
+   "share": 15.76,
+   "ppr_share": 14.72,
+   "share_clean": 15.58,
+   "by_zone": {
+    "ppr_red": 596,
+    "ppr_blue": 1184,
+    "azi": 125,
+    "azi_exc": 1
+   }
+  }
+ },
+ "effect": {
+  "communes": 178,
+  "before_share": 23.31,
+  "after_share": 15.61,
+  "before_ppr": 3364,
+  "after_ppr": 2864,
+  "before_per_year": 305.8,
+  "after_per_year": 238.5,
+  "years": [
+   2001,
+   2003,
+   2004,
+   2007,
+   2008,
+   2010,
+   2011,
+   2012,
+   2013,
+   2014,
+   2016,
+   2017,
+   2018,
+   2019
+  ]
+ },
+ "generated": "2026-10-15T17:14+00:00"
+}
