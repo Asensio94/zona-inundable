@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from html import escape
 from pathlib import Path
 
-from . import analysis, config, snczi, geo
+from . import analysis, config, geo, i18n, snczi
 from .logo import LOGO_SVG, favicon_link
 
 COMMON_CSS = Path(__file__).with_name("common.css").read_text(encoding="utf-8").strip()
@@ -101,6 +101,7 @@ PLANTILLA = r"""<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 __FAVICON__
 <title>Construir en zona inundable</title>
+<link rel="alternate" hreflang="fr" href="fr/">
 <meta name="description" content="Cuántos edificios se han construido cada año dentro de las zonas inundables del SNCZI, municipio a municipio, y si el ritmo cambió tras el Real Decreto 638/2016.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -115,6 +116,7 @@ __COMMON_CSS__
 :root[data-theme="dark"]{--zfp:#dce5f0;--t100:#a7b8cc;--t500:#5a6b80;--prov:#362d28}
 .marca{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
 .marca .label{color:var(--muted);font-size:14px}
+.idioma{font-size:14px}
 .bloque{max-width:1440px;margin:0 auto;padding:24px 16px 0}
 .bloque > h2{margin:0 0 8px;font:700 28px/1 var(--font-title);text-transform:uppercase;letter-spacing:.03em}
 .bloque > p{max-width:72ch;margin:0 0 10px}
@@ -156,6 +158,7 @@ table.periodos th{white-space:normal}
   <div class="marca">
     <h1>__LOGO__Construir en <span>zona inundable</span></h1>
     <span class="label">__REGION__ · SNCZI y Catastro · se actualiza cada mes</span>
+    <a class="idioma" href="fr/" hreflang="fr">__OTHER__</a>
   </div>
   <p class="lede">Cuántos edificios se han levantado dentro de las zonas inundables oficiales, año a año y municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó lo que se puede construir en ellas. Con los mapas del Ministerio para la Transición Ecológica y el año de construcción del Catastro.</p>
   <div class="figures">
@@ -377,6 +380,7 @@ def build() -> Path:
             .replace("__COMMON_CSS__", COMMON_CSS)
             .replace("__ACCENT__", ACCENT).replace("__ACCENT_DARK__", ACCENT_DARK)
             .replace("__REGION__", " · ".join(config.REGIONS.values()))
+            .replace("__OTHER__", escape(i18n.t("es", "other_country_link")))
             .replace("__ZONED__", _es(s["zoned"]))
             .replace("__POST__", _es(s["post"]))
             .replace("__NPOST__", _es(s["municipalities_post"]))

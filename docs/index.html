@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cstyle%3E.b%7Bfill%3A%23221d1a%7D.p%7Bfill%3A%234a5d75%7D.l%7Bstroke%3A%23221d1a%7D%40media%20%28prefers-color-scheme%3Adark%29%7B.b%7Bfill%3A%23ede6e0%7D.p%7Bfill%3A%23a7b8cc%7D.l%7Bstroke%3A%23ede6e0%7D%7D%3C/style%3E%3Cg%20class%3D%22b%22%3E%3Ccircle%20cx%3D%2234%22%20cy%3D%2231%22%20r%3D%2219%22/%3E%3Cpath%20d%3D%22M19%2040%207%2050.5l3.5%204L25%2046z%22/%3E%3Cpath%20d%3D%22M52%2022l8%202.5-8%202.5z%22/%3E%3C/g%3E%3Cpath%20class%3D%22p%22%20d%3D%22M34%2012a19%2019%200%200%201%2015%2030.8C42%2041%2037%2034%2037%2026c0-6%201.5-10.5%204-12.6A19%2019%200%200%200%2034%2012z%22/%3E%3Cg%20fill%3D%22%23221d1a%22%3E%3Ccircle%20cx%3D%2245%22%20cy%3D%2221.5%22%20r%3D%222.1%22/%3E%3C/g%3E%3Cpath%20class%3D%22l%22%20d%3D%22M31%2049.5V60m7-11v11m-10.5.2h6m1.5%200h6%22%20fill%3D%22none%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22/%3E%3C/svg%3E">
 <title>Construir en zona inundable</title>
+<link rel="alternate" hreflang="fr" href="fr/">
 <meta name="description" content="Cuántos edificios se han construido cada año dentro de las zonas inundables del SNCZI, municipio a municipio, y si el ritmo cambió tras el Real Decreto 638/2016.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -100,6 +101,7 @@ table.params td.num,table.params th.num{text-align:right;font-family:var(--font-
 :root[data-theme="dark"]{--zfp:#dce5f0;--t100:#a7b8cc;--t500:#5a6b80;--prov:#362d28}
 .marca{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
 .marca .label{color:var(--muted);font-size:14px}
+.idioma{font-size:14px}
 .bloque{max-width:1440px;margin:0 auto;padding:24px 16px 0}
 .bloque > h2{margin:0 0 8px;font:700 28px/1 var(--font-title);text-transform:uppercase;letter-spacing:.03em}
 .bloque > p{max-width:72ch;margin:0 0 10px}
@@ -141,6 +143,7 @@ table.periodos th{white-space:normal}
   <div class="marca">
     <h1><svg class="logo" viewBox="0 0 64 64" aria-hidden="true" focusable="false"><g fill="currentColor"><circle cx="34" cy="31" r="19"/><path d="M19 40 7 50.5l3.5 4L25 46z"/><path d="M52 22l8 2.5-8 2.5z"/></g><path class="logo-breast" d="M34 12a19 19 0 0 1 15 30.8C42 41 37 34 37 26c0-6 1.5-10.5 4-12.6A19 19 0 0 0 34 12z"/><g fill="#221d1a"><circle cx="45" cy="21.5" r="2.1"/></g><path d="M31 49.5V60m7-11v11m-10.5.2h6m1.5 0h6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>Construir en <span>zona inundable</span></h1>
     <span class="label">Comunitat Valenciana · SNCZI y Catastro · se actualiza cada mes</span>
+    <a class="idioma" href="fr/" hreflang="fr">Versión francesa: el Aude, con los PPRi</a>
   </div>
   <p class="lede">Cuántos edificios se han levantado dentro de las zonas inundables oficiales, año a año y municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó lo que se puede construir en ellas. Con los mapas del Ministerio para la Transición Ecológica y el año de construcción del Catastro.</p>
   <div class="figures">
@@ -228,7 +231,7 @@ table.periodos th{white-space:normal}
     <p class="aviso">Navarra y el País Vasco tienen catastro propio, fuera del servicio estatal; cuando el proyecto llegue a toda España, allí no habrá cifras.</p>
     <p>El Catastro numera los municipios de otra forma que el INE. Cada municipio catastral se identifica por su nombre entre los municipios cercanos a sus edificios. Los pocos que no están en el mapa municipal de es-atlas salen con su código del Catastro precedido de «C».</p>
     <h3>Datos abiertos</h3>
-    <p><a href="edificios-municipios.csv">edificios-municipios.csv</a> (una fila por municipio) · <a href="edificios-anuales.csv">edificios-anuales.csv</a> (por municipio, clase y año) · <a href="signals.json">signals.json</a> · recuentos por municipio catastral en el <a href="https://github.com/Asensio94/zona-inundable/tree/main/data/counts">repositorio</a> · <a href="https://github.com/Asensio94/zona-inundable">código</a>. Generado el 13/10/2026 a las 19:24 UTC.</p>
+    <p><a href="edificios-municipios.csv">edificios-municipios.csv</a> (una fila por municipio) · <a href="edificios-anuales.csv">edificios-anuales.csv</a> (por municipio, clase y año) · <a href="signals.json">signals.json</a> · recuentos por municipio catastral en el <a href="https://github.com/Asensio94/zona-inundable/tree/main/data/counts">repositorio</a> · <a href="https://github.com/Asensio94/zona-inundable">código</a>. Generado el 15/10/2026 a las 17:14 UTC.</p>
   </div>
 </section>
 

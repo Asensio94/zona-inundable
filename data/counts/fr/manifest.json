@@ -1,0 +1,3270 @@
+{
+ "11": {
+  "name": "Aude",
+  "millesime": "2026-02-a",
+  "ff_year": 2025,
+  "zones": "1-488d0d72d1a5954f",
+  "zones_summary": {
+   "ppr_red": {
+    "n": 28448,
+    "procedures": 45,
+    "first_year": 2001,
+    "last_year": 2025
+   },
+   "ppr_blue": {
+    "n": 17174,
+    "procedures": 44,
+    "first_year": 2001,
+    "last_year": 2025
+   },
+   "azi": {
+    "n": 18170,
+    "procedures": null,
+    "first_year": 2002,
+    "last_year": 2015
+   },
+   "azi_exc": {
+    "n": 3010,
+    "procedures": null,
+    "first_year": 2002,
+    "last_year": 2010
+   },
+   "tri": {
+    "n": 6822,
+    "tri": [
+     "FRD_TRI_CARCASSONNE",
+     "FRD_TRI_NARBONNE"
+    ]
+   }
+  },
+  "zones_report": {
+   "ppr_features": 243,
+   "ppr_procedures": 48,
+   "ppr_not_in_force": [
+    "11DDTM20100003",
+    "11DDTM20110003"
+   ],
+   "ppr_features_not_in_force": 12,
+   "ppr_features_unclassified": 2,
+   "ppr_unclassified_types": [
+    "01"
+   ],
+   "communes_flood_ppr": 205,
+   "communes_pss_only": [
+    "11013",
+    "11014",
+    "11037",
+    "11077",
+    "11084",
+    "11085",
+    "11258",
+    "11261",
+    "11269",
+    "11324",
+    "11360",
+    "11393",
+    "11441"
+   ],
+   "communes_digital": 191,
+   "communes_without_digital": [
+    "11013",
+    "11014",
+    "11037",
+    "11077",
+    "11084",
+    "11085",
+    "11144",
+    "11258",
+    "11261",
+    "11269",
+    "11324",
+    "11360",
+    "11393",
+    "11441"
+   ]
+  },
+  "ppr_communes": {
+   "11001": {
+    "name": "Aigues-Vives",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11008": {
+    "name": "Alet-les-Bains",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11009": {
+    "name": "Alzonne",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11010": {
+    "name": "Antugnac",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11011": {
+    "name": "Aragon",
+    "first_approval": 2024,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "PPRN-I_2022_0024"
+    ],
+    "prescribed": 0
+   },
+   "11013": {
+    "name": "Argens-Minervois",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490009"
+    ],
+    "prescribed": 0
+   },
+   "11014": {
+    "name": "Armissan",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490010"
+    ],
+    "prescribed": 1
+   },
+   "11018": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11020": {
+    "name": "Auriac",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11021": {
+    "name": "Axat",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11022": {
+    "name": "Azille",
+    "first_approval": 2011,
+    "anticipated": false,
+    "pss": 1948,
+    "first_ppr": 2011,
+    "digital": true,
+    "procedures": [
+     "11DDTM19480002",
+     "11DDTM20100032"
+    ],
+    "prescribed": 0
+   },
+   "11023": {
+    "name": "Badens",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11024": {
+    "name": "Bages",
+    "first_approval": 2021,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2021,
+    "digital": true,
+    "procedures": [
+     "11DDTM20150001"
+    ],
+    "prescribed": 0
+   },
+   "11025": {
+    "name": "Bagnoles",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11027": {
+    "name": "Barbaira",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11031": {
+    "name": "Belfort-sur-Rebenty",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130007"
+    ],
+    "prescribed": 0
+   },
+   "11034": {
+    "name": "Belvèze-du-Razès",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130002"
+    ],
+    "prescribed": 0
+   },
+   "11035": {
+    "name": "Belvianes-et-Cavirac",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11037": {
+    "name": "Berriac",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490013"
+    ],
+    "prescribed": 0
+   },
+   "11040": {
+    "name": "Bizanet",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11041": {
+    "name": "Bize-Minervois",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050005"
+    ],
+    "prescribed": 0
+   },
+   "11042": {
+    "name": "Blomac",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11043": {
+    "name": "Bouilhonnac",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": 1960,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006",
+     "11DDTM20080005"
+    ],
+    "prescribed": 1
+   },
+   "11044": {
+    "name": "Bouisse",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050002"
+    ],
+    "prescribed": 0
+   },
+   "11048": {
+    "name": "Boutenac",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11049": {
+    "name": "Bram",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003",
+     "PPRN-I_2022_0025"
+    ],
+    "prescribed": 0
+   },
+   "11053": {
+    "name": "Brugairolles",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130002"
+    ],
+    "prescribed": 0
+   },
+   "11056": {
+    "name": "Cabrespine",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11058": {
+    "name": "Cailhau",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130002"
+    ],
+    "prescribed": 0
+   },
+   "11061": {
+    "name": "Cambieure",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130002"
+    ],
+    "prescribed": 0
+   },
+   "11063": {
+    "name": "Campagne-sur-Aude",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11064": {
+    "name": "Camplong-d'Aude",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11067": {
+    "name": "Canet",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11068": {
+    "name": "Capendu",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11069": {
+    "name": "Carcassonne",
+    "first_approval": 2014,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2000,
+    "digital": true,
+    "procedures": [
+     "11DDTM20110010"
+    ],
+    "prescribed": 0
+   },
+   "11071": {
+    "name": "Cascastel-des-Corbières",
+    "first_approval": 2017,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130012"
+    ],
+    "prescribed": 0
+   },
+   "11073": {
+    "name": "Cassaignes",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 0
+   },
+   "11075": {
+    "name": "Castans",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11076": {
+    "name": "Castelnaudary",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11077": {
+    "name": "Castelnau-d'Aude",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490017"
+    ],
+    "prescribed": 0
+   },
+   "11078": {
+    "name": "Castelreng",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130004"
+    ],
+    "prescribed": 0
+   },
+   "11079": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11081": {
+    "name": "Caunes-Minervois",
+    "first_approval": 2007,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2007,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050003"
+    ],
+    "prescribed": 0
+   },
+   "11082": {
+    "name": "Caunette-sur-Lauquet",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050002"
+    ],
+    "prescribed": 1
+   },
+   "11084": {
+    "name": "Caux-et-Sauzens",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1960,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19600004"
+    ],
+    "prescribed": 0
+   },
+   "11085": {
+    "name": "Cavanac",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490018"
+    ],
+    "prescribed": 1
+   },
+   "11088": {
+    "name": "Cazilhac",
+    "first_approval": 2004,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2004,
+    "digital": true,
+    "procedures": [
+     "11DDTM20040005"
+    ],
+    "prescribed": 1
+   },
+   "11089": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11090": {
+    "name": "Cépie",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11092": {
+    "name": "Citou",
+    "first_approval": 2007,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2007,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050003"
+    ],
+    "prescribed": 0
+   },
+   "11094": {
+    "name": "Clermont-sur-Lauquet",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050002"
+    ],
+    "prescribed": 1
+   },
+   "11099": {
+    "name": "Conques-sur-Orbiel",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": 1960,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM19600005",
+     "11DDTM20040002",
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11102": {
+    "name": "Couffoulens",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": 1949,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050002",
+     "11DDTM20080007"
+    ],
+    "prescribed": 1
+   },
+   "11103": {
+    "name": "Couiza",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 1995,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11105": {
+    "name": "Cournanel",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11106": {
+    "name": "Coursan",
+    "first_approval": 2008,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2008,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080009"
+    ],
+    "prescribed": 0
+   },
+   "11109": {
+    "name": "Coustaussa",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 0
+   },
+   "11111": {
+    "name": "Cruscades",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11113": {
+    "name": "Cucugnan",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050008"
+    ],
+    "prescribed": 0
+   },
+   "11115": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11116": {
+    "name": "Cuxac-d'Aude",
+    "first_approval": 2008,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2008,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080010"
+    ],
+    "prescribed": 0
+   },
+   "11117": {
+    "name": "Davejean",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11119": {
+    "name": "La Digne-d'Amont",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130004"
+    ],
+    "prescribed": 0
+   },
+   "11120": {
+    "name": "La Digne-d'Aval",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130004"
+    ],
+    "prescribed": 0
+   },
+   "11122": {
+    "name": "Douzens",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11123": {
+    "name": "Duilhac-sous-Peyrepertuse",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050008"
+    ],
+    "prescribed": 0
+   },
+   "11124": {
+    "name": "Durban-Corbières",
+    "first_approval": 2017,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130012"
+    ],
+    "prescribed": 0
+   },
+   "11129": {
+    "name": "Espéraza",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11131": {
+    "name": "Val-du-Faby",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001",
+     "11DDTM20130006"
+    ],
+    "prescribed": 0
+   },
+   "11132": {
+    "name": "Fabrezan",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11137": {
+    "name": "Félines-Termenès",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11140": {
+    "name": "Ferrals-les-Corbières",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11142": {
+    "name": "Festes-et-Saint-André",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130005"
+    ],
+    "prescribed": 0
+   },
+   "11144": {
+    "name": "Fitou",
+    "first_approval": 2021,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2021,
+    "digital": false,
+    "procedures": [
+     "11DDTM20150002"
+    ],
+    "prescribed": 0
+   },
+   "11145": {
+    "name": "Fleury",
+    "first_approval": 2016,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2016,
+    "digital": true,
+    "procedures": [
+     "11DDTM20120037"
+    ],
+    "prescribed": 0
+   },
+   "11146": {
+    "name": "Floure",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11151": {
+    "name": "Fontiès-d'Aude",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11154": {
+    "name": "Fournes-Cabardès",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11155": {
+    "name": "Fourtou",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11156": {
+    "name": "Fraisse-Cabardès",
+    "first_approval": 2024,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "PPRN-I_2022_0024"
+    ],
+    "prescribed": 0
+   },
+   "11161": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11164": {
+    "name": "Ginestas",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050005"
+    ],
+    "prescribed": 0
+   },
+   "11165": {
+    "name": "Ginoles",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11167": {
+    "name": "Gramazie",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130002"
+    ],
+    "prescribed": 0
+   },
+   "11169": {
+    "name": "Greffeil",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050002"
+    ],
+    "prescribed": 1
+   },
+   "11170": {
+    "name": "Gruissan",
+    "first_approval": 2017,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2017,
+    "digital": true,
+    "procedures": [
+     "11DDTM20120038"
+    ],
+    "prescribed": 1
+   },
+   "11172": {
+    "name": "Homps",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100030"
+    ],
+    "prescribed": 0
+   },
+   "11174": {
+    "name": "Les Ilhes",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11177": {
+    "name": "Joucou",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130007"
+    ],
+    "prescribed": 0
+   },
+   "11179": {
+    "name": "Labastide-en-Val",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11180": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11183": {
+    "name": "Ladern-sur-Lauquet",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050002"
+    ],
+    "prescribed": 1
+   },
+   "11185": {
+    "name": "Lagrasse",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11187": {
+    "name": "Lanet",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11188": {
+    "name": "La Palme",
+    "first_approval": 2021,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2021,
+    "digital": true,
+    "procedures": [
+     "11DDTM20150003"
+    ],
+    "prescribed": 0
+   },
+   "11190": {
+    "name": "La Redorte",
+    "first_approval": 2007,
+    "anticipated": false,
+    "pss": 1948,
+    "first_ppr": 2007,
+    "digital": true,
+    "procedures": [
+     "11DDTM19480004",
+     "11DDTM19490026",
+     "11DDTM20050003"
+    ],
+    "prescribed": 0
+   },
+   "11192": {
+    "name": "Lasbordes",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11194": {
+    "name": "Lastours",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11198": {
+    "name": "Laure-Minervois",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11200": {
+    "name": "Lespinassière",
+    "first_approval": 2007,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2007,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050003"
+    ],
+    "prescribed": 0
+   },
+   "11201": {
+    "name": "Leuc",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050002"
+    ],
+    "prescribed": 1
+   },
+   "11202": {
+    "name": "Leucate",
+    "first_approval": 2017,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2017,
+    "digital": true,
+    "procedures": [
+     "11DDTM20120039"
+    ],
+    "prescribed": 0
+   },
+   "11203": {
+    "name": "Lézignan-Corbières",
+    "first_approval": 2016,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2016,
+    "digital": true,
+    "procedures": [
+     "11DDTM20150005"
+    ],
+    "prescribed": 0
+   },
+   "11205": {
+    "name": "Limousis",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11206": {
+    "name": "Limoux",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2003,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11207": {
+    "name": "Loupia",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130003"
+    ],
+    "prescribed": 0
+   },
+   "11209": {
+    "name": "Luc-sur-Aude",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11210": {
+    "name": "Luc-sur-Orbieu",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11212": {
+    "name": "Mailhac",
+    "first_approval": 2011,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2011,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100049"
+    ],
+    "prescribed": 0
+   },
+   "11215": {
+    "name": "Malves-en-Minervois",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11217": {
+    "name": "Marcorignan",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11219": {
+    "name": "Marsa",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130007"
+    ],
+    "prescribed": 0
+   },
+   "11220": {
+    "name": "Marseillette",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11221": {
+    "name": "Les Martys",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11222": {
+    "name": "Mas-Cabardès",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11232": {
+    "name": "Miraval-Cabardès",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11233": {
+    "name": "Mirepeisset",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050005"
+    ],
+    "prescribed": 0
+   },
+   "11235": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11240": {
+    "name": "Montazels",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 1995,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11250": {
+    "name": "Montjoi",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11253": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11255": {
+    "name": "Montredon-des-Corbières",
+    "first_approval": 2003,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2003,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050011"
+    ],
+    "prescribed": 0
+   },
+   "11258": {
+    "name": "Moussan",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490030"
+    ],
+    "prescribed": 1
+   },
+   "11261": {
+    "name": "Moux",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490031"
+    ],
+    "prescribed": 0
+   },
+   "11262": {
+    "name": "Narbonne",
+    "first_approval": 2003,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2003,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050011",
+     "11DDTM20080008",
+     "11DDTM20120036"
+    ],
+    "prescribed": 0
+   },
+   "11264": {
+    "name": "Névian",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11265": {
+    "name": "Niort-de-Sault",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130007"
+    ],
+    "prescribed": 0
+   },
+   "11266": {
+    "name": "Port-la-Nouvelle",
+    "first_approval": 2019,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130009"
+    ],
+    "prescribed": 0
+   },
+   "11267": {
+    "name": "Ornaisons",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11269": {
+    "name": "Ouveillan",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490034"
+    ],
+    "prescribed": 1
+   },
+   "11270": {
+    "name": "Padern",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050008"
+    ],
+    "prescribed": 0
+   },
+   "11272": {
+    "name": "Palaja",
+    "first_approval": 2004,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2004,
+    "digital": true,
+    "procedures": [
+     "11DDTM20040005"
+    ],
+    "prescribed": 1
+   },
+   "11273": {
+    "name": "Paraza",
+    "first_approval": 2011,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2011,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100049"
+    ],
+    "prescribed": 0
+   },
+   "11276": {
+    "name": "Paziols",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050008"
+    ],
+    "prescribed": 0
+   },
+   "11279": {
+    "name": "Pennautier",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11280": {
+    "name": "Pépieux",
+    "first_approval": 2003,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2003,
+    "digital": true,
+    "procedures": [
+     "34DDTM20040007"
+    ],
+    "prescribed": 0
+   },
+   "11281": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11285": {
+    "name": "Peyriac-de-Mer",
+    "first_approval": 2021,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20150004"
+    ],
+    "prescribed": 0
+   },
+   "11286": {
+    "name": "Peyriac-Minervois",
+    "first_approval": 2007,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2007,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050003"
+    ],
+    "prescribed": 0
+   },
+   "11288": {
+    "name": "Pezens",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11289": {
+    "name": "Pieusse",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11293": {
+    "name": "Pomas",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11295": {
+    "name": "Portel-des-Corbières",
+    "first_approval": 2017,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130012"
+    ],
+    "prescribed": 0
+   },
+   "11296": {
+    "name": "Pouzols-Minervois",
+    "first_approval": 2011,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2011,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100049"
+    ],
+    "prescribed": 0
+   },
+   "11299": {
+    "name": "Preixan",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11301": {
+    "name": "Puichéric",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11304": {
+    "name": "Quillan",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11305": {
+    "name": "Quintillan",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 0
+   },
+   "11307": {
+    "name": "Raissac-d'Aude",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": 1949,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM19490039",
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11310": {
+    "name": "Rennes-les-Bains",
+    "first_approval": 2003,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2003,
+    "digital": true,
+    "procedures": [
+     "11DDTM20040004"
+    ],
+    "prescribed": 0
+   },
+   "11311": {
+    "name": "Ribaute",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11314": {
+    "name": "Rieux-en-Val",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11315": {
+    "name": "Rieux-Minervois",
+    "first_approval": 2007,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2007,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050003",
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11318": {
+    "name": "Roquecourbe-Minervois",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11319": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11322": {
+    "name": "Roquefort-des-Corbières",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130012"
+    ],
+    "prescribed": 0
+   },
+   "11324": {
+    "name": "Roubia",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490041"
+    ],
+    "prescribed": 0
+   },
+   "11325": {
+    "name": "Rouffiac-d'Aude",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11326": {
+    "name": "Rouffiac-des-Corbières",
+    "first_approval": 2011,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2011,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050014"
+    ],
+    "prescribed": 0
+   },
+   "11328": {
+    "name": "Routier",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130002"
+    ],
+    "prescribed": 0
+   },
+   "11330": {
+    "name": "Rustiques",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11332": {
+    "name": "Saint-André-de-Roquelongue",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11337": {
+    "name": "Saint-Couat-d'Aude",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11340": {
+    "name": "Sainte-Eulalie",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11342": {
+    "name": "Saint-Frichoux",
+    "first_approval": 2013,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2013,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100087"
+    ],
+    "prescribed": 0
+   },
+   "11344": {
+    "name": "Saint-Hilaire",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050002"
+    ],
+    "prescribed": 1
+   },
+   "11351": {
+    "name": "Saint-Laurent-de-la-Cabrerisse",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11353": {
+    "name": "Saint-Marcel-sur-Aude",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050005"
+    ],
+    "prescribed": 0
+   },
+   "11354": {
+    "name": "Saint-Martin-des-Puits",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11355": {
+    "name": "Saint-Martin-de-Villereglan",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11356": {
+    "name": "Saint-Martin-Lalande",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11357": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11358": {
+    "name": "Saint-Martin-Lys",
+    "first_approval": 2018,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2018,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130001"
+    ],
+    "prescribed": 0
+   },
+   "11360": {
+    "name": "Saint-Nazaire-d'Aude",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490045"
+    ],
+    "prescribed": 0
+   },
+   "11361": {
+    "name": "Saint-Papoul",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11363": {
+    "name": "Saint-Pierre-des-Champs",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11366": {
+    "name": "Sainte-Valière",
+    "first_approval": 2011,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2011,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100049"
+    ],
+    "prescribed": 0
+   },
+   "11368": {
+    "name": "Sallèles-Cabardès",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11369": {
+    "name": "Sallèles-d'Aude",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050005"
+    ],
+    "prescribed": 1
+   },
+   "11370": {
+    "name": "Salles-d'Aude",
+    "first_approval": 2011,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2011,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100031"
+    ],
+    "prescribed": 0
+   },
+   "11372": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11378": {
+    "name": "Serviès-en-Val",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11379": {
+    "name": "Sigean",
+    "first_approval": 2017,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130012"
+    ],
+    "prescribed": 0
+   },
+   "11384": {
+    "name": "Soulatgé",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050008"
+    ],
+    "prescribed": 0
+   },
+   "11386": {
+    "name": "Talairan",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11387": {
+    "name": "Taurize",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11388": {
+    "name": "Termes",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11392": {
+    "name": "Tournissan",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11393": {
+    "name": "Tourouzelle",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490048"
+    ],
+    "prescribed": 0
+   },
+   "11395": {
+    "name": "Trassanel",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11396": {
+    "name": "Trausse",
+    "first_approval": 2007,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2007,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050003"
+    ],
+    "prescribed": 0
+   },
+   "11397": {
+    "name": "Trèbes",
+    "first_approval": 2024,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2008,
+    "digital": true,
+    "procedures": [
+     "PPRN-I_2022_0027"
+    ],
+    "prescribed": 0
+   },
+   "11401": {
+    "name": "Tuchan",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050008"
+    ],
+    "prescribed": 0
+   },
+   "11404": {
+    "name": "Ventenac-Cabardès",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11405": {
+    "name": "Ventenac-en-Minervois",
+    "first_approval": 2011,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2011,
+    "digital": true,
+    "procedures": [
+     "11DDTM20100049"
+    ],
+    "prescribed": 0
+   },
+   "11408": {
+    "name": "Verzeille",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050002"
+    ],
+    "prescribed": 1
+   },
+   "11409": {
+    "name": "Vignevieille",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11410": {
+    "name": "Villalier",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20040002",
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11411": {
+    "name": "Villanière",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11412": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11414": {
+    "name": "Villar-en-Val",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11415": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11416": {
+    "name": "Villarzel-Cabardès",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11420": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11421": {
+    "name": "Villedaigne",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007",
+     "11DDTM20090002"
+    ],
+    "prescribed": 0
+   },
+   "11422": {
+    "name": "Villedubert",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": 1949,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM19490052",
+     "11DDTM20040002"
+    ],
+    "prescribed": 1
+   },
+   "11423": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11425": {
+    "name": "Villegailhenc",
+    "first_approval": 2023,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "PPRN-I_2023_0076"
+    ],
+    "prescribed": 0
+   },
+   "11426": {
+    "name": "Villegly",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11429": {
+    "name": "Villemoustaussou",
+    "first_approval": 2024,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "PPRN-I_2022_0024"
+    ],
+    "prescribed": 0
+   },
+   "11430": {
+    "name": null,
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 1
+   },
+   "11431": {
+    "name": "Villeneuve-les-Corbières",
+    "first_approval": 2017,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130012"
+    ],
+    "prescribed": 0
+   },
+   "11432": {
+    "name": "Villeneuve-lès-Montréal",
+    "first_approval": 2012,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2012,
+    "digital": true,
+    "procedures": [
+     "11DDTM20110007"
+    ],
+    "prescribed": 0
+   },
+   "11433": {
+    "name": "Villeneuve-Minervois",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050006"
+    ],
+    "prescribed": 1
+   },
+   "11434": {
+    "name": "Villepinte",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11435": {
+    "name": "Villerouge-Termenès",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11436": {
+    "name": "Villesèque-des-Corbières",
+    "first_approval": 2017,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20130012"
+    ],
+    "prescribed": 0
+   },
+   "11437": {
+    "name": "Villesèquelande",
+    "first_approval": 2010,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2010,
+    "digital": true,
+    "procedures": [
+     "11DDTM20080003"
+    ],
+    "prescribed": 1
+   },
+   "11440": {
+    "name": "Villetritouls",
+    "first_approval": 2001,
+    "anticipated": true,
+    "pss": null,
+    "first_ppr": 2001,
+    "digital": true,
+    "procedures": [
+     "11DDTM20050007"
+    ],
+    "prescribed": 0
+   },
+   "11441": {
+    "name": "Vinassan",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": 1949,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [
+     "11DDTM19490054"
+    ],
+    "prescribed": 1
+   },
+   "34052": {
+    "name": "Capestang",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 0
+   },
+   "34075": {
+    "name": "Cesseras",
+    "first_approval": 2003,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2003,
+    "digital": true,
+    "procedures": [
+     "34DDTM20040007"
+    ],
+    "prescribed": 0
+   },
+   "34097": {
+    "name": "Félines-Minervois",
+    "first_approval": 2003,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2003,
+    "digital": true,
+    "procedures": [
+     "34DDTM20040007"
+    ],
+    "prescribed": 0
+   },
+   "34135": {
+    "name": "Lespignan",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 0
+   },
+   "34141": {
+    "name": "La Livinière",
+    "first_approval": 2003,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2003,
+    "digital": true,
+    "procedures": [
+     "34DDTM20040007"
+    ],
+    "prescribed": 0
+   },
+   "34167": {
+    "name": "Montels",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 0
+   },
+   "34183": {
+    "name": "Nissan-lez-Enserune",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 0
+   },
+   "34189": {
+    "name": "Olonzac",
+    "first_approval": 2003,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2003,
+    "digital": true,
+    "procedures": [
+     "34DDTM20040007"
+    ],
+    "prescribed": 0
+   },
+   "34206": {
+    "name": "Poilhes",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 0
+   },
+   "34302": {
+    "name": "Siran",
+    "first_approval": 2003,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": 2003,
+    "digital": true,
+    "procedures": [
+     "34DDTM20040007"
+    ],
+    "prescribed": 0
+   },
+   "34329": {
+    "name": "Vendres",
+    "first_approval": null,
+    "anticipated": false,
+    "pss": null,
+    "first_ppr": null,
+    "digital": false,
+    "procedures": [],
+    "prescribed": 0
+   }
+  },
+  "groups": 289912,
+  "groups_with_year": 199243,
+  "unknown_year": 6467,
+  "no_tax_record_by_zone": {
+   "out": 71529,
+   "ppr_red": 9213,
+   "ppr_blue": 8367,
+   "azi": 1530,
+   "azi_exc": 30
+  },
+  "names": {
+   "11001": "Aigues-Vives",
+   "11002": "Airoux",
+   "11003": "Ajac",
+   "11004": "Alaigne",
+   "11005": "Alairac",
+   "11006": "Albas",
+   "11007": "Albières",
+   "11008": "Alet-les-Bains",
+   "11009": "Alzonne",
+   "11010": "Antugnac",
+   "11011": "Aragon",
+   "11012": "Argeliers",
+   "11013": "Argens-Minervois",
+   "11014": "Armissan",
+   "11015": "Arques",
+   "11016": "Arquettes-en-Val",
+   "11017": "Artigues",
+   "11018": "Arzens",
+   "11019": "Aunat",
+   "11020": "Auriac",
+   "11021": "Axat",
+   "11022": "Azille",
+   "11023": "Badens",
+   "11024": "Bages",
+   "11025": "Bagnoles",
+   "11026": "Baraigne",
+   "11027": "Barbaira",
+   "11028": "Belcaire",
+   "11029": "Belcastel-et-Buc",
+   "11030": "Belflou",
+   "11031": "Belfort-sur-Rebenty",
+   "11032": "Bellegarde-du-Razès",
+   "11033": "Belpech",
+   "11034": "Belvèze-du-Razès",
+   "11035": "Belvianes-et-Cavirac",
+   "11036": "Belvis",
+   "11037": "Berriac",
+   "11038": "Bessède-de-Sault",
+   "11039": "La Bezole",
+   "11040": "Bizanet",
+   "11041": "Bize-Minervois",
+   "11042": "Blomac",
+   "11043": "Bouilhonnac",
+   "11044": "Bouisse",
+   "11045": "Bouriège",
+   "11046": "Bourigeole",
+   "11047": "Le Bousquet",
+   "11048": "Boutenac",
+   "11049": "Bram",
+   "11051": "Brézilhac",
+   "11052": "Brousses-et-Villaret",
+   "11053": "Brugairolles",
+   "11054": "Les Brunels",
+   "11055": "Bugarach",
+   "11056": "Cabrespine",
+   "11057": "Cahuzac",
+   "11058": "Cailhau",
+   "11059": "Cailhavel",
+   "11060": "Cailla",
+   "11061": "Cambieure",
+   "11062": "Campagna-de-Sault",
+   "11063": "Campagne-sur-Aude",
+   "11064": "Camplong-d'Aude",
+   "11065": "Camps-sur-l'Agly",
+   "11066": "Camurac",
+   "11067": "Canet",
+   "11068": "Capendu",
+   "11069": "Carcassonne",
+   "11070": "Carlipa",
+   "11071": "Cascastel-des-Corbières",
+   "11072": "La Cassaigne",
+   "11073": "Cassaignes",
+   "11074": "Les Cassés",
+   "11075": "Castans",
+   "11076": "Castelnaudary",
+   "11077": "Castelnau-d'Aude",
+   "11078": "Castelreng",
+   "11079": "Caudebronde",
+   "11080": "Val de Lambronne",
+   "11081": "Caunes-Minervois",
+   "11082": "Caunette-sur-Lauquet",
+   "11083": "Caunettes-en-Val",
+   "11084": "Caux-et-Sauzens",
+   "11085": "Cavanac",
+   "11086": "Caves",
+   "11087": "Cazalrenoux",
+   "11088": "Cazilhac",
+   "11089": "Cenne-Monestiés",
+   "11090": "Cépie",
+   "11091": "Chalabre",
+   "11092": "Citou",
+   "11093": "Le Clat",
+   "11094": "Clermont-sur-Lauquet",
+   "11095": "Comigne",
+   "11096": "Comus",
+   "11098": "Conilhac-Corbières",
+   "11099": "Conques-sur-Orbiel",
+   "11100": "Corbières",
+   "11101": "Coudons",
+   "11102": "Couffoulens",
+   "11103": "Couiza",
+   "11104": "Counozouls",
+   "11105": "Cournanel",
+   "11106": "Coursan",
+   "11107": "Courtauly",
+   "11108": "La Courtète",
+   "11109": "Coustaussa",
+   "11110": "Coustouge",
+   "11111": "Cruscades",
+   "11112": "Cubières-sur-Cinoble",
+   "11113": "Cucugnan",
+   "11114": "Cumiès",
+   "11115": "Cuxac-Cabardès",
+   "11116": "Cuxac-d'Aude",
+   "11117": "Davejean",
+   "11118": "Dernacueillette",
+   "11119": "La Digne-d'Amont",
+   "11120": "La Digne-d'Aval",
+   "11121": "Donazac",
+   "11122": "Douzens",
+   "11123": "Duilhac-sous-Peyrepertuse",
+   "11124": "Durban-Corbières",
+   "11125": "Embres-et-Castelmaure",
+   "11126": "Escales",
+   "11127": "Escouloubre",
+   "11128": "Escueillens-et-Saint-Just-de-Bélengard",
+   "11129": "Espéraza",
+   "11130": "Espezel",
+   "11131": "Val-du-Faby",
+   "11132": "Fabrezan",
+   "11133": "Fajac-en-Val",
+   "11134": "Fajac-la-Relenque",
+   "11135": "La Fajolle",
+   "11136": "Fanjeaux",
+   "11137": "Félines-Termenès",
+   "11138": "Fendeille",
+   "11139": "Fenouillet-du-Razès",
+   "11140": "Ferrals-les-Corbières",
+   "11141": "Ferran",
+   "11142": "Festes-et-Saint-André",
+   "11143": "Feuilla",
+   "11144": "Fitou",
+   "11145": "Fleury",
+   "11146": "Floure",
+   "11147": "Fontanès-de-Sault",
+   "11148": "Fontcouverte",
+   "11149": "Fonters-du-Razès",
+   "11150": "Fontiers-Cabardès",
+   "11151": "Fontiès-d'Aude",
+   "11152": "Fontjoncouse",
+   "11153": "La Force",
+   "11154": "Fournes-Cabardès",
+   "11155": "Fourtou",
+   "11156": "Fraisse-Cabardès",
+   "11157": "Fraissé-des-Corbières",
+   "11158": "Gaja-et-Villedieu",
+   "11159": "Gaja-la-Selve",
+   "11160": "Galinagues",
+   "11161": "Gardie",
+   "11162": "Generville",
+   "11163": "Gincla",
+   "11164": "Ginestas",
+   "11165": "Ginoles",
+   "11166": "Gourvieille",
+   "11167": "Gramazie",
+   "11168": "Granès",
+   "11169": "Greffeil",
+   "11170": "Gruissan",
+   "11172": "Homps",
+   "11173": "Hounoux",
+   "11174": "Les Ilhes",
+   "11175": "Issel",
+   "11176": "Jonquières",
+   "11177": "Joucou",
+   "11178": "Labastide-d'Anjou",
+   "11179": "Labastide-en-Val",
+   "11180": "Labastide-Esparbairenque",
+   "11181": "Labécède-Lauragais",
+   "11182": "Lacombe",
+   "11183": "Ladern-sur-Lauquet",
+   "11184": "Lafage",
+   "11185": "Lagrasse",
+   "11186": "Lairière",
+   "11187": "Lanet",
+   "11188": "La Palme",
+   "11189": "Laprade",
+   "11190": "La Redorte",
+   "11191": "Laroque-de-Fa",
+   "11192": "Lasbordes",
+   "11193": "Lasserre-de-Prouille",
+   "11194": "Lastours",
+   "11195": "Laurabuc",
+   "11196": "Laurac",
+   "11197": "Lauraguel",
+   "11198": "Laure-Minervois",
+   "11199": "Lavalette",
+   "11200": "Lespinassière",
+   "11201": "Leuc",
+   "11202": "Leucate",
+   "11203": "Lézignan-Corbières",
+   "11204": "Lignairolles",
+   "11205": "Limousis",
+   "11206": "Limoux",
+   "11207": "Loupia",
+   "11208": "La Louvière-Lauragais",
+   "11209": "Luc-sur-Aude",
+   "11210": "Luc-sur-Orbieu",
+   "11211": "Magrie",
+   "11212": "Mailhac",
+   "11213": "Maisons",
+   "11214": "Malras",
+   "11215": "Malves-en-Minervois",
+   "11216": "Malviès",
+   "11217": "Marcorignan",
+   "11218": "Marquein",
+   "11219": "Marsa",
+   "11220": "Marseillette",
+   "11221": "Les Martys",
+   "11222": "Mas-Cabardès",
+   "11223": "Mas-des-Cours",
+   "11224": "Massac",
+   "11225": "Mas-Saintes-Puelles",
+   "11226": "Mayreville",
+   "11227": "Mayronnes",
+   "11228": "Mazerolles-du-Razès",
+   "11229": "Mazuby",
+   "11230": "Mérial",
+   "11231": "Mézerville",
+   "11232": "Miraval-Cabardès",
+   "11233": "Mirepeisset",
+   "11234": "Mireval-Lauragais",
+   "11235": "Missègre",
+   "11236": "Molandier",
+   "11238": "Molleville",
+   "11239": "Montauriol",
+   "11240": "Montazels",
+   "11241": "Montbrun-des-Corbières",
+   "11242": "Montclar",
+   "11243": "Montferrand",
+   "11244": "Montfort-sur-Boulzane",
+   "11245": "Montgaillard",
+   "11246": "Montgradail",
+   "11247": "Monthaut",
+   "11248": "Montirat",
+   "11249": "Montjardin",
+   "11250": "Montjoi",
+   "11251": "Val-de-Dagne",
+   "11252": "Montmaur",
+   "11253": "Montolieu",
+   "11254": "Montréal",
+   "11255": "Montredon-des-Corbières",
+   "11256": "Montséret",
+   "11257": "Monze",
+   "11258": "Moussan",
+   "11259": "Moussoulens",
+   "11260": "Mouthoumet",
+   "11261": "Moux",
+   "11262": "Narbonne",
+   "11263": "Nébias",
+   "11264": "Névian",
+   "11265": "Niort-de-Sault",
+   "11266": "Port-la-Nouvelle",
+   "11267": "Ornaisons",
+   "11268": "Orsans",
+   "11269": "Ouveillan",
+   "11270": "Padern",
+   "11271": "Palairac",
+   "11272": "Palaja",
+   "11273": "Paraza",
+   "11274": "Pauligne",
+   "11275": "Payra-sur-l'Hers",
+   "11276": "Paziols",
+   "11277": "Pécharic-et-le-Py",
+   "11278": "Pech-Luna",
+   "11279": "Pennautier",
+   "11280": "Pépieux",
+   "11281": "Pexiora",
+   "11282": "Peyrefitte-du-Razès",
+   "11283": "Peyrefitte-sur-l'Hers",
+   "11284": "Peyrens",
+   "11285": "Peyriac-de-Mer",
+   "11286": "Peyriac-Minervois",
+   "11287": "Peyrolles",
+   "11288": "Pezens",
+   "11289": "Pieusse",
+   "11290": "Plaigne",
+   "11291": "Plavilla",
+   "11292": "La Pomarède",
+   "11293": "Pomas",
+   "11294": "Pomy",
+   "11295": "Portel-des-Corbières",
+   "11296": "Pouzols-Minervois",
+   "11297": "Pradelles-Cabardès",
+   "11299": "Preixan",
+   "11300": "Puginier",
+   "11301": "Puichéric",
+   "11302": "Puilaurens",
+   "11303": "Puivert",
+   "11304": "Quillan",
+   "11305": "Quintillan",
+   "11306": "Quirbajou",
+   "11307": "Raissac-d'Aude",
+   "11308": "Raissac-sur-Lampy",
+   "11309": "Rennes-le-Château",
+   "11310": "Rennes-les-Bains",
+   "11311": "Ribaute",
+   "11312": "Ribouisse",
+   "11313": "Ricaud",
+   "11314": "Rieux-en-Val",
+   "11315": "Rieux-Minervois",
+   "11316": "Rivel",
+   "11317": "Rodome",
+   "11318": "Roquecourbe-Minervois",
+   "11319": "Roquefère",
+   "11320": "Roquefeuil",
+   "11321": "Roquefort-de-Sault",
+   "11322": "Roquefort-des-Corbières",
+   "11323": "Roquetaillade-et-Conilhac",
+   "11324": "Roubia",
+   "11325": "Rouffiac-d'Aude",
+   "11326": "Rouffiac-des-Corbières",
+   "11327": "Roullens",
+   "11328": "Routier",
+   "11330": "Rustiques",
+   "11331": "Saint-Amans",
+   "11332": "Saint-André-de-Roquelongue",
+   "11333": "Saint-Benoît",
+   "11334": "Sainte-Camelle",
+   "11335": "Sainte-Colombe-sur-Guette",
+   "11336": "Sainte-Colombe-sur-l'Hers",
+   "11337": "Saint-Couat-d'Aude",
+   "11338": "Saint-Couat-du-Razès",
+   "11339": "Saint-Denis",
+   "11340": "Sainte-Eulalie",
+   "11341": "Saint-Ferriol",
+   "11342": "Saint-Frichoux",
+   "11343": "Saint-Gaudéric",
+   "11344": "Saint-Hilaire",
+   "11345": "Saint-Jean-de-Barrou",
+   "11346": "Saint-Jean-de-Paracol",
+   "11347": "Saint-Julia-de-Bec",
+   "11348": "Saint-Julien-de-Briola",
+   "11350": "Saint-Just-et-le-Bézu",
+   "11351": "Saint-Laurent-de-la-Cabrerisse",
+   "11352": "Saint-Louis-et-Parahou",
+   "11353": "Saint-Marcel-sur-Aude",
+   "11354": "Saint-Martin-des-Puits",
+   "11355": "Saint-Martin-de-Villereglan",
+   "11356": "Saint-Martin-Lalande",
+   "11357": "Saint-Martin-le-Vieil",
+   "11358": "Saint-Martin-Lys",
+   "11359": "Saint-Michel-de-Lanès",
+   "11360": "Saint-Nazaire-d'Aude",
+   "11361": "Saint-Papoul",
+   "11362": "Saint-Paulet",
+   "11363": "Saint-Pierre-des-Champs",
+   "11364": "Saint-Polycarpe",
+   "11365": "Saint-Sernin",
+   "11366": "Sainte-Valière",
+   "11367": "Saissac",
+   "11368": "Sallèles-Cabardès",
+   "11369": "Sallèles-d'Aude",
+   "11370": "Salles-d'Aude",
+   "11371": "Salles-sur-l'Hers",
+   "11372": "Salsigne",
+   "11373": "Salvezines",
+   "11374": "Salza",
+   "11375": "Seignalens",
+   "11376": "La Serpent",
+   "11377": "Serres",
+   "11378": "Serviès-en-Val",
+   "11379": "Sigean",
+   "11380": "Sonnac-sur-l'Hers",
+   "11381": "Sougraigne",
+   "11382": "Souilhanels",
+   "11383": "Souilhe",
+   "11384": "Soulatgé",
+   "11385": "Soupex",
+   "11386": "Talairan",
+   "11387": "Taurize",
+   "11388": "Termes",
+   "11389": "Terroles",
+   "11390": "Thézan-des-Corbières",
+   "11391": "La Tourette-Cabardès",
+   "11392": "Tournissan",
+   "11393": "Tourouzelle",
+   "11394": "Tourreilles",
+   "11395": "Trassanel",
+   "11396": "Trausse",
+   "11397": "Trèbes",
+   "11398": "Treilles",
+   "11399": "Tréville",
+   "11400": "Tréziers",
+   "11401": "Tuchan",
+   "11402": "Valmigère",
+   "11404": "Ventenac-Cabardès",
+   "11405": "Ventenac-en-Minervois",
+   "11406": "Véraza",
+   "11407": "Verdun-en-Lauragais",
+   "11408": "Verzeille",
+   "11409": "Vignevieille",
+   "11410": "Villalier",
+   "11411": "Villanière",
+   "11412": "Villardebelle",
+   "11413": "Villardonnel",
+   "11414": "Villar-en-Val",
+   "11415": "Villar-Saint-Anselme",
+   "11416": "Villarzel-Cabardès",
+   "11417": "Villarzel-du-Razès",
+   "11418": "Villasavary",
+   "11419": "Villautou",
+   "11420": "Villebazy",
+   "11421": "Villedaigne",
+   "11422": "Villedubert",
+   "11423": "Villefloure",
+   "11424": "Villefort",
+   "11425": "Villegailhenc",
+   "11426": "Villegly",
+   "11427": "Villelongue-d'Aude",
+   "11428": "Villemagne",
+   "11429": "Villemoustaussou",
+   "11430": "Villeneuve-la-Comptal",
+   "11431": "Villeneuve-les-Corbières",
+   "11432": "Villeneuve-lès-Montréal",
+   "11433": "Villeneuve-Minervois",
+   "11434": "Villepinte",
+   "11435": "Villerouge-Termenès",
+   "11436": "Villesèque-des-Corbières",
+   "11437": "Villesèquelande",
+   "11438": "Villesiscle",
+   "11439": "Villespy",
+   "11440": "Villetritouls",
+   "11441": "Vinassan"
+  }
+ }
+}

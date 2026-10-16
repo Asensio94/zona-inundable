@@ -1,16 +1,17 @@
 {
  "source": "zona-inundable",
  "version": 1,
- "generated": "2026-10-13T19:24Z",
+ "generated": "2026-10-15T17:14Z",
  "coverage": {
-  "label": "Comunitat Valenciana",
+  "label": "Comunitat Valenciana · Aude (11)",
   "sites": null,
-  "note": "Edificios del Catastro con fecha de construcción posterior a 2016 dentro de las zonas inundables del SNCZI (flujo preferente, T100 y T500). El año puede ser de una reforma."
+  "note": "Edificios del Catastro con fecha de construcción posterior a 2016 dentro de las zonas inundables del SNCZI (flujo preferente, T100 y T500). El año puede ser de una reforma. Francia: edificios de la BDNB en zona roja o azul de un PPRi con año posterior al del PPRi (aprobación o aplicación anticipada)."
  },
  "signals": [
   {
    "id": "FB-46181",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Oliva: 169 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46181",
@@ -44,6 +45,7 @@
   {
    "id": "FB-03902",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Pilar de la Horadada: 140 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03902",
@@ -77,6 +79,7 @@
   {
    "id": "FB-46105",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Cullera: 135 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46105",
@@ -110,6 +113,7 @@
   {
    "id": "FB-46220",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Sagunt/Sagunto: 121 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46220",
@@ -143,6 +147,7 @@
   {
    "id": "FB-46029",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Algemesí: 106 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46029",
@@ -176,6 +181,7 @@
   {
    "id": "FB-46131",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Gandia: 88 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46131",
@@ -209,6 +215,7 @@
   {
    "id": "FB-12032",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Borriana/Burriana: 85 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12032",
@@ -242,6 +249,7 @@
   {
    "id": "FB-03064",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Dolores: 77 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03064",
@@ -275,6 +283,7 @@
   {
    "id": "FB-46094",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Catarroja: 76 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46094",
@@ -308,6 +317,7 @@
   {
    "id": "FB-12028",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Benicàssim/Benicasim: 74 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12028",
@@ -341,6 +351,7 @@
   {
    "id": "FB-03901",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "els Poblets: 68 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03901",
@@ -374,6 +385,7 @@
   {
    "id": "FB-46017",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Alzira: 59 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46017",
@@ -407,6 +419,7 @@
   {
    "id": "FB-46165",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Massanassa: 58 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46165",
@@ -440,6 +453,7 @@
   {
    "id": "FB-46007",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Albal: 58 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46007",
@@ -473,6 +487,7 @@
   {
    "id": "FB-46025",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Alfara del Patriarca: 57 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46025",
@@ -506,6 +521,7 @@
   {
    "id": "FB-46186",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Paiporta: 54 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46186",
@@ -539,6 +555,7 @@
   {
    "id": "FB-03138",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "el Verger: 53 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03138",
@@ -572,6 +589,7 @@
   {
    "id": "FB-03058",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Cox: 50 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03058",
@@ -605,6 +623,7 @@
   {
    "id": "FB-46207",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Rafelbunyol: 48 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46207",
@@ -638,6 +657,7 @@
   {
    "id": "FB-12138",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Vinaròs: 46 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12138",
@@ -671,6 +691,7 @@
   {
    "id": "FB-46021",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Aldaia: 37 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46021",
@@ -704,6 +725,7 @@
   {
    "id": "FB-46022",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Alfafar: 34 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46022",
@@ -737,6 +759,7 @@
   {
    "id": "FB-46019",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "l'Alcúdia: 33 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46019",
@@ -770,6 +793,7 @@
   {
    "id": "FB-46083",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Carcaixent: 32 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46083",
@@ -803,6 +827,7 @@
   {
    "id": "FB-03023",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Beneixama: 31 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03023",
@@ -836,6 +861,7 @@
   {
    "id": "FB-46238",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Tavernes de la Valldigna: 29 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46238",
@@ -869,6 +895,7 @@
   {
    "id": "FB-03082",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Xàbia/Jávea: 29 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03082",
@@ -902,6 +929,7 @@
   {
    "id": "FB-03063",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Dénia: 27 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03063",
@@ -935,6 +963,7 @@
   {
    "id": "FB-46171",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Moncada: 27 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46171",
@@ -968,6 +997,7 @@
   {
    "id": "FB-46113",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Daimús: 27 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46113",
@@ -1001,6 +1031,7 @@
   {
    "id": "FB-46205",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Puçol: 26 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46205",
@@ -1034,6 +1065,7 @@
   {
    "id": "FB-03015",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Almoradí: 26 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03015",
@@ -1067,6 +1099,7 @@
   {
    "id": "FB-03099",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Orihuela: 25 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03099",
@@ -1100,6 +1133,7 @@
   {
    "id": "FB-03014",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Alacant/Alicante: 25 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03014",
@@ -1133,6 +1167,7 @@
   {
    "id": "FB-46082",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Canet d'En Berenguer: 25 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46082",
@@ -1166,6 +1201,7 @@
   {
    "id": "FB-46214",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Riba-roja de Túria: 24 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46214",
@@ -1199,6 +1235,7 @@
   {
    "id": "FB-46204",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "el Puig de Santa Maria: 23 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46204",
@@ -1232,6 +1269,7 @@
   {
    "id": "FB-03062",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Daya Vieja: 21 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03062",
@@ -1265,6 +1303,7 @@
   {
    "id": "FB-46031",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Alginet: 20 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46031",
@@ -1298,6 +1337,7 @@
   {
    "id": "FB-03118",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "San Fulgencio: 20 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03118",
@@ -1331,6 +1371,7 @@
   {
    "id": "FB-12089",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Peníscola/Peñíscola: 19 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12089",
@@ -1364,6 +1405,7 @@
   {
    "id": "FB-12040",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Castelló de la Plana: 18 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12040",
@@ -1397,6 +1439,7 @@
   {
    "id": "FB-46065",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Beniparrell: 18 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46065",
@@ -1430,6 +1473,7 @@
   {
    "id": "FB-12009",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Almassora: 17 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12009",
@@ -1463,6 +1507,7 @@
   {
    "id": "FB-03095",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Ondara: 16 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03095",
@@ -1496,6 +1541,7 @@
   {
    "id": "FB-03047",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Calp: 16 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03047",
@@ -1529,6 +1575,7 @@
   {
    "id": "FB-46216",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Rocafort: 15 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46216",
@@ -1562,6 +1609,7 @@
   {
    "id": "FB-46177",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Museros: 14 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46177",
@@ -1595,6 +1643,7 @@
   {
    "id": "FB-46164",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Massamagrell: 14 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46164",
@@ -1628,6 +1677,7 @@
   {
    "id": "FB-12077",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Moncofa: 13 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12077",
@@ -1661,6 +1711,7 @@
   {
    "id": "FB-46168",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Miramar: 13 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46168",
@@ -1694,6 +1745,7 @@
   {
    "id": "FB-46048",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Bellreguard: 13 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46048",
@@ -1727,6 +1779,7 @@
   {
    "id": "FB-03005",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Albatera: 13 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03005",
@@ -1760,6 +1813,7 @@
   {
    "id": "FB-46110",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Xirivella: 12 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46110",
@@ -1793,6 +1847,7 @@
   {
    "id": "FB-03070",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Formentera del Segura: 12 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03070",
@@ -1826,6 +1881,7 @@
   {
    "id": "FB-46135",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Godella: 12 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46135",
@@ -1859,6 +1915,7 @@
   {
    "id": "FB-46233",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Sollana: 11 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46233",
@@ -1892,6 +1949,7 @@
   {
    "id": "FB-46199",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "la Pobla de Farnals: 11 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46199",
@@ -1925,6 +1983,7 @@
   {
    "id": "FB-03055",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Catral: 11 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03055",
@@ -1958,6 +2017,7 @@
   {
    "id": "FB-03049",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Callosa de Segura: 11 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03049",
@@ -1991,6 +2051,7 @@
   {
    "id": "FB-46125",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Fortaleny: 11 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46125",
@@ -2024,6 +2085,7 @@
   {
    "id": "FB-46249",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Utiel: 10 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46249",
@@ -2057,6 +2119,7 @@
   {
    "id": "FB-03061",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Daya Nueva: 10 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03061",
@@ -2090,6 +2153,7 @@
   {
    "id": "FB-03105",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "el Pinós/Pinoso: 9 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03105",
@@ -2123,6 +2187,7 @@
   {
    "id": "FB-46143",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Xeraco: 9 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46143",
@@ -2156,6 +2221,7 @@
   {
    "id": "FB-03113",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Rojales: 9 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03113",
@@ -2189,6 +2255,7 @@
   {
    "id": "FB-46046",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Barx: 9 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46046",
@@ -2222,6 +2289,7 @@
   {
    "id": "FB-46250",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "València: 8 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46250",
@@ -2255,6 +2323,7 @@
   {
    "id": "FB-03101",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Pedreguer: 8 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03101",
@@ -2288,6 +2357,7 @@
   {
    "id": "FB-03079",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Ibi: 8 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03079",
@@ -2321,6 +2391,7 @@
   {
    "id": "FB-46005",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Alaquàs: 8 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46005",
@@ -2354,6 +2425,7 @@
   {
    "id": "FB-46163",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Massalfassar: 8 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46163",
@@ -2387,6 +2459,7 @@
   {
    "id": "FB-46085",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Carlet: 7 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46085",
@@ -2420,6 +2493,7 @@
   {
    "id": "FB-03065",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Elx/Elche: 6 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03065",
@@ -2453,6 +2527,7 @@
   {
    "id": "FB-12027",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Benicarló: 6 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12027",
@@ -2486,6 +2561,7 @@
   {
    "id": "FB-12082",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Nules: 6 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12082",
@@ -2519,6 +2595,7 @@
   {
    "id": "FB-46146",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Xeresa: 6 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46146",
@@ -2552,6 +2629,7 @@
   {
    "id": "FB-03019",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Aspe: 6 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03019",
@@ -2585,6 +2663,7 @@
   {
    "id": "FB-46209",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Rafelguaraf: 6 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46209",
@@ -2618,6 +2697,7 @@
   {
    "id": "FB-03111",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Redován: 5 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03111",
@@ -2651,6 +2731,7 @@
   {
    "id": "FB-46035",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Almussafes: 5 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46035",
@@ -2684,6 +2765,7 @@
   {
    "id": "FB-03102",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Pego: 5 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03102",
@@ -2717,6 +2799,7 @@
   {
    "id": "FB-03059",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Crevillent: 5 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03059",
@@ -2750,6 +2833,7 @@
   {
    "id": "FB-12135",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Vila-real: 5 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12135",
@@ -2783,6 +2867,7 @@
   {
    "id": "FB-03056",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Cocentaina: 5 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03056",
@@ -2816,6 +2901,7 @@
   {
    "id": "FB-46195",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Piles: 4 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46195",
@@ -2849,6 +2935,7 @@
   {
    "id": "FB-46235",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Sueca: 4 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46235",
@@ -2882,6 +2969,7 @@
   {
    "id": "FB-03096",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Onil: 4 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03096",
@@ -2915,6 +3003,7 @@
   {
    "id": "FB-46139",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Guadassuar: 4 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46139",
@@ -2948,6 +3037,7 @@
   {
    "id": "FB-46102",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Quart de Poblet: 4 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46102",
@@ -2981,6 +3071,7 @@
   {
    "id": "FB-12085",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Orpesa/Oropesa del Mar: 4 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12085",
@@ -3014,6 +3105,7 @@
   {
    "id": "FB-46103",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Quartell: 4 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46103",
@@ -3047,6 +3139,7 @@
   {
    "id": "FB-46051",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Benaguasil: 4 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46051",
@@ -3080,6 +3173,7 @@
   {
    "id": "FB-46197",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Polinyà de Xúquer: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46197",
@@ -3113,6 +3207,7 @@
   {
    "id": "FB-46008",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Albalat de la Ribera: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46008",
@@ -3146,6 +3241,7 @@
   {
    "id": "FB-46203",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "la Pobla Llarga: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46203",
@@ -3179,6 +3275,7 @@
   {
    "id": "FB-03011",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "l'Alfàs del Pi: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03011",
@@ -3212,6 +3309,7 @@
   {
    "id": "FB-12004",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Alcalà de Xivert: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12004",
@@ -3245,6 +3343,7 @@
   {
    "id": "FB-46116",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "l'Eliana: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46116",
@@ -3278,6 +3377,7 @@
   {
    "id": "FB-46159",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Manises: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46159",
@@ -3311,6 +3411,7 @@
   {
    "id": "FB-46084",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Càrcer: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46084",
@@ -3344,6 +3445,7 @@
   {
    "id": "FB-03093",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Novelda: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03093",
@@ -3377,6 +3479,7 @@
   {
    "id": "FB-12126",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "la Vall d'Uixó: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12126",
@@ -3410,6 +3513,7 @@
   {
    "id": "FB-46014",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Albuixech: 3 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46014",
@@ -3443,6 +3547,7 @@
   {
    "id": "FB-03140",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Villena: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03140",
@@ -3476,6 +3581,7 @@
   {
    "id": "FB-03121",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Santa Pola: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03121",
@@ -3509,6 +3615,7 @@
   {
    "id": "FB-46257",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Castelló: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46257",
@@ -3542,6 +3649,7 @@
   {
    "id": "FB-46060",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Benifaió: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46060",
@@ -3575,6 +3683,7 @@
   {
    "id": "FB-46904",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Benicull de Xúquer: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46904",
@@ -3608,6 +3717,7 @@
   {
    "id": "FB-46098",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Corbera: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46098",
@@ -3641,6 +3751,7 @@
   {
    "id": "FB-46111",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Chiva: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46111",
@@ -3674,6 +3785,7 @@
   {
    "id": "FB-46070",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Bétera: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46070",
@@ -3707,6 +3819,7 @@
   {
    "id": "FB-03128",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Teulada: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03128",
@@ -3740,6 +3853,7 @@
   {
    "id": "FB-12100",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Sant Mateu: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12100",
@@ -3773,6 +3887,7 @@
   {
    "id": "FB-46072",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Bocairent: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46072",
@@ -3806,6 +3921,7 @@
   {
    "id": "FB-03074",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Granja de Rocamora: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03074",
@@ -3839,6 +3955,7 @@
   {
    "id": "FB-12071",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Jérica: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12071",
@@ -3872,6 +3989,7 @@
   {
    "id": "FB-46100",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Cotes: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46100",
@@ -3905,6 +4023,7 @@
   {
    "id": "FB-12053",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Chilches/Xilxes: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12053",
@@ -3938,6 +4057,7 @@
   {
    "id": "FB-46053",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Beneixida: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46053",
@@ -3971,6 +4091,7 @@
   {
    "id": "FB-12139",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Vistabella del Maestrat: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12139",
@@ -4004,6 +4125,7 @@
   {
    "id": "FB-46183",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "l'Olleria: 2 edificios en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46183",
@@ -4037,6 +4159,7 @@
   {
    "id": "FB-46231",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Simat de la Valldigna: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46231",
@@ -4070,6 +4193,7 @@
   {
    "id": "FB-03018",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Altea: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03018",
@@ -4103,6 +4227,7 @@
   {
    "id": "FB-12105",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Sierra Engarcerán: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12105",
@@ -4136,6 +4261,7 @@
   {
    "id": "FB-46054",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Benetússer: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46054",
@@ -4169,6 +4295,7 @@
   {
    "id": "FB-12042",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Catí: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12042",
@@ -4202,6 +4329,7 @@
   {
    "id": "FB-46213",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Requena: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46213",
@@ -4235,6 +4363,7 @@
   {
    "id": "FB-03076",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Guardamar del Segura: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03076",
@@ -4268,6 +4397,7 @@
   {
    "id": "FB-03024",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Benejúzar: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03024",
@@ -4301,6 +4431,7 @@
   {
    "id": "FB-03081",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Xaló: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03081",
@@ -4334,6 +4465,7 @@
   {
    "id": "FB-03069",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Finestrat: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03069",
@@ -4367,6 +4499,7 @@
   {
    "id": "FB-46140",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Guardamar de la Safor: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46140",
@@ -4400,6 +4533,7 @@
   {
    "id": "FB-03044",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Bigastro: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03044",
@@ -4433,6 +4567,7 @@
   {
    "id": "FB-12050",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "les Coves de Vinromà: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12050",
@@ -4466,6 +4601,7 @@
   {
    "id": "FB-12001",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Atzeneta del Maestrat: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12001",
@@ -4499,6 +4635,7 @@
   {
    "id": "FB-46190",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Paterna: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46190",
@@ -4532,6 +4669,7 @@
   {
    "id": "FB-46176",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Montroi/Montroy: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46176",
@@ -4565,6 +4703,7 @@
   {
    "id": "FB-46142",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Jalance: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46142",
@@ -4598,6 +4737,7 @@
   {
    "id": "FB-46109",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Cheste: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46109",
@@ -4631,6 +4771,7 @@
   {
    "id": "FB-46242",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Torrebaja: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46242",
@@ -4664,6 +4805,7 @@
   {
    "id": "FB-12901",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "les Alqueries/Alquerías del Niño Perdido: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12901",
@@ -4697,6 +4839,7 @@
   {
    "id": "FB-46001",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Ademuz: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46001",
@@ -4730,6 +4873,7 @@
   {
    "id": "FB-03053",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Castalla: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03053",
@@ -4763,6 +4907,7 @@
   {
    "id": "FB-46157",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "la Llosa de Ranes: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46157",
@@ -4796,6 +4941,7 @@
   {
    "id": "FB-03031",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Benidorm: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-03031",
@@ -4829,6 +4975,7 @@
   {
    "id": "FB-46147",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Llíria: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46147",
@@ -4862,6 +5009,7 @@
   {
    "id": "FB-12128",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Vilafamés: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12128",
@@ -4895,6 +5043,7 @@
   {
    "id": "FB-46132",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "el Genovés: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46132",
@@ -4928,6 +5077,7 @@
   {
    "id": "FB-46178",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Nàquera/Náquera: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46178",
@@ -4961,6 +5111,7 @@
   {
    "id": "FB-46011",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Alberic: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46011",
@@ -4994,6 +5145,7 @@
   {
    "id": "FB-46170",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Moixent/Mogente: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46170",
@@ -5027,6 +5179,7 @@
   {
    "id": "FB-46244",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Torrent: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46244",
@@ -5060,6 +5213,7 @@
   {
    "id": "FB-46045",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Barxeta: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46045",
@@ -5093,6 +5247,7 @@
   {
    "id": "FB-46015",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Alcàsser: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46015",
@@ -5126,6 +5281,7 @@
   {
    "id": "FB-46155",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Llaurí: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46155",
@@ -5159,6 +5315,7 @@
   {
    "id": "FB-12029",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Benlloc: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12029",
@@ -5192,6 +5349,7 @@
   {
    "id": "FB-46239",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Teresa de Cofrentes: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46239",
@@ -5225,6 +5383,7 @@
   {
    "id": "FB-12092",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Puebla de Arenoso: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-12092",
@@ -5258,6 +5417,7 @@
   {
    "id": "FB-46223",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Sedaví: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46223",
@@ -5291,6 +5451,7 @@
   {
    "id": "FB-46129",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Fuenterrobles: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46129",
@@ -5324,6 +5485,7 @@
   {
    "id": "FB-46193",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Picanya: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46193",
@@ -5357,6 +5519,7 @@
   {
    "id": "FB-46219",
    "kind": "flood_building",
+   "country": "ES",
    "date": "2026-08-21",
    "title": "Rugat: 1 edificio en zona inundable con fecha de 2017 o posterior",
    "url": "https://asensio94.github.io/zona-inundable/#m-46219",
@@ -5384,6 +5547,5288 @@
     "periodo_despues": [
      2017,
      2024
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11262",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Narbonne : 442 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2003)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11262",
+   "municipalities": [
+    "11262"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 442,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 220,
+    "ppr_bleue": 222,
+    "reforma_aparente": 8,
+    "anio_ppr": 2003,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2003,
+    "tras_primer_ppr": 727,
+    "en_zona_total": 4205,
+    "desde_2017": 281,
+    "al_anio_antes": 20.78,
+    "al_anio_despues": 37.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11106",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Coursan : 185 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2008)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11106",
+   "municipalities": [
+    "11106"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 185,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 48,
+    "ppr_bleue": 137,
+    "reforma_aparente": 6,
+    "anio_ppr": 2008,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2008,
+    "tras_primer_ppr": 185,
+    "en_zona_total": 2790,
+    "desde_2017": 76,
+    "al_anio_antes": 14.22,
+    "al_anio_despues": 8.86,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11116",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Cuxac-d'Aude : 177 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2008)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11116",
+   "municipalities": [
+    "11116"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 177,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 45,
+    "ppr_bleue": 132,
+    "reforma_aparente": 3,
+    "anio_ppr": 2008,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2008,
+    "tras_primer_ppr": 177,
+    "en_zona_total": 2010,
+    "desde_2017": 67,
+    "al_anio_antes": 14.0,
+    "al_anio_despues": 8.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11069",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Carcassonne : 138 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2014)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11069",
+   "municipalities": [
+    "11069"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 138,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 78,
+    "ppr_bleue": 60,
+    "reforma_aparente": 12,
+    "anio_ppr": 2014,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2000,
+    "tras_primer_ppr": 469,
+    "en_zona_total": 3917,
+    "desde_2017": 92,
+    "al_anio_antes": 20.89,
+    "al_anio_despues": 11.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11379",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Sigean : 116 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2017)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11379",
+   "municipalities": [
+    "11379"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 116,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 9,
+    "ppr_bleue": 107,
+    "reforma_aparente": 3,
+    "anio_ppr": 2017,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 490,
+    "en_zona_total": 1356,
+    "desde_2017": 130,
+    "al_anio_antes": 19.22,
+    "al_anio_despues": 16.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11322",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Roquefort-des-Corbières : 97 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11322",
+   "municipalities": [
+    "11322"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 97,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 95,
+    "reforma_aparente": 3,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 271,
+    "en_zona_total": 714,
+    "desde_2017": 105,
+    "al_anio_antes": 9.33,
+    "al_anio_despues": 14.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11266",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Port-la-Nouvelle : 93 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2019)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11266",
+   "municipalities": [
+    "11266"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 93,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 65,
+    "ppr_bleue": 28,
+    "reforma_aparente": 2,
+    "anio_ppr": 2019,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 383,
+    "en_zona_total": 2838,
+    "desde_2017": 131,
+    "al_anio_antes": 8.67,
+    "al_anio_despues": 16.86,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11433",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Villeneuve-Minervois : 83 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11433",
+   "municipalities": [
+    "11433"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 83,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 31,
+    "ppr_bleue": 52,
+    "reforma_aparente": 1,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 83,
+    "en_zona_total": 412,
+    "desde_2017": 43,
+    "al_anio_antes": 3.56,
+    "al_anio_despues": 5.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11067",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Canet : 62 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11067",
+   "municipalities": [
+    "11067"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 62,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 12,
+    "ppr_bleue": 50,
+    "reforma_aparente": 1,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 62,
+    "en_zona_total": 414,
+    "desde_2017": 20,
+    "al_anio_antes": 2.11,
+    "al_anio_despues": 2.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11369",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Sallèles-d'Aude : 52 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11369",
+   "municipalities": [
+    "11369"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 52,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 24,
+    "ppr_bleue": 28,
+    "reforma_aparente": 2,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 52,
+    "en_zona_total": 394,
+    "desde_2017": 15,
+    "al_anio_antes": 2.44,
+    "al_anio_despues": 1.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11206",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Limoux : 50 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11206",
+   "municipalities": [
+    "11206"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 50,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 18,
+    "ppr_bleue": 32,
+    "reforma_aparente": 7,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2003,
+    "tras_primer_ppr": 268,
+    "en_zona_total": 2803,
+    "desde_2017": 61,
+    "al_anio_antes": 14.56,
+    "al_anio_despues": 8.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11421",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Villedaigne : 49 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11421",
+   "municipalities": [
+    "11421"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 49,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 14,
+    "ppr_bleue": 35,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 56,
+    "en_zona_total": 293,
+    "desde_2017": 26,
+    "al_anio_antes": 2.89,
+    "al_anio_despues": 3.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11202",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Leucate : 42 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2017)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11202",
+   "municipalities": [
+    "11202"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 42,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 9,
+    "ppr_bleue": 33,
+    "reforma_aparente": 3,
+    "anio_ppr": 2017,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2017,
+    "tras_primer_ppr": 42,
+    "en_zona_total": 1106,
+    "desde_2017": 50,
+    "al_anio_antes": 5.0,
+    "al_anio_despues": 7.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11267",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Ornaisons : 36 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11267",
+   "municipalities": [
+    "11267"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 36,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 29,
+    "ppr_bleue": 7,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 36,
+    "en_zona_total": 302,
+    "desde_2017": 9,
+    "al_anio_antes": 1.44,
+    "al_anio_despues": 1.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11041",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Bize-Minervois : 32 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11041",
+   "municipalities": [
+    "11041"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 32,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 9,
+    "ppr_bleue": 23,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 32,
+    "en_zona_total": 318,
+    "desde_2017": 7,
+    "al_anio_antes": 2.0,
+    "al_anio_despues": 0.86,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11264",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Névian : 30 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11264",
+   "municipalities": [
+    "11264"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 30,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 9,
+    "ppr_bleue": 21,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 30,
+    "en_zona_total": 158,
+    "desde_2017": 4,
+    "al_anio_antes": 1.22,
+    "al_anio_despues": 0.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11076",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Castelnaudary : 28 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2010)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11076",
+   "municipalities": [
+    "11076"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 28,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 6,
+    "ppr_bleue": 22,
+    "reforma_aparente": 0,
+    "anio_ppr": 2010,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2010,
+    "tras_primer_ppr": 28,
+    "en_zona_total": 147,
+    "desde_2017": 16,
+    "al_anio_antes": 2.11,
+    "al_anio_despues": 2.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11353",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Saint-Marcel-sur-Aude : 28 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11353",
+   "municipalities": [
+    "11353"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 28,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 16,
+    "ppr_bleue": 12,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 28,
+    "en_zona_total": 299,
+    "desde_2017": 7,
+    "al_anio_antes": 1.44,
+    "al_anio_despues": 0.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11401",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Tuchan : 27 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11401",
+   "municipalities": [
+    "11401"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 27,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 6,
+    "ppr_bleue": 21,
+    "reforma_aparente": 2,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 27,
+    "en_zona_total": 251,
+    "desde_2017": 11,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 1.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11185",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Lagrasse : 26 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11185",
+   "municipalities": [
+    "11185"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 26,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 17,
+    "ppr_bleue": 9,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 26,
+    "en_zona_total": 221,
+    "desde_2017": 14,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 1.86,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11408",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Verzeille : 23 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11408",
+   "municipalities": [
+    "11408"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 23,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 23,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 23,
+    "en_zona_total": 96,
+    "desde_2017": 1,
+    "al_anio_antes": 2.33,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11203",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Lézignan-Corbières : 22 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2016)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11203",
+   "municipalities": [
+    "11203"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 22,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 5,
+    "ppr_bleue": 17,
+    "reforma_aparente": 1,
+    "anio_ppr": 2016,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2016,
+    "tras_primer_ppr": 22,
+    "en_zona_total": 407,
+    "desde_2017": 22,
+    "al_anio_antes": 6.33,
+    "al_anio_despues": 2.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11183",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Ladern-sur-Lauquet : 22 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11183",
+   "municipalities": [
+    "11183"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 22,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 10,
+    "ppr_bleue": 12,
+    "reforma_aparente": 2,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 22,
+    "en_zona_total": 52,
+    "desde_2017": 13,
+    "al_anio_antes": 0.78,
+    "al_anio_despues": 1.86,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11212",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Mailhac : 20 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2011)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11212",
+   "municipalities": [
+    "11212"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 20,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 10,
+    "ppr_bleue": 10,
+    "reforma_aparente": 1,
+    "anio_ppr": 2011,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2011,
+    "tras_primer_ppr": 20,
+    "en_zona_total": 176,
+    "desde_2017": 9,
+    "al_anio_antes": 2.11,
+    "al_anio_despues": 1.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11190",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "La Redorte : 20 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2007)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11190",
+   "municipalities": [
+    "11190"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 20,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 13,
+    "ppr_bleue": 7,
+    "reforma_aparente": 1,
+    "anio_ppr": 2007,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2007,
+    "tras_primer_ppr": 20,
+    "en_zona_total": 293,
+    "desde_2017": 7,
+    "al_anio_antes": 1.44,
+    "al_anio_despues": 0.86,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11426",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Villegly : 20 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11426",
+   "municipalities": [
+    "11426"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 20,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 14,
+    "ppr_bleue": 6,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 20,
+    "en_zona_total": 199,
+    "desde_2017": 7,
+    "al_anio_antes": 0.89,
+    "al_anio_despues": 0.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11102",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Couffoulens : 20 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11102",
+   "municipalities": [
+    "11102"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 20,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 4,
+    "ppr_bleue": 16,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 20,
+    "en_zona_total": 70,
+    "desde_2017": 3,
+    "al_anio_antes": 1.22,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11170",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Gruissan : 19 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2017)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11170",
+   "municipalities": [
+    "11170"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 19,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 14,
+    "ppr_bleue": 5,
+    "reforma_aparente": 6,
+    "anio_ppr": 2017,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2017,
+    "tras_primer_ppr": 19,
+    "en_zona_total": 1820,
+    "desde_2017": 22,
+    "al_anio_antes": 16.11,
+    "al_anio_despues": 3.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11145",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Fleury : 19 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2016)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11145",
+   "municipalities": [
+    "11145"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 19,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 18,
+    "reforma_aparente": 0,
+    "anio_ppr": 2016,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2016,
+    "tras_primer_ppr": 19,
+    "en_zona_total": 601,
+    "desde_2017": 19,
+    "al_anio_antes": 1.56,
+    "al_anio_despues": 2.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11140",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Ferrals-les-Corbières : 19 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11140",
+   "municipalities": [
+    "11140"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 19,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 3,
+    "ppr_bleue": 16,
+    "reforma_aparente": 3,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 19,
+    "en_zona_total": 184,
+    "desde_2017": 10,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 1.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11304",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Quillan : 18 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11304",
+   "municipalities": [
+    "11304"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 18,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 6,
+    "ppr_bleue": 12,
+    "reforma_aparente": 2,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 18,
+    "en_zona_total": 1303,
+    "desde_2017": 25,
+    "al_anio_antes": 6.67,
+    "al_anio_despues": 3.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11255",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Montredon-des-Corbières : 18 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2003)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11255",
+   "municipalities": [
+    "11255"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 18,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 15,
+    "ppr_bleue": 3,
+    "reforma_aparente": 0,
+    "anio_ppr": 2003,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2003,
+    "tras_primer_ppr": 18,
+    "en_zona_total": 69,
+    "desde_2017": 10,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 1.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11090",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Cépie : 16 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11090",
+   "municipalities": [
+    "11090"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 16,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 16,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 16,
+    "en_zona_total": 219,
+    "desde_2017": 22,
+    "al_anio_antes": 3.44,
+    "al_anio_despues": 2.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11222",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Mas-Cabardès : 16 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11222",
+   "municipalities": [
+    "11222"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 16,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 16,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 16,
+    "en_zona_total": 93,
+    "desde_2017": 12,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 1.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11307",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Raissac-d'Aude : 16 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11307",
+   "municipalities": [
+    "11307"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 16,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 16,
+    "ppr_bleue": 0,
+    "reforma_aparente": 1,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 16,
+    "en_zona_total": 167,
+    "desde_2017": 5,
+    "al_anio_antes": 1.0,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11201",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Leuc : 16 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11201",
+   "municipalities": [
+    "11201"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 16,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 4,
+    "ppr_bleue": 12,
+    "reforma_aparente": 1,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 16,
+    "en_zona_total": 95,
+    "desde_2017": 2,
+    "al_anio_antes": 1.22,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11129",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Espéraza : 15 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11129",
+   "municipalities": [
+    "11129"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 15,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 3,
+    "ppr_bleue": 12,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 15,
+    "en_zona_total": 1027,
+    "desde_2017": 26,
+    "al_anio_antes": 4.22,
+    "al_anio_despues": 3.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11386",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Talairan : 15 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11386",
+   "municipalities": [
+    "11386"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 15,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 3,
+    "ppr_bleue": 12,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 15,
+    "en_zona_total": 37,
+    "desde_2017": 4,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11027",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Barbaira : 13 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11027",
+   "municipalities": [
+    "11027"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 13,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 8,
+    "ppr_bleue": 5,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 13,
+    "en_zona_total": 196,
+    "desde_2017": 6,
+    "al_anio_antes": 1.56,
+    "al_anio_despues": 0.86,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11289",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Pieusse : 12 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11289",
+   "municipalities": [
+    "11289"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 12,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 11,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 12,
+    "en_zona_total": 95,
+    "desde_2017": 13,
+    "al_anio_antes": 2.0,
+    "al_anio_despues": 1.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11172",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Homps : 12 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11172",
+   "municipalities": [
+    "11172"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 12,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 5,
+    "ppr_bleue": 7,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 12,
+    "en_zona_total": 277,
+    "desde_2017": 10,
+    "al_anio_antes": 1.33,
+    "al_anio_despues": 0.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11301",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Puichéric : 12 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11301",
+   "municipalities": [
+    "11301"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 12,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 8,
+    "ppr_bleue": 4,
+    "reforma_aparente": 2,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 12,
+    "en_zona_total": 455,
+    "desde_2017": 8,
+    "al_anio_antes": 2.33,
+    "al_anio_despues": 1.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11310",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Rennes-les-Bains : 12 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2003)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11310",
+   "municipalities": [
+    "11310"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 12,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 10,
+    "ppr_bleue": 2,
+    "reforma_aparente": 0,
+    "anio_ppr": 2003,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2003,
+    "tras_primer_ppr": 12,
+    "en_zona_total": 71,
+    "desde_2017": 4,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11210",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Luc-sur-Orbieu : 12 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11210",
+   "municipalities": [
+    "11210"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 12,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 5,
+    "ppr_bleue": 7,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 12,
+    "en_zona_total": 167,
+    "desde_2017": 3,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11023",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Badens : 11 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11023",
+   "municipalities": [
+    "11023"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 11,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 5,
+    "ppr_bleue": 6,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 11,
+    "en_zona_total": 140,
+    "desde_2017": 8,
+    "al_anio_antes": 1.0,
+    "al_anio_despues": 0.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11370",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Salles-d'Aude : 11 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2011)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11370",
+   "municipalities": [
+    "11370"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 11,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 11,
+    "reforma_aparente": 1,
+    "anio_ppr": 2011,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2011,
+    "tras_primer_ppr": 11,
+    "en_zona_total": 227,
+    "desde_2017": 6,
+    "al_anio_antes": 1.11,
+    "al_anio_despues": 0.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11056",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Cabrespine : 11 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11056",
+   "municipalities": [
+    "11056"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 11,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 9,
+    "ppr_bleue": 2,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 11,
+    "en_zona_total": 49,
+    "desde_2017": 4,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11132",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Fabrezan : 11 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11132",
+   "municipalities": [
+    "11132"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 11,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 8,
+    "ppr_bleue": 3,
+    "reforma_aparente": 2,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 11,
+    "en_zona_total": 155,
+    "desde_2017": 3,
+    "al_anio_antes": 0.78,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11344",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Saint-Hilaire : 10 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11344",
+   "municipalities": [
+    "11344"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 10,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 8,
+    "reforma_aparente": 1,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 10,
+    "en_zona_total": 129,
+    "desde_2017": 4,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11276",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Paziols : 10 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11276",
+   "municipalities": [
+    "11276"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 10,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 9,
+    "ppr_bleue": 1,
+    "reforma_aparente": 1,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 10,
+    "en_zona_total": 126,
+    "desde_2017": 3,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11270",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Padern : 10 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11270",
+   "municipalities": [
+    "11270"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 10,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 5,
+    "ppr_bleue": 5,
+    "reforma_aparente": 1,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 10,
+    "en_zona_total": 97,
+    "desde_2017": 3,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11326",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Rouffiac-des-Corbières : 10 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2011)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11326",
+   "municipalities": [
+    "11326"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 10,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 3,
+    "ppr_bleue": 7,
+    "reforma_aparente": 0,
+    "anio_ppr": 2011,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2011,
+    "tras_primer_ppr": 6,
+    "en_zona_total": 27,
+    "desde_2017": 3,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11099",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Conques-sur-Orbiel : 10 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11099",
+   "municipalities": [
+    "11099"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 10,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 8,
+    "ppr_bleue": 2,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 10,
+    "en_zona_total": 100,
+    "desde_2017": 2,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11001",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Aigues-Vives : 9 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11001",
+   "municipalities": [
+    "11001"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 9,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 6,
+    "ppr_bleue": 3,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 9,
+    "en_zona_total": 159,
+    "desde_2017": 7,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11388",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Termes : 9 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11388",
+   "municipalities": [
+    "11388"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 9,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 7,
+    "ppr_bleue": 2,
+    "reforma_aparente": 2,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 9,
+    "en_zona_total": 56,
+    "desde_2017": 5,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11040",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Bizanet : 9 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11040",
+   "municipalities": [
+    "11040"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 9,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 3,
+    "ppr_bleue": 6,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 9,
+    "en_zona_total": 16,
+    "desde_2017": 1,
+    "al_anio_antes": 0.89,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11103",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Couiza : 8 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11103",
+   "municipalities": [
+    "11103"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 8,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 1995,
+    "tras_primer_ppr": 33,
+    "en_zona_total": 503,
+    "desde_2017": 10,
+    "al_anio_antes": 1.44,
+    "al_anio_despues": 1.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11063",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Campagne-sur-Aude : 8 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11063",
+   "municipalities": [
+    "11063"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 4,
+    "ppr_bleue": 4,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 8,
+    "en_zona_total": 195,
+    "desde_2017": 10,
+    "al_anio_antes": 0.89,
+    "al_anio_despues": 1.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11295",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Portel-des-Corbières : 8 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2017)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11295",
+   "municipalities": [
+    "11295"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 4,
+    "ppr_bleue": 4,
+    "reforma_aparente": 2,
+    "anio_ppr": 2017,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 40,
+    "en_zona_total": 161,
+    "desde_2017": 9,
+    "al_anio_antes": 1.56,
+    "al_anio_despues": 1.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11010",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Antugnac : 8 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11010",
+   "municipalities": [
+    "11010"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 7,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 8,
+    "en_zona_total": 57,
+    "desde_2017": 8,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11151",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Fontiès-d'Aude : 8 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11151",
+   "municipalities": [
+    "11151"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 8,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 8,
+    "en_zona_total": 22,
+    "desde_2017": 3,
+    "al_anio_antes": 1.33,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11286",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Peyriac-Minervois : 8 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2007)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11286",
+   "municipalities": [
+    "11286"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 6,
+    "reforma_aparente": 0,
+    "anio_ppr": 2007,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2007,
+    "tras_primer_ppr": 8,
+    "en_zona_total": 88,
+    "desde_2017": 2,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11064",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Camplong-d'Aude : 8 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11064",
+   "municipalities": [
+    "11064"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 8,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 7,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 8,
+    "en_zona_total": 34,
+    "desde_2017": 1,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11034",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Belvèze-du-Razès : 7 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11034",
+   "municipalities": [
+    "11034"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 7,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 7,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 7,
+    "en_zona_total": 260,
+    "desde_2017": 7,
+    "al_anio_antes": 1.56,
+    "al_anio_despues": 1.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11194",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Lastours : 7 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11194",
+   "municipalities": [
+    "11194"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 7,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 7,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 7,
+    "en_zona_total": 39,
+    "desde_2017": 4,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11392",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Tournissan : 7 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11392",
+   "municipalities": [
+    "11392"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 7,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 7,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 7,
+    "en_zona_total": 81,
+    "desde_2017": 3,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11363",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Saint-Pierre-des-Champs : 7 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11363",
+   "municipalities": [
+    "11363"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 7,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 4,
+    "ppr_bleue": 3,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 7,
+    "en_zona_total": 54,
+    "desde_2017": 2,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11146",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Floure : 6 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11146",
+   "municipalities": [
+    "11146"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 5,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 6,
+    "en_zona_total": 79,
+    "desde_2017": 6,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.86,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11088",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Cazilhac : 6 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2004)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11088",
+   "municipalities": [
+    "11088"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 5,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2004,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2004,
+    "tras_primer_ppr": 6,
+    "en_zona_total": 71,
+    "desde_2017": 4,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11280",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Pépieux : 6 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2003)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11280",
+   "municipalities": [
+    "11280"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 6,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2003,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2003,
+    "tras_primer_ppr": 6,
+    "en_zona_total": 29,
+    "desde_2017": 4,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11081",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Caunes-Minervois : 6 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2007)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11081",
+   "municipalities": [
+    "11081"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 5,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2007,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2007,
+    "tras_primer_ppr": 6,
+    "en_zona_total": 94,
+    "desde_2017": 3,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11435",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Villerouge-Termenès : 6 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11435",
+   "municipalities": [
+    "11435"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 3,
+    "ppr_bleue": 3,
+    "reforma_aparente": 1,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 6,
+    "en_zona_total": 41,
+    "desde_2017": 2,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11048",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Boutenac : 6 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11048",
+   "municipalities": [
+    "11048"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 6,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 4,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 6,
+    "en_zona_total": 36,
+    "desde_2017": 0,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11131",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Val-du-Faby : 5 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11131",
+   "municipalities": [
+    "11131"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 4,
+    "ppr_bleue": 1,
+    "reforma_aparente": 1,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 5,
+    "en_zona_total": 252,
+    "desde_2017": 7,
+    "al_anio_antes": 2.33,
+    "al_anio_despues": 0.86,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11068",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Capendu : 5 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11068",
+   "municipalities": [
+    "11068"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 5,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 5,
+    "en_zona_total": 166,
+    "desde_2017": 5,
+    "al_anio_antes": 0.89,
+    "al_anio_despues": 0.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11174",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Les Ilhes : 5 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11174",
+   "municipalities": [
+    "11174"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 5,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 5,
+    "en_zona_total": 24,
+    "desde_2017": 3,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11351",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Saint-Laurent-de-la-Cabrerisse : 5 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11351",
+   "municipalities": [
+    "11351"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 4,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 5,
+    "en_zona_total": 28,
+    "desde_2017": 2,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11043",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Bouilhonnac : 5 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11043",
+   "municipalities": [
+    "11043"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 4,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 5,
+    "en_zona_total": 22,
+    "desde_2017": 1,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11409",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Vignevieille : 5 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11409",
+   "municipalities": [
+    "11409"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 5,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 5,
+    "en_zona_total": 7,
+    "desde_2017": 1,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11164",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Ginestas : 5 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11164",
+   "municipalities": [
+    "11164"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 5,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 3,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 5,
+    "en_zona_total": 78,
+    "desde_2017": 0,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11021",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Axat : 4 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11021",
+   "municipalities": [
+    "11021"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 3,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 4,
+    "en_zona_total": 250,
+    "desde_2017": 4,
+    "al_anio_antes": 1.33,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11008",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Alet-les-Bains : 4 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11008",
+   "municipalities": [
+    "11008"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 4,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 4,
+    "en_zona_total": 237,
+    "desde_2017": 4,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11314",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Rieux-en-Val : 4 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11314",
+   "municipalities": [
+    "11314"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 3,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 4,
+    "en_zona_total": 42,
+    "desde_2017": 2,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11432",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Villeneuve-lès-Montréal : 4 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2012)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11432",
+   "municipalities": [
+    "11432"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 2,
+    "reforma_aparente": 0,
+    "anio_ppr": 2012,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2012,
+    "tras_primer_ppr": 4,
+    "en_zona_total": 8,
+    "desde_2017": 2,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11272",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Palaja : 4 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2004)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11272",
+   "municipalities": [
+    "11272"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 4,
+    "reforma_aparente": 1,
+    "anio_ppr": 2004,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2004,
+    "tras_primer_ppr": 4,
+    "en_zona_total": 51,
+    "desde_2017": 1,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11044",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Bouisse : 4 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11044",
+   "municipalities": [
+    "11044"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 4,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 4,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 4,
+    "en_zona_total": 16,
+    "desde_2017": 0,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11188",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "La Palme : 3 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2021)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11188",
+   "municipalities": [
+    "11188"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2021,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2021,
+    "tras_primer_ppr": 3,
+    "en_zona_total": 158,
+    "desde_2017": 12,
+    "al_anio_antes": 1.22,
+    "al_anio_despues": 1.71,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11285",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Peyriac-de-Mer : 3 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2021)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11285",
+   "municipalities": [
+    "11285"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 3,
+    "reforma_aparente": 2,
+    "anio_ppr": 2021,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 24,
+    "en_zona_total": 136,
+    "desde_2017": 7,
+    "al_anio_antes": 1.0,
+    "al_anio_despues": 0.86,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11198",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Laure-Minervois : 3 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11198",
+   "municipalities": [
+    "11198"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 3,
+    "en_zona_total": 190,
+    "desde_2017": 3,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11240",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Montazels : 3 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11240",
+   "municipalities": [
+    "11240"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 3,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 1995,
+    "tras_primer_ppr": 28,
+    "en_zona_total": 100,
+    "desde_2017": 3,
+    "al_anio_antes": 1.56,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11395",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Trassanel : 3 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11395",
+   "municipalities": [
+    "11395"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 2,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 3,
+    "en_zona_total": 3,
+    "desde_2017": 3,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11315",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Rieux-Minervois : 3 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2007)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11315",
+   "municipalities": [
+    "11315"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 3,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2007,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2007,
+    "tras_primer_ppr": 5,
+    "en_zona_total": 36,
+    "desde_2017": 1,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11405",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Ventenac-en-Minervois : 3 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2011)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11405",
+   "municipalities": [
+    "11405"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 3,
+    "reforma_aparente": 0,
+    "anio_ppr": 2011,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2011,
+    "tras_primer_ppr": 3,
+    "en_zona_total": 20,
+    "desde_2017": 1,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11311",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Ribaute : 3 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11311",
+   "municipalities": [
+    "11311"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 2,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 3,
+    "en_zona_total": 16,
+    "desde_2017": 1,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11137",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Félines-Termenès : 3 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11137",
+   "municipalities": [
+    "11137"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 3,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 3,
+    "en_zona_total": 19,
+    "desde_2017": 0,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11119",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "La Digne-d'Amont : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11119",
+   "municipalities": [
+    "11119"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 2,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 85,
+    "desde_2017": 4,
+    "al_anio_antes": 0.78,
+    "al_anio_despues": 0.57,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11207",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Loupia : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11207",
+   "municipalities": [
+    "11207"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 2,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 105,
+    "desde_2017": 3,
+    "al_anio_antes": 2.33,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11431",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Villeneuve-les-Corbières : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2017)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11431",
+   "municipalities": [
+    "11431"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2017,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 5,
+    "en_zona_total": 84,
+    "desde_2017": 2,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11071",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Cascastel-des-Corbières : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2017)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11071",
+   "municipalities": [
+    "11071"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2017,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 6,
+    "en_zona_total": 83,
+    "desde_2017": 2,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11078",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Castelreng : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11078",
+   "municipalities": [
+    "11078"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 62,
+    "desde_2017": 2,
+    "al_anio_antes": 0.89,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11265",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Niort-de-Sault : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11265",
+   "municipalities": [
+    "11265"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 52,
+    "desde_2017": 2,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11022",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Azille : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2011)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11022",
+   "municipalities": [
+    "11022"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2011,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2011,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 38,
+    "desde_2017": 2,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11122",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Douzens : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11122",
+   "municipalities": [
+    "11122"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 2,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 36,
+    "desde_2017": 2,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11299",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Preixan : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11299",
+   "municipalities": [
+    "11299"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 2,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 36,
+    "desde_2017": 2,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11410",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Villalier : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11410",
+   "municipalities": [
+    "11410"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 31,
+    "desde_2017": 2,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11337",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Saint-Couat-d'Aude : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11337",
+   "municipalities": [
+    "11337"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 12,
+    "desde_2017": 2,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11092",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Citou : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2007)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11092",
+   "municipalities": [
+    "11092"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2007,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2007,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 24,
+    "desde_2017": 1,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11232",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Miraval-Cabardès : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11232",
+   "municipalities": [
+    "11232"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 18,
+    "desde_2017": 1,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11111",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Cruscades : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11111",
+   "municipalities": [
+    "11111"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 3,
+    "desde_2017": 1,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11025",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Bagnoles : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11025",
+   "municipalities": [
+    "11025"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 36,
+    "desde_2017": 0,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11179",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Labastide-en-Val : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11179",
+   "municipalities": [
+    "11179"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 16,
+    "desde_2017": 0,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11187",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Lanet : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11187",
+   "municipalities": [
+    "11187"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 11,
+    "desde_2017": 0,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11221",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Les Martys : 2 bâtiments en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11221",
+   "municipalities": [
+    "11221"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 2,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 2,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 2,
+    "en_zona_total": 9,
+    "desde_2017": 0,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11035",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Belvianes-et-Cavirac : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11035",
+   "municipalities": [
+    "11035"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 77,
+    "desde_2017": 3,
+    "al_anio_antes": 0.56,
+    "al_anio_despues": 0.43,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11124",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Durban-Corbières : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2017)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11124",
+   "municipalities": [
+    "11124"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2017,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 11,
+    "en_zona_total": 121,
+    "desde_2017": 2,
+    "al_anio_antes": 0.33,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11120",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "La Digne-d'Aval : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11120",
+   "municipalities": [
+    "11120"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 57,
+    "desde_2017": 2,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11053",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Brugairolles : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11053",
+   "municipalities": [
+    "11053"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 39,
+    "desde_2017": 2,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11436",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Villesèque-des-Corbières : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2017)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11436",
+   "municipalities": [
+    "11436"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2017,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 18,
+    "en_zona_total": 36,
+    "desde_2017": 2,
+    "al_anio_antes": 1.22,
+    "al_anio_despues": 0.29,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11293",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Pomas : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11293",
+   "municipalities": [
+    "11293"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 71,
+    "desde_2017": 1,
+    "al_anio_antes": 1.67,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11219",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Marsa : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11219",
+   "municipalities": [
+    "11219"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 70,
+    "desde_2017": 1,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11061",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Cambieure : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11061",
+   "municipalities": [
+    "11061"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 61,
+    "desde_2017": 1,
+    "al_anio_antes": 0.67,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11105",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Cournanel : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11105",
+   "municipalities": [
+    "11105"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 61,
+    "desde_2017": 1,
+    "al_anio_antes": 1.0,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11358",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Saint-Martin-Lys : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11358",
+   "municipalities": [
+    "11358"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 45,
+    "desde_2017": 1,
+    "al_anio_antes": 0.44,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11142",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Festes-et-Saint-André : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11142",
+   "municipalities": [
+    "11142"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 44,
+    "desde_2017": 1,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11220",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Marseillette : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11220",
+   "municipalities": [
+    "11220"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 43,
+    "desde_2017": 1,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11296",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Pouzols-Minervois : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2011)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11296",
+   "municipalities": [
+    "11296"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2011,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2011,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 15,
+    "desde_2017": 1,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11325",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Rouffiac-d'Aude : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2018)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11325",
+   "municipalities": [
+    "11325"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2018,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2018,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 11,
+    "desde_2017": 1,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11200",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Lespinassière : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2007)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11200",
+   "municipalities": [
+    "11200"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2007,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2007,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 10,
+    "desde_2017": 1,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11075",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Castans : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11075",
+   "municipalities": [
+    "11075"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 8,
+    "desde_2017": 1,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11368",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Sallèles-Cabardès : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11368",
+   "municipalities": [
+    "11368"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 7,
+    "desde_2017": 1,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11273",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Paraza : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2011)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11273",
+   "municipalities": [
+    "11273"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 0,
+    "ppr_bleue": 1,
+    "reforma_aparente": 0,
+    "anio_ppr": 2011,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2011,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 3,
+    "desde_2017": 1,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.14,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11042",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Blomac : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (approuvé en 2013)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11042",
+   "municipalities": [
+    "11042"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2013,
+    "ppr_anticipado": false,
+    "anio_primer_ppr": 2013,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 9,
+    "desde_2017": 0,
+    "al_anio_antes": 0.22,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11233",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Mirepeisset : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11233",
+   "municipalities": [
+    "11233"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 6,
+    "desde_2017": 0,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11378",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Serviès-en-Val : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11378",
+   "municipalities": [
+    "11378"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 6,
+    "desde_2017": 0,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11113",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Cucugnan : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11113",
+   "municipalities": [
+    "11113"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 5,
+    "desde_2017": 0,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11215",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Malves-en-Minervois : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11215",
+   "municipalities": [
+    "11215"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 5,
+    "desde_2017": 0,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11020",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Auriac : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11020",
+   "municipalities": [
+    "11020"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 4,
+    "desde_2017": 0,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11332",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Saint-André-de-Roquelongue : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11332",
+   "municipalities": [
+    "11332"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 3,
+    "desde_2017": 0,
+    "al_anio_antes": 0.0,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
+    ]
+   }
+  },
+  {
+   "id": "FB-FR-11422",
+   "kind": "flood_building",
+   "country": "FR",
+   "date": "2025-01-01",
+   "title": "Villedubert : 1 bâtiment en zone rouge ou bleue du PPRi datés d'après le plan (appliqué par anticipation en 2001)",
+   "url": "https://asensio94.github.io/zona-inundable/fr/#m-11422",
+   "municipalities": [
+    "11422"
+   ],
+   "precision": "municipio",
+   "status": "provisional",
+   "value": {
+    "amount": 1,
+    "unit": "edificios"
+   },
+   "details": {
+    "ppr_rouge": 1,
+    "ppr_bleue": 0,
+    "reforma_aparente": 0,
+    "anio_ppr": 2001,
+    "ppr_anticipado": true,
+    "anio_primer_ppr": 2001,
+    "tras_primer_ppr": 1,
+    "en_zona_total": 1,
+    "desde_2017": 0,
+    "al_anio_antes": 0.11,
+    "al_anio_despues": 0.0,
+    "periodo_antes": [
+     2008,
+     2016
+    ],
+    "periodo_despues": [
+     2017,
+     2023
     ]
    }
   }
