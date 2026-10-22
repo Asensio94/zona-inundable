@@ -143,6 +143,7 @@ table.periodos th{white-space:normal}
     <span class="label">Comunitat Valenciana · SNCZI y Catastro · se actualiza cada mes</span>
   </div>
   <p class="lede">Cuántos edificios se han levantado dentro de las zonas inundables oficiales, año a año y municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó lo que se puede construir en ellas. Con los mapas del Ministerio para la Transición Ecológica y el año de construcción del Catastro.</p>
+  <p class="lede aviso"><b>En España es un piloto: por ahora solo cuenta la Comunitat Valenciana</b>. Todas las cifras españolas de esta página son de esa comunidad; el resto de España aún no está contado.</p>
   <div class="figures">
     <div><b>80.871</b><span>edificios en zona inundable</span></div>
     <div><b>2.777</b><span>con fecha de 2017 o después</span></div>
@@ -161,11 +162,12 @@ table.periodos th{white-space:normal}
       </div>
       <figure class="grafica" style="margin:0"><div id="grafica"></div>
         <figcaption class="leyenda" id="leyenda"></figcaption></figure>
+      <p class="note"><b>Flujo preferente</b> (ZFP): la franja por donde el agua corre con más fuerza y profundidad. <b>T100</b>: la zona que se inunda con la avenida de 100 años de periodo de retorno, la que tiene un 1 % de probabilidad de llegar cada año. <b>T500</b>: la de 500 años, un 0,2 % cada año. Cada edificio cuenta una sola vez, en la más estricta que le toca.</p>
       <p class="note">Edificios por año de construcción según el Catastro, en los municipios que tienen zona inundable cartografiada. Los años 2025 y 2026 salen más bajos porque el Catastro aún no ha dado de alta toda la obra terminada: son provisionales.</p>
     </div>
     <div>
       <h3 class="label">Antes y después del Real Decreto</h3>
-      <div class="tabla"><table class="params periodos"><tr><th>Periodo</th><th class="num">En zona inundable, al año</th><th class="num">Parte de la obra nueva</th><th class="num">En flujo preferente o T100, al año</th><th class="num">Parte de la obra nueva</th><th class="num">Parte, sin reformas aparentes</th></tr><tr><th>Burbuja <span class='data'>2000–2007</span></th><td class='num'>1.754,0</td><td class='num'>7,51 %</td><td class='num'>969,8</td><td class='num'>4,15 %</td><td class='num'>8,74 %</td></tr><tr><th>Antes <span class='data'>2008–2016</span></th><td class='num'>690,8</td><td class='num'>7,99 %</td><td class='num'>392,6</td><td class='num'>4,54 %</td><td class='num'>9,24 %</td></tr><tr><th>Después <span class='data'>2017–2024</span></th><td class='num'>317,4</td><td class='num'>10,55 %</td><td class='num'>163,9</td><td class='num'>5,45 %</td><td class='num'>11,80 %</td></tr></table></div>
+      <div class="tabla"><table class="params periodos"><tr><th>Periodo</th><th class="num">En zona inundable, media al año</th><th class="num">Parte de la obra nueva</th><th class="num">En flujo preferente o T100, media al año</th><th class="num">Parte de la obra nueva</th><th class="num">Parte, sin reformas aparentes</th></tr><tr><th>Burbuja <span class='data'>2000–2007</span></th><td class='num'>1.754</td><td class='num'>7,51 %</td><td class='num'>970</td><td class='num'>4,15 %</td><td class='num'>8,74 %</td></tr><tr><th>Antes <span class='data'>2008–2016</span></th><td class='num'>691</td><td class='num'>7,99 %</td><td class='num'>393</td><td class='num'>4,54 %</td><td class='num'>9,24 %</td></tr><tr><th>Después <span class='data'>2017–2024</span></th><td class='num'>317</td><td class='num'>10,55 %</td><td class='num'>164</td><td class='num'>5,45 %</td><td class='num'>11,80 %</td></tr></table></div>
       <p class="note">«Parte de la obra nueva»: edificios en zona inundable entre todos los construidos en esos años en los mismos municipios. Corrige el ciclo de la construcción, que se hundió después de 2008: si se construye menos en todas partes, la cifra al año baja aunque nada cambie en las zonas inundables.</p>
     </div>
   </div>
@@ -190,9 +192,9 @@ table.periodos th{white-space:normal}
   <div class="tabla"><table class="munis" id="tabla"><thead><tr>
     <th data-k="name">Municipio</th>
     <th data-k="zoned" class="num">En zona inundable</th>
-    <th data-k="zoned_zfp" class="num">Flujo preferente</th>
-    <th data-k="zoned_t100" class="num">T100</th>
-    <th data-k="zoned_t500" class="num">T500</th>
+    <th data-k="zoned_zfp" class="num" title="Zona de flujo preferente (ZFP)">Flujo preferente</th>
+    <th data-k="zoned_t100" class="num" title="Zona inundable con periodo de retorno de 100 años">T100</th>
+    <th data-k="zoned_t500" class="num" title="Zona inundable con periodo de retorno de 500 años">T500</th>
     <th data-k="post" class="num" aria-sort="descending">Desde 2017</th>
     <th data-k="post_mixed" class="num">De ellos, reforma aparente</th>
     <th data-k="pre_per_year" class="num">Al año 2008–2016</th>
@@ -200,7 +202,7 @@ table.periodos th{white-space:normal}
     <th data-k="pre_share" class="num">Parte de la obra nueva 2008–2016</th>
     <th data-k="post_share" class="num">Parte de la obra nueva 2017–2024</th>
   </tr></thead><tbody></tbody></table></div>
-  <p class="note">Cifras de edificios, no de viviendas: un bloque de pisos cuenta uno. Fuera de zona inundable no se lista ningún municipio.</p>
+  <p class="note">T100 y T500: zonas que se inundan con la avenida de 100 y de 500 años de periodo de retorno. «Al año»: media de edificios por año en ese periodo. Cifras de edificios, no de viviendas: un bloque de pisos cuenta uno. Fuera de zona inundable no se lista ningún municipio.</p>
 </section>
 
 <section class="method" id="metodo">
@@ -215,7 +217,7 @@ table.periodos th{white-space:normal}
       <li>El año del Catastro puede ser el de una reforma y no el de la obra. Cuando las partes de un edificio tienen fechas distintas se marca como reforma aparente, y cada comparación se repite sin ellas.</li>
     </ol>
     <h3>Parámetros</h3>
-    <table class="params"><tr><th>Zonas inundables</th><td>SNCZI del Ministerio para la Transición Ecológica: zona de flujo preferente y láminas de inundación de 100 y 500 años de periodo de retorno, servicio WFS</td></tr><tr><th>Mapas leídos</th><td>Flujo preferente: 366 polígonos, 465,7 km², aprobados entre 2011 y 2025; T100: 428 polígonos, 1.106,7 km², aprobados entre 1996 y 2026; T500: 432 polígonos, 1.508,4 km², aprobados entre 1996 y 2026</td></tr><tr><th>Edificios</th><td>Catastro INSPIRE, tema Edificios, un fichero por municipio; extracto de 2026-08</td></tr><tr><th>Año</th><td>fin de la fecha de construcción del edificio (dateOfConstruction/end)</td></tr><tr><th>Dentro o fuera</th><td>un punto interior de la huella del edificio dentro del polígono</td></tr><tr><th>Clase</th><td>excluyente y de la más estricta a la menos: flujo preferente, luego T100, luego T500</td></tr><tr><th>Antes</th><td>2008–2016 (9 años)</td></tr><tr><th>Después</th><td>2017–2024 (8 años)</td></tr><tr><th>Provisionales</th><td>2025–2026: el Catastro tarda en dar de alta la obra nueva; se muestran pero no entran en las comparaciones</td></tr><tr><th>Reforma aparente</th><td>el principio y el fin de la fecha de construcción se separan más de 1 año</td></tr><tr><th>Municipio</th><td>código INE (es-atlas, IGN) del municipio que tiene el mismo nombre a menos de 3 km de los edificios; si no está en es-atlas, «C» y el código del Catastro</td></tr></table>
+    <table class="params"><tr><th>Zonas inundables</th><td>SNCZI del Ministerio para la Transición Ecológica: zona de flujo preferente y láminas de inundación de 100 y 500 años de periodo de retorno, servicio WFS</td></tr><tr><th>Mapas leídos</th><td>Flujo preferente (ZFP): 366 polígonos, 465,7 km², aprobados entre 2011 y 2025; T100: 428 polígonos, 1.106,7 km², aprobados entre 1996 y 2026; T500: 432 polígonos, 1.508,4 km², aprobados entre 1996 y 2026</td></tr><tr><th>Edificios</th><td>Catastro INSPIRE, tema Edificios, un fichero por municipio; extracto de 2026-08</td></tr><tr><th>Año</th><td>fin de la fecha de construcción del edificio (dateOfConstruction/end)</td></tr><tr><th>Dentro o fuera</th><td>un punto interior de la huella del edificio dentro del polígono</td></tr><tr><th>ZFP, T100, T500</th><td>zona de flujo preferente; zona que se inunda con la avenida de 100 años de periodo de retorno (1 % de probabilidad cada año); la de 500 años (0,2 % cada año)</td></tr><tr><th>Clase</th><td>excluyente y de la más estricta a la menos: flujo preferente, luego T100, luego T500</td></tr><tr><th>Antes</th><td>2008–2016 (9 años)</td></tr><tr><th>Después</th><td>2017–2024 (8 años)</td></tr><tr><th>Provisionales</th><td>2025–2026: el Catastro tarda en dar de alta la obra nueva; se muestran pero no entran en las comparaciones</td></tr><tr><th>Reforma aparente</th><td>el principio y el fin de la fecha de construcción se separan más de 1 año</td></tr><tr><th>Municipio</th><td>código INE (es-atlas, IGN) del municipio que tiene el mismo nombre a menos de 3 km de los edificios; si no está en es-atlas, «C» y el código del Catastro</td></tr></table>
   </div>
   <div>
     <h3>Reforma u obra nueva</h3>
@@ -228,27 +230,27 @@ table.periodos th{white-space:normal}
     <p class="aviso">Navarra y el País Vasco tienen catastro propio, fuera del servicio estatal; cuando el proyecto llegue a toda España, allí no habrá cifras.</p>
     <p>El Catastro numera los municipios de otra forma que el INE. Cada municipio catastral se identifica por su nombre entre los municipios cercanos a sus edificios. Los pocos que no están en el mapa municipal de es-atlas salen con su código del Catastro precedido de «C».</p>
     <h3>Datos abiertos</h3>
-    <p><a href="edificios-municipios.csv">edificios-municipios.csv</a> (una fila por municipio) · <a href="edificios-anuales.csv">edificios-anuales.csv</a> (por municipio, clase y año) · <a href="signals.json">signals.json</a> · recuentos por municipio catastral en el <a href="https://github.com/Asensio94/zona-inundable/tree/main/data/counts">repositorio</a> · <a href="https://github.com/Asensio94/zona-inundable">código</a>. Generado el 13/10/2026 a las 19:24 UTC.</p>
+    <p><a href="edificios-municipios.csv">edificios-municipios.csv</a> (una fila por municipio) · <a href="edificios-anuales.csv">edificios-anuales.csv</a> (por municipio, clase y año) · <a href="signals.json">signals.json</a> (una señal por municipio con obra desde 2017 para Estado de las IBA; suman 2.764 edificios y no 2.777: el municipio Rafal (13) no está en es-atlas, no tiene código INE y el contrato de señales lo pide) · recuentos por municipio catastral en el <a href="https://github.com/Asensio94/zona-inundable/tree/main/data/counts">repositorio</a> · <a href="https://github.com/Asensio94/zona-inundable">código</a>. Generado el 22/10/2026 a las 10:19 UTC.</p>
   </div>
 </section>
 
 <footer class="site-footer">
   <p class="principle">Datos públicos, reglas a la vista y cada cifra enlazada a su fuente. Indicios, no veredictos.</p>
   <p>Zonas inundables: <a href="https://www.miteco.gob.es/es/agua/temas/gestion-de-los-riesgos-de-inundacion/snczi.html">SNCZI</a>, Ministerio para la Transición Ecológica y el Reto Demográfico · Edificios: <a href="https://www.catastro.hacienda.gob.es/webinspire/index.html">Catastro INSPIRE</a>, Dirección General del Catastro · Municipios: es-atlas, a partir de datos del Instituto Geográfico Nacional · Código MIT, recuentos propios CC BY 4.0.</p>
-  <nav aria-label="Proyectos hermanos"><ul class="siblings">
-    <li><a href="https://asensio94.github.io/observatorio-alegaciones/">Observatorio de alegaciones</a></li>
+  <p class="hub"><a href="https://asensio94.github.io/terra-aperta/">← Terra Aperta: todos los proyectos</a></p>
+  <nav aria-label="Proyectos hermanos">Proyectos hermanos:<ul class="siblings">
+    <li><a href="https://asensio94.github.io/sub-nocte/">Sub Nocte</a></li>
     <li><a href="https://asensio94.github.io/vigia-incendios/">Vigía de incendios</a></li>
     <li><a href="https://asensio94.github.io/centinela-natura/">Centinela Natura</a></li>
-    <li><a href="https://asensio94.github.io/vigilancia-humedales/">Vigilancia de humedales</a></li>
-    <li><a href="https://asensio94.github.io/sub-nocte/">Sub Nocte</a></li>
-    <li><a href="https://asensio94.github.io/riesgo-tendidos-aves/">Riesgo de tendidos para aves</a></li>
-    <li><a href="https://asensio94.github.io/grafo-promotores/">Grafo de promotores</a></li>
-    <li><a href="https://asensio94.github.io/cartera-cotizadas/">Cartera de las cotizadas</a></li>
-    <li><a href="https://asensio94.github.io/cuaderno-campo/">Cuaderno de campo</a></li>
-    <li><a href="https://asensio94.github.io/caudal-ecologico/">Caudal ecológico</a></li>
     <li><a href="https://asensio94.github.io/estado-iba/">Estado de las IBA</a></li>
-    <li><a href="https://asensio94.github.io/barbechos-esteparias/">Barbechos y aves esteparias</a></li>
-    <li aria-current="page"><a href="https://asensio94.github.io/zona-inundable/">Construir en zona inundable</a></li>
+    <li><a href="https://asensio94.github.io/riesgo-tendidos-aves/">Riesgo de tendidos para aves</a></li>
+    <li><a href="https://asensio94.github.io/observatorio-alegaciones/">Observatorio de alegaciones</a></li>
+    <li><a href="https://asensio94.github.io/grafo-promotores/">Grafo de promotores</a></li>
+    <li><a href="https://asensio94.github.io/vigilancia-humedales/">Vigilancia de humedales</a></li>
+    <li><a href="https://asensio94.github.io/caudal-ecologico/">Caudal ecológico</a></li>
+    <li><a href="https://asensio94.github.io/acuiferos-francia/">Acuíferos de Francia</a></li>
+    <li><a href="https://asensio94.github.io/depuracion-y-bano/">Depuración y baño</a></li>
+    <li aria-current="page">Construir en zona inundable</li>
   </ul></nav>
 </footer>
 
@@ -260,7 +262,7 @@ const num = (x,d=0) => {
   const [e, f] = Math.abs(x).toFixed(d).split(".");
   return (x < 0 ? "−" : "") + e.replace(/\B(?=(\d{3})+(?!\d))/g, ".") + (f ? "," + f : "");
 };
-const Z = ["zfp","t100","t500"], ZN = {zfp:"Flujo preferente", t100:"T100", t500:"T500"};
+const Z = ["zfp","t100","t500"], ZN = {zfp:"Flujo preferente", t100:"T100 (100 años)", t500:"T500 (500 años)"};
 const selD = document.getElementById("f-desde"), chkC = document.getElementById("f-cuota");
 
 function grafica(){
@@ -312,7 +314,7 @@ function tabla(){
   const F = M.filter(m => (!p || m.province === p) && (!q || m.name.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").includes(q)));
   F.sort((a,b) => { const u = a[orden], v = b[orden]; const c = typeof u === "string" ? u.localeCompare(v,"es") : (u ?? -1) - (v ?? -1); return asc ? c : -c; });
   document.querySelector("#tabla tbody").innerHTML = F.map(m => `<tr id="m-${m.ine}"><td class="nom">${m.name} <span class="note">${m.province_name}</span></td>`
-    + COLS.map(k => `<td class="num">${num(m[k], DEC[k] || 0)}${k.endsWith("share") && m[k] != null ? " %" : ""}</td>`).join("") + "</tr>").join("");
+    + COLS.map(k => `<td class="num">${num(m[k], k.endsWith("per_year") && m[k] >= 10 ? 0 : DEC[k] || 0)}${k.endsWith("share") && m[k] != null ? " %" : ""}</td>`).join("") + "</tr>").join("");
   document.getElementById("cuenta").textContent = `${num(F.length)} municipios`;
   for (const th of document.querySelectorAll("#tabla th")) {
     if (th.dataset.k === orden) th.setAttribute("aria-sort", asc ? "ascending" : "descending"); else th.removeAttribute("aria-sort");
