@@ -17,7 +17,7 @@ PROJECTS = [
     ("grafo-promotores", "Grafo de promotores", "Graphe des porteurs de projet", "grafo-promotores/"),
     ("vigilancia-humedales", "Vigilancia de humedales", "Veille des zones humides", "vigilancia-humedales/france.html"),
     ("caudal-ecologico", "Caudal ecológico", "Débit écologique", "caudal-ecologico/"),
-    ("acuiferos-francia", "Acuíferos de Francia", "Nappes de France", "acuiferos-francia/"),
+    ("acuiferos-francia", "Acuíferos de Francia", "Nappes de France", "acuiferos-francia/fr/"),
     ("depuracion-y-bano", "Depuración y baño", "Épuration et baignade", "depuracion-y-bano/fr/"),
     ("zona-inundable", "Construir en zona inundable", "Construire en zone inondable", "zona-inundable/"),
 ]
