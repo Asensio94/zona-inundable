@@ -1,6 +1,6 @@
 # Construir en zona inundable
 
-Cuántos edificios se han construido cada año dentro de las zonas inundables oficiales, municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó los usos en ellas. Cruza los mapas del Sistema Nacional de Cartografía de Zonas Inundables (SNCZI, Ministerio para la Transición Ecológica) con el año de construcción de los edificios del Catastro. Distingue la zona de flujo preferente (ZFP), la de 100 años (T100) y la de 500 años (T500). **Es un piloto: por ahora solo cuenta la Comunitat Valenciana**; el resto de España aún no está contado. Web: <https://asensio94.github.io/zona-inundable/>
+Cuántos edificios se han construido cada año dentro de las zonas inundables oficiales, municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó los usos en ellas. Cruza los mapas del Sistema Nacional de Cartografía de Zonas Inundables (SNCZI, Ministerio para la Transición Ecológica) con el año de construcción de los edificios del Catastro. Distingue la zona de flujo preferente (ZFP), la de 100 años (T100) y la de 500 años (T500). **En España es un piloto: por ahora solo cuenta la Comunitat Valenciana**; el resto de España aún no está contado. Web: <https://asensio94.github.io/zona-inundable/>
 
 > **Estado: mantenimiento.** Sigue funcionando y se corrigen sus fallos, pero por ahora no se le añaden funciones.
 

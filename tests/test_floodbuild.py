@@ -149,4 +149,4 @@ def test_signals_gap_is_explained():
 
 def test_page_explains_classes_and_pilot():
     assert "periodo de retorno" in web.PLANTILLA and "(ZFP)" in web.PLANTILLA
-    assert "Es un piloto" in web.PLANTILLA
+    assert "En España es un piloto" in web.PLANTILLA

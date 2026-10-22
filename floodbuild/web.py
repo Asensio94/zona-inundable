@@ -162,10 +162,10 @@ table.periodos th{white-space:normal}
 <header class="site-header">
   <div class="marca">
     <h1>__LOGO__Construir en <span>zona inundable</span></h1>
-    <span class="label">Piloto: __REGION__ · SNCZI y Catastro · se actualiza cada mes</span>
+    <span class="label">__REGION__ · SNCZI y Catastro · se actualiza cada mes</span>
   </div>
   <p class="lede">Cuántos edificios se han levantado dentro de las zonas inundables oficiales, año a año y municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó lo que se puede construir en ellas. Con los mapas del Ministerio para la Transición Ecológica y el año de construcción del Catastro.</p>
-  <p class="lede aviso"><b>Es un piloto: por ahora solo cuenta la __REGION__</b>. Todas las cifras de esta página son de esa comunidad; el resto de España aún no está contado.</p>
+  <p class="lede aviso"><b>En España es un piloto: por ahora solo cuenta la __REGION__</b>. Todas las cifras españolas de esta página son de esa comunidad; el resto de España aún no está contado.</p>
   <div class="figures">
     <div><b>__ZONED__</b><span>edificios en zona inundable</span></div>
     <div><b>__POST__</b><span>con fecha de __POSTFROM__ o después</span></div>
