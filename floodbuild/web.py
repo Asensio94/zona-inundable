@@ -8,6 +8,7 @@ from pathlib import Path
 
 from . import analysis, config, snczi, geo
 from .logo import LOGO_SVG, favicon_link
+from .footer import footer_nav
 
 COMMON_CSS = Path(__file__).with_name("common.css").read_text(encoding="utf-8").strip()
 ACCENT, ACCENT_DARK = "#4a5d75", "#a7b8cc"
@@ -250,21 +251,7 @@ table.periodos th{white-space:normal}
 <footer class="site-footer">
   <p class="principle">Datos públicos, reglas a la vista y cada cifra enlazada a su fuente. Indicios, no veredictos.</p>
   <p>Zonas inundables: <a href="https://www.miteco.gob.es/es/agua/temas/gestion-de-los-riesgos-de-inundacion/snczi.html">SNCZI</a>, Ministerio para la Transición Ecológica y el Reto Demográfico · Edificios: <a href="https://www.catastro.hacienda.gob.es/webinspire/index.html">Catastro INSPIRE</a>, Dirección General del Catastro · Municipios: es-atlas, a partir de datos del Instituto Geográfico Nacional · Código MIT, recuentos propios CC BY 4.0.</p>
-  <nav aria-label="Proyectos hermanos"><ul class="siblings">
-    <li><a href="https://asensio94.github.io/observatorio-alegaciones/">Observatorio de alegaciones</a></li>
-    <li><a href="https://asensio94.github.io/vigia-incendios/">Vigía de incendios</a></li>
-    <li><a href="https://asensio94.github.io/centinela-natura/">Centinela Natura</a></li>
-    <li><a href="https://asensio94.github.io/vigilancia-humedales/">Vigilancia de humedales</a></li>
-    <li><a href="https://asensio94.github.io/sub-nocte/">Sub Nocte</a></li>
-    <li><a href="https://asensio94.github.io/riesgo-tendidos-aves/">Riesgo de tendidos para aves</a></li>
-    <li><a href="https://asensio94.github.io/grafo-promotores/">Grafo de promotores</a></li>
-    <li><a href="https://asensio94.github.io/cartera-cotizadas/">Cartera de las cotizadas</a></li>
-    <li><a href="https://asensio94.github.io/cuaderno-campo/">Cuaderno de campo</a></li>
-    <li><a href="https://asensio94.github.io/caudal-ecologico/">Caudal ecológico</a></li>
-    <li><a href="https://asensio94.github.io/estado-iba/">Estado de las IBA</a></li>
-    <li><a href="https://asensio94.github.io/barbechos-esteparias/">Barbechos y aves esteparias</a></li>
-    <li aria-current="page"><a href="https://asensio94.github.io/zona-inundable/">Construir en zona inundable</a></li>
-  </ul></nav>
+  __FOOTER_NAV__
 </footer>
 
 <script>
@@ -390,6 +377,7 @@ def build() -> Path:
             .replace("__REFORMAS__", _reformas(s))
             .replace("__PAIPORTA__", _paiporta(munis))
             .replace("__REPO__", config.REPO_URL)
+            .replace("__FOOTER_NAV__", footer_nav("es"))
             .replace("__GENERATED__", now.strftime("%d/%m/%Y a las %H:%M UTC"))
             .replace("__DATOS__", json.dumps(datos, ensure_ascii=False, separators=(",", ":"))))
     config.DOCS.mkdir(parents=True, exist_ok=True)
