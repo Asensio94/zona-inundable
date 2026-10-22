@@ -130,3 +130,23 @@ def test_name_score_spellings():
     assert catastro.name_score("MONTCADA MONCADA", "Moncada") == 1.0
     assert catastro.name_score("ALCOCER DE PLANES", "Planes") == 0.0     # every Catastro word needs a partner
     assert catastro.name_score("RAFAL", "el Ràfol d'Almúnia") < 0.75
+
+
+def test_yearly_averages_are_whole_buildings():
+    assert web._al_anio(1754.0) == "1.754"
+    assert web._al_anio(969.8) == "970"
+    assert web._al_anio(0.4) == "0,4"
+    assert web._al_anio(None) == "—"
+
+
+def test_signals_gap_is_explained():
+    m = pd.DataFrame({"ine": ["46186", "C03109", "46001"], "name": ["Paiporta", "Rafal", "Ademuz"],
+                      "post": [54, 13, 0]})
+    t = web._senales(m)
+    assert "suman 54 edificios y no 67" in t and "Rafal (13)" in t and "código INE" in t
+    assert "y no" not in web._senales(m[m.ine != "C03109"])
+
+
+def test_page_explains_classes_and_pilot():
+    assert "periodo de retorno" in web.PLANTILLA and "(ZFP)" in web.PLANTILLA
+    assert "Es un piloto" in web.PLANTILLA

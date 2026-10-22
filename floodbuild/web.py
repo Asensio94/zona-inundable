@@ -23,6 +23,11 @@ def _pct(x: float | None, decimales: int = 1) -> str:
     return "—" if x is None else f"{_es(x, decimales)} %"
 
 
+def _al_anio(x: float | None) -> str:
+    """Average buildings per year: whole numbers; one decimal only below 10, where it still says something."""
+    return "—" if x is None else _es(x, 1 if x < 10 else 0)
+
+
 def _span(w) -> str:
     return f"{w[0]}–{w[1]}"
 
@@ -31,7 +36,7 @@ def _span(w) -> str:
 
 def _parametros(s: dict, zs: dict) -> str:
     w = s["windows"]
-    corto = {"zfp": "Flujo preferente", "t100": "T100", "t500": "T500"}
+    corto = {"zfp": "Flujo preferente (ZFP)", "t100": "T100", "t500": "T500"}
     mapas = "; ".join(f"{corto[k]}: "
                       f"{_es(v['n'])} polígonos, {_es(v['km2'], 1)} km², aprobados entre {v['first_year']} y {v['last_year']}"
                       for k, v in zs.items() if v["n"])
@@ -43,6 +48,8 @@ def _parametros(s: dict, zs: dict) -> str:
                       f"extracto de {', '.join(sorted({d[:7] for d in s['catastro_dates']})) or '—'}"),
         ("Año", "fin de la fecha de construcción del edificio (dateOfConstruction/end)"),
         ("Dentro o fuera", "un punto interior de la huella del edificio dentro del polígono"),
+        ("ZFP, T100, T500", "zona de flujo preferente; zona que se inunda con la avenida de 100 años de periodo "
+                            "de retorno (1 % de probabilidad cada año); la de 500 años (0,2 % cada año)"),
         ("Clase", "excluyente y de la más estricta a la menos: flujo preferente, luego T100, luego T500"),
         ("Antes", f"{_span(w['pre'])} ({w['pre'][1] - w['pre'][0] + 1} años)"),
         ("Después", f"{_span(w['post'])} ({w['post'][1] - w['post'][0] + 1} años)"),
@@ -61,11 +68,11 @@ def _periodos(p: dict) -> str:
         d = p[k]
         filas.append(
             f"<tr><th>{nombre} <span class='data'>{_span(d['years'])}</span></th>"
-            f"<td class='num'>{_es(d['per_year'], 1)}</td><td class='num'>{_pct(d['share'], 2)}</td>"
-            f"<td class='num'>{_es(d['restricted_per_year'], 1)}</td><td class='num'>{_pct(d['restricted_share'], 2)}</td>"
+            f"<td class='num'>{_al_anio(d['per_year'])}</td><td class='num'>{_pct(d['share'], 2)}</td>"
+            f"<td class='num'>{_al_anio(d['restricted_per_year'])}</td><td class='num'>{_pct(d['restricted_share'], 2)}</td>"
             f"<td class='num'>{_pct(d['share_clean'], 2)}</td></tr>")
-    return ('<div class="tabla"><table class="params periodos"><tr><th>Periodo</th><th class="num">En zona inundable, al año</th>'
-            '<th class="num">Parte de la obra nueva</th><th class="num">En flujo preferente o T100, al año</th>'
+    return ('<div class="tabla"><table class="params periodos"><tr><th>Periodo</th><th class="num">En zona inundable, media al año</th>'
+            '<th class="num">Parte de la obra nueva</th><th class="num">En flujo preferente o T100, media al año</th>'
             '<th class="num">Parte de la obra nueva</th><th class="num">Parte, sin reformas aparentes</th></tr>'
             + "".join(filas) + "</table></div>")
 
@@ -155,9 +162,10 @@ table.periodos th{white-space:normal}
 <header class="site-header">
   <div class="marca">
     <h1>__LOGO__Construir en <span>zona inundable</span></h1>
-    <span class="label">__REGION__ · SNCZI y Catastro · se actualiza cada mes</span>
+    <span class="label">Piloto: __REGION__ · SNCZI y Catastro · se actualiza cada mes</span>
   </div>
   <p class="lede">Cuántos edificios se han levantado dentro de las zonas inundables oficiales, año a año y municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó lo que se puede construir en ellas. Con los mapas del Ministerio para la Transición Ecológica y el año de construcción del Catastro.</p>
+  <p class="lede aviso"><b>Es un piloto: por ahora solo cuenta la __REGION__</b>. Todas las cifras de esta página son de esa comunidad; el resto de España aún no está contado.</p>
   <div class="figures">
     <div><b>__ZONED__</b><span>edificios en zona inundable</span></div>
     <div><b>__POST__</b><span>con fecha de __POSTFROM__ o después</span></div>
@@ -176,6 +184,7 @@ table.periodos th{white-space:normal}
       </div>
       <figure class="grafica" style="margin:0"><div id="grafica"></div>
         <figcaption class="leyenda" id="leyenda"></figcaption></figure>
+      <p class="note"><b>Flujo preferente</b> (ZFP): la franja por donde el agua corre con más fuerza y profundidad. <b>T100</b>: la zona que se inunda con la avenida de 100 años de periodo de retorno, la que tiene un 1 % de probabilidad de llegar cada año. <b>T500</b>: la de 500 años, un 0,2 % cada año. Cada edificio cuenta una sola vez, en la más estricta que le toca.</p>
       <p class="note">Edificios por año de construcción según el Catastro, en los municipios que tienen zona inundable cartografiada. Los años __PROV__ salen más bajos porque el Catastro aún no ha dado de alta toda la obra terminada: son provisionales.</p>
     </div>
     <div>
@@ -205,9 +214,9 @@ table.periodos th{white-space:normal}
   <div class="tabla"><table class="munis" id="tabla"><thead><tr>
     <th data-k="name">Municipio</th>
     <th data-k="zoned" class="num">En zona inundable</th>
-    <th data-k="zoned_zfp" class="num">Flujo preferente</th>
-    <th data-k="zoned_t100" class="num">T100</th>
-    <th data-k="zoned_t500" class="num">T500</th>
+    <th data-k="zoned_zfp" class="num" title="Zona de flujo preferente (ZFP)">Flujo preferente</th>
+    <th data-k="zoned_t100" class="num" title="Zona inundable con periodo de retorno de 100 años">T100</th>
+    <th data-k="zoned_t500" class="num" title="Zona inundable con periodo de retorno de 500 años">T500</th>
     <th data-k="post" class="num" aria-sort="descending">Desde __POSTFROM__</th>
     <th data-k="post_mixed" class="num">De ellos, reforma aparente</th>
     <th data-k="pre_per_year" class="num">Al año __PRE__</th>
@@ -215,7 +224,7 @@ table.periodos th{white-space:normal}
     <th data-k="pre_share" class="num">Parte de la obra nueva __PRE__</th>
     <th data-k="post_share" class="num">Parte de la obra nueva __POSTW__</th>
   </tr></thead><tbody></tbody></table></div>
-  <p class="note">Cifras de edificios, no de viviendas: un bloque de pisos cuenta uno. Fuera de zona inundable no se lista ningún municipio.</p>
+  <p class="note">T100 y T500: zonas que se inundan con la avenida de 100 y de 500 años de periodo de retorno. «Al año»: media de edificios por año en ese periodo. Cifras de edificios, no de viviendas: un bloque de pisos cuenta uno. Fuera de zona inundable no se lista ningún municipio.</p>
 </section>
 
 <section class="method" id="metodo">
@@ -243,7 +252,7 @@ table.periodos th{white-space:normal}
     <p class="aviso">Navarra y el País Vasco tienen catastro propio, fuera del servicio estatal; cuando el proyecto llegue a toda España, allí no habrá cifras.</p>
     <p>El Catastro numera los municipios de otra forma que el INE. Cada municipio catastral se identifica por su nombre entre los municipios cercanos a sus edificios. Los pocos que no están en el mapa municipal de es-atlas salen con su código del Catastro precedido de «C».</p>
     <h3>Datos abiertos</h3>
-    <p><a href="edificios-municipios.csv">edificios-municipios.csv</a> (una fila por municipio) · <a href="edificios-anuales.csv">edificios-anuales.csv</a> (por municipio, clase y año) · <a href="signals.json">signals.json</a> · recuentos por municipio catastral en el <a href="__REPO__/tree/main/data/counts">repositorio</a> · <a href="__REPO__">código</a>. Generado el __GENERATED__.</p>
+    <p><a href="edificios-municipios.csv">edificios-municipios.csv</a> (una fila por municipio) · <a href="edificios-anuales.csv">edificios-anuales.csv</a> (por municipio, clase y año) · <a href="signals.json">signals.json</a> (__SIGNALS__) · recuentos por municipio catastral en el <a href="__REPO__/tree/main/data/counts">repositorio</a> · <a href="__REPO__">código</a>. Generado el __GENERATED__.</p>
   </div>
 </section>
 
@@ -275,7 +284,7 @@ const num = (x,d=0) => {
   const [e, f] = Math.abs(x).toFixed(d).split(".");
   return (x < 0 ? "−" : "") + e.replace(/\B(?=(\d{3})+(?!\d))/g, ".") + (f ? "," + f : "");
 };
-const Z = ["zfp","t100","t500"], ZN = {zfp:"Flujo preferente", t100:"T100", t500:"T500"};
+const Z = ["zfp","t100","t500"], ZN = {zfp:"Flujo preferente", t100:"T100 (100 años)", t500:"T500 (500 años)"};
 const selD = document.getElementById("f-desde"), chkC = document.getElementById("f-cuota");
 
 function grafica(){
@@ -327,7 +336,7 @@ function tabla(){
   const F = M.filter(m => (!p || m.province === p) && (!q || m.name.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").includes(q)));
   F.sort((a,b) => { const u = a[orden], v = b[orden]; const c = typeof u === "string" ? u.localeCompare(v,"es") : (u ?? -1) - (v ?? -1); return asc ? c : -c; });
   document.querySelector("#tabla tbody").innerHTML = F.map(m => `<tr id="m-${m.ine}"><td class="nom">${m.name} <span class="note">${m.province_name}</span></td>`
-    + COLS.map(k => `<td class="num">${num(m[k], DEC[k] || 0)}${k.endsWith("share") && m[k] != null ? " %" : ""}</td>`).join("") + "</tr>").join("");
+    + COLS.map(k => `<td class="num">${num(m[k], k.endsWith("per_year") && m[k] >= 10 ? 0 : DEC[k] || 0)}${k.endsWith("share") && m[k] != null ? " %" : ""}</td>`).join("") + "</tr>").join("");
   document.getElementById("cuenta").textContent = `${num(F.length)} municipios`;
   for (const th of document.querySelectorAll("#tabla th")) {
     if (th.dataset.k === orden) th.setAttribute("aria-sort", asc ? "ascending" : "descending"); else th.removeAttribute("aria-sort");
@@ -357,6 +366,23 @@ def _paiporta(munis) -> str:
     r = r.iloc[0]
     return (f"{_es(r.zoned)} edificios en zona inundable: {_es(r.zoned_zfp)} en flujo preferente, {_es(r.zoned_t100)} en "
             f"la de 100 años y {_es(r.zoned_t500)} en la de 500 años.")
+
+
+def _senales(munis) -> str:
+    """Why signals.json adds up to less than the page: it only takes municipalities with an INE code."""
+    con = munis[munis.post > 0] if len(munis) else munis
+    if not len(con):
+        return "una señal por municipio con obra desde " + str(config.RD_YEAR + 1)
+    fuera = con[con.ine.str.startswith("C")]
+    total, sin = int(con.post.sum()), int(fuera.post.sum())
+    txt = (f"una señal por municipio con obra desde {config.RD_YEAR + 1} para Estado de las IBA; "
+           f"suman {_es(total - sin)} edificios")
+    if not len(fuera):
+        return txt
+    nombres = ", ".join(escape(n) for n in fuera.name)
+    return (f"{txt} y no {_es(total)}: {'el municipio' if len(fuera) == 1 else 'los municipios'} {nombres} "
+            f"({_es(sin)}) no {'está' if len(fuera) == 1 else 'están'} en es-atlas, no {'tiene' if len(fuera) == 1 else 'tienen'} "
+            "código INE y el contrato de señales lo pide")
 
 
 def build() -> Path:
@@ -389,6 +415,7 @@ def build() -> Path:
             .replace("__PARAMETROS__", _parametros(s, zs))
             .replace("__REFORMAS__", _reformas(s))
             .replace("__PAIPORTA__", _paiporta(munis))
+            .replace("__SIGNALS__", _senales(munis))
             .replace("__REPO__", config.REPO_URL)
             .replace("__GENERATED__", now.strftime("%d/%m/%Y a las %H:%M UTC"))
             .replace("__DATOS__", json.dumps(datos, ensure_ascii=False, separators=(",", ":"))))

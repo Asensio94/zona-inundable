@@ -47,7 +47,9 @@ def build() -> Path:
             "label": " · ".join(config.REGIONS.values()),
             "sites": None,
             "note": "Edificios del Catastro con fecha de construcción posterior a 2016 dentro de las zonas "
-                    "inundables del SNCZI (flujo preferente, T100 y T500). El año puede ser de una reforma.",
+                    "inundables del SNCZI (flujo preferente, T100 y T500). El año puede ser de una reforma. "
+                    "Es un piloto regional. Los municipios sin código INE (no están en es-atlas) "
+                    "no tienen señal, así que la suma puede quedar por debajo del total de la web.",
         },
         "signals": [_signal(m, date, s["windows"]) for m in rows],
     }
