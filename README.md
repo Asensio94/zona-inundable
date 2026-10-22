@@ -1,19 +1,19 @@
 # Construir en zona inundable
 
-Cuántos edificios se han construido cada año dentro de las zonas inundables oficiales, municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó los usos en ellas. Cruza los mapas del Sistema Nacional de Cartografía de Zonas Inundables (SNCZI, Ministerio para la Transición Ecológica) con el año de construcción de los edificios del Catastro. Distingue la zona de flujo preferente, la de 100 años y la de 500 años. Piloto: Comunitat Valenciana. Web: <https://asensio94.github.io/zona-inundable/>
+Cuántos edificios se han construido cada año dentro de las zonas inundables oficiales, municipio a municipio, y si el ritmo cambió cuando el Real Decreto 638/2016 limitó los usos en ellas. Cruza los mapas del Sistema Nacional de Cartografía de Zonas Inundables (SNCZI, Ministerio para la Transición Ecológica) con el año de construcción de los edificios del Catastro. Distingue la zona de flujo preferente (ZFP), la de 100 años (T100) y la de 500 años (T500). **En España es un piloto: por ahora solo cuenta la Comunitat Valenciana**; el resto de España aún no está contado. Web: <https://asensio94.github.io/zona-inundable/>
 
 > **Estado: mantenimiento.** Sigue funcionando y se corrigen sus fallos, pero por ahora no se le añaden funciones.
 
 ## Cómo funciona
 
-1. Descarga del servicio WFS del SNCZI las tres capas (zona de flujo preferente, lámina de 100 años y lámina de 500 años), en ETRS89 / UTM 30N y limitadas a cada provincia. Las descargas en shapefile de la web del ministerio están tras un reto antibots; el WFS es la vía documentada para máquinas.
+1. Descarga del servicio WFS del SNCZI las tres capas (zona de flujo preferente o ZFP, la franja por donde el agua corre con más fuerza y profundidad; lámina de 100 años o T100, la zona que se inunda con la avenida de 100 años de periodo de retorno, un 1 % de probabilidad cada año; y lámina de 500 años o T500, un 0,2 % cada año), en ETRS89 / UTM 30N y limitadas a cada provincia. Las descargas en shapefile de la web del ministerio están tras un reto antibots; el WFS es la vía documentada para máquinas.
 2. Lee el ATOM de edificios del Catastro INSPIRE por oficina territorial y se queda con los municipios cuyo recuadro toca algún polígono inundable.
 3. Para cada uno de esos municipios descarga el fichero de edificios y lee de cada edificio la huella, la fecha de construcción (principio y fin), el uso y el número de viviendas. Los municipios al este del meridiano de Greenwich (la Marina Alta) vienen en el huso UTM 31 y se pasan al 30. No lee la referencia catastral ni nada que lleve al titular.
 4. Cada edificio va a una sola clase, la más estricta en la que cae un punto interior de su huella: flujo preferente, luego 100 años, luego 500 años, luego fuera. También se apunta el año en que se aprobó el primer mapa que lo cubre.
 5. Guarda solo los recuentos por clase y año de construcción en `data/counts/`. Un municipio se vuelve a contar únicamente cuando cambia su fichero del Catastro o cualquier mapa del SNCZI.
 6. Asigna cada municipio catastral a su código INE, porque la numeración del Catastro no es la del INE (Paiporta es 46188 en uno y 46186 en el otro). Busca entre los municipios a menos de 3 km de sus edificios el que tiene el mismo nombre; no basta con mirar dónde caen, porque los límites de es-atlas están tan simplificados que la mayoría de los edificios de Mislata caen dentro del contorno de València.
 7. Compara lo construido después de 2016 (de 2017 al año del extracto menos dos) con 2008-2016: edificios al año y parte de toda la obra nueva del municipio que cae en zona inundable. La parte corrige el ciclo de la construcción, que se hundió después de 2008. Los dos últimos años se muestran como provisionales porque el Catastro tarda en dar de alta la obra nueva.
-8. Genera `docs/index.html`, los CSV abiertos y `docs/signals.json` para Estado de las IBA.
+8. Genera `docs/index.html`, los CSV abiertos y `docs/signals.json` para Estado de las IBA. El contrato de señales pide el código INE, así que los municipios que no están en es-atlas (hoy Rafal, con 13 edificios desde 2017) no tienen señal: las señales suman 2.764 edificios y la web, 2.777. La web lo dice junto al enlace a `signals.json`.
 
 ## Contraste
 
