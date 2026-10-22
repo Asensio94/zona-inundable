@@ -7,8 +7,8 @@ from html import escape
 from pathlib import Path
 
 from . import analysis, config, snczi, geo
-from .footer import footer_nav
 from .logo import LOGO_SVG, favicon_link
+from .footer import footer_nav
 
 COMMON_CSS = Path(__file__).with_name("common.css").read_text(encoding="utf-8").strip()
 ACCENT, ACCENT_DARK = "#4a5d75", "#a7b8cc"
