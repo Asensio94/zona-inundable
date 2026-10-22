@@ -55,6 +55,17 @@ jobs:
         continue-on-error: true
         run: python -m floodbuild buildings
 
+      # Francia: GASPAR cada semana, zonificación de los PPR, atlas y TRI de cada departamento.
+      - name: Zonas inundables de Francia
+        run: python -m floodbuild fr-zones
+
+      # Solo se recuenta un departamento si cambió el millésime de la BDNB o algún mapa.
+      - name: Edificios de Francia
+        if: ${{ !inputs.web_only }}
+        timeout-minutes: 30
+        continue-on-error: true
+        run: python -m floodbuild fr-buildings
+
       - name: Página y señales
         run: python -m floodbuild web
 
